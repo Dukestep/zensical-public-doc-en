@@ -1,0 +1,127 @@
+![ECCC logo](../../img_eccc-logo.png)
+
+# Regional Deterministic Prediction System (RDPS) data 
+
+The fields of the dataset from the [Regional Deterministic Prediction System (RDPS)](readme_rdps.md) are available both on a polar stereographic grid covering North America and adjacents waters with a resolution of 10 km, and on a rotated lat-lon grid covering a larger area that also includes the Caribbean and all of Mexico, as well as part of Northern Europe.
+
+## Data location 
+
+MSC Datamart data can be [automatically retrieved with the Advanced Message Queuing Protocol (AMQP)](../../msc-datamart/amqp.md) as soon as they become available. An [overview and examples to access and use the Meteorological Service of Canada's open data](../../usage/index.md) is also available.
+
+The data is available using the HTTPS protocol and resides in a directory that is plainly accessible to a web browser. Visiting that directory with an interactive browser will yield a raw listing of links, each link being a downloadable GRIB2 or GeoJSON file.
+
+The data can be accessed at the following URLs: 
+
+* [https://dd.weather.gc.ca/today/model_rdps/10km/{HH}/{hhh}/](https://dd.weather.gc.ca/today/model_rdps) 
+
+where :
+
+* __HH__: Model run start, in UTC `[00, 06, 12, 18]`
+* __hhh__: Forecast hour `[000, 001, 002,..., 084]`
+
+## Technical specification of the grid
+
+![Rotated lat-lon grid image of RDPS](https://collaboration.cmc.ec.gc.ca/cmc/cmos/public_doc/msc-data/nwp_rdps/grille_rdps_Rlatlon.png)
+
+Values given to the parameters of the rotated lat-lon grid :
+
+| Parameter | Value |
+| ------ | ------ |
+| ni | 1102 |
+| nj | 1076 | 
+| resolution at 60° N | 10km |
+| coordinates of the first grid point | 48.5° S ; 62.6° W |
+
+## Filename nomenclature 
+
+The files have the following nomenclature:
+
+`{YYYYMMDD}T{HH}Z_MSC_RDPS_{VAR}_{LVLTYPE-LVL}_{Grid}{resolution}_PT{hhh}H.${format}`
+
+where :
+
+* __YYYYMMDD__ : Year, month and day of the beginning of the forecast
+* __T__: Time delimiter according to ISO8601 standards
+* __HH__: UTC run time `[00, 12]`
+* __Z__: Time zone (UTC time)
+* __MSC__: Constant string for Meteorological Service of Canada, the data source
+* __RDPS__: Constant string indicating that the data comes from the Resolution Deterministic Prediction System 
+* __VAR__: Type of variable contained in the file (e.g. AirTemp)
+* __LVLTYPE-LVL__ : Vertical level and height `[ex: Sfc for the surface, EAtm for the integral of the column, DBS-10to20cm layer between 10 and 20cm below the surface, AGL-10m for the height of 10m above ground]`
+* __Grid__ : Horizontal grid `[RLatLon]`
+* __resolution__ : 0.09. Means a resolution of 0.09° (approx. 10km) in longitudinal and latitudinal directions
+* __PT{hhh}H__: Timing according to [ISO8601](https://en.wikipedia.org/wiki/ISO_8601). P, T and H are constant characters for Period, Time and Hour. "hhh" represents the forecast time `[000, 001, 002, ..., 084]`
+* __format__: Constant character string indicating the format `[grib2, json]`
+
+Examples of file names:
+
+* 20250604T00Z_MSC_RDPS_GeopotentialHeight_IsbL-0100_RLatLon0.09_PT024H.grib2
+* 20250604T00Z_MSC_RDPS_WindDir_AGL-10m_RLatLon0.09_PT024H.grib2
+
+## Levels
+
+Vertical coverage of three-dimensional fields is provided by up to 33 isobaric levels.
+
+* Isobaric levels (hPa): 1015, 1000, 985, 970, 950, 925, 900, 850, 800, 750, 700, 650, 600, 550, 500, 450, 400, 350, 300, 275, 250, 225, 200, 175, 150, 100, 50.
+
+    * Additional levels 30, 20, 10, 5 et 1 hPa for the variables TMP, HGT, UGRD, VGRD, WIND, WDIR, SPFH
+
+    * Additional levels 30, 20 et 10 hPa for the variables RH et DEPR
+
+* Some fields receive limited three-dimensional coverage of five levels in the vertical, namely 850, 700, 600, 500, 250 hPa.
+
+Additional levels that may be applicable to a given parameter are :
+
+* Surface
+* Fixed height above ground
+* Fixed height below ground
+* Thickness between two isobaric levels
+* Nominal top of the atmosphere
+* Entire atmospheric column
+
+## List of variables
+
+The list of available variables is:
+
+<table id="csv-table" class="display"></table>
+
+<link href="https://cdn.jsdelivr.net/npm/simple-datatables@latest/dist/style.css" rel="stylesheet" type="text/css">
+<script src="https://cdn.jsdelivr.net/npm/simple-datatables@latest"></script>
+<script src="../../../js/variables_datatable.js" type="text/javascript"></script>
+<script>
+  loadTable("csv-table", "../../../assets/csv/RDPS_Variables-List_en.csv");
+</script>
+
+The astronomy variables, related to sky conditions, are as follows:
+
+<table id="csv-table-astro" class="display"></table>
+
+<link href="https://cdn.jsdelivr.net/npm/simple-datatables@latest/dist/style.css" rel="stylesheet" type="text/css">
+<script src="https://cdn.jsdelivr.net/npm/simple-datatables@latest"></script>
+<script src="../../../js/variables_datatable.js" type="text/javascript"></script>
+<script>
+  loadTable("csv-table-astro", "../../../assets/csv/RDPS-Astronomy_Variables-List_en.csv");
+</script>
+
+
+Notes :
+
+* u (UGRD) and v (VGRD) components of the wind vector are to be resolved relative to the defined grid, in the direction of increasing i and j coordinates. Please refer to Code Table 7 of the GRIB standard for further details.
+* Radiation fluxes parameters NLWRS_SFC, DSWRF_NTAT, and DLWRF_NTAT are encoded as accumulated values, as per value 4 of the Time Range Indicator (Code Table 5 of the GRIB format standard). This changes the unit from Watts per square metre to Joules per square meter.
+* Specific Humidity (SPFH) is the model's native moisture variable. It should be used in all NWP applications. Dew point depression (DEPR) is a diagnostic parameter and is not meant for use in high-precision applications.
+* The Storm Severity Index ([SSI](https://collaboration.cmc.ec.gc.ca/cmc/cmos/public_doc/msc-data/nwp_rdps/SSI_en.png)) has been developped by ECCC in the late 80s.
+* UV index maximums are daily maximums based on the current hour and the previous 23 hours (also applies to UV index under clear sky). They are available at the following forecast hours, depending on the system run:
+    * 00Z run: 18h, 42h and 66h
+    * 06Z run: 12h, 36h and 60h
+    * 12Z run: 6h , 30h and 54h
+    * 18Z run: 0h , 24h and 48h
+* High-pressure (High) and low-pressure (Low) centers are also available as points (GeoJSON format) across the domain; the unit is hPa.
+    
+## Support
+
+If you have any questions about this data, please [contact us](https://weather.gc.ca/mainmenu/contact_us_e.html).
+
+## Announcements from the dd_info mailing list 
+
+Announcements related to this dataset are available in the [dd_info list](https://comm.collab.science.gc.ca/mailman3/postorius/lists/dd_info/).
+

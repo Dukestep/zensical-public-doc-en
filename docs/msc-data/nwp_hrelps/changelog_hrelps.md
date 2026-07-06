@@ -1,0 +1,32 @@
+![ECCC logo](../../img_eccc-logo.png)
+
+# Chronology of changes to the High Resolution Ensemble Land Surface Prediction System (HRELPS)
+
+## Thursday May 1, 2025
+
+### The High Resolution Ensemble Land Surface Prediction System (HRELPS) is declared operational at the Canadian Meteorological Centre
+
+Effective May 1st, 2025, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada declared operational the High Resolution Ensemble Land Surface Prediction System (HRELPS, v1.2.2)
+
+## Tuesday June 11, 2024
+
+### Upgrade to Version 1.2.0 of the High Resolution Ensemble Land Surface Prediction System (HRELPS) at the Canadian Meteorological Centre
+
+On Tuesday June 11, 2024, starting with the 1200 UTC run, the Meteorological Service of Canada's Canadian Meteorological Centre (CMC) will upgrade the High Resolution Ensemble Land Surface Prediction System (HRELPS) to v1.2.0
+
+Significant changes:
+
+* Use of the SPS 6.2.1 Surface Prediction System, in which the wet-thermometer temperature-based approach to precipitation phase distribution improves precipitation phase estimates and snowpack simulations.
+* Correction of summertime cold biases over North American lakes, particularly for lakes such as Winnipeg and Saint-Pierre.
+
+A brief summary of the innovations included in this upgrade and their impact on performance can be found in [this document](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/fact_sheets/factsheet_hrelps-120_e.pdf).
+
+The official note announcing this implementation is available [at this link](https://dd.meteo.gc.ca/doc/genots/2024/06/10/NOCN03_CWAO_101857___46443).
+
+The technical specifications document is available [at this link](https://collaboration.cmc.ec.gc.ca/cmc/CMOI/product_guide/docs/tech_specifications/tech_specifications_HRELPS_1.2.0_e.pdf).
+
+
+
+
+
+

@@ -1,0 +1,157 @@
+![ECCC logo](../img_eccc-logo.png)
+
+# Thunderstorms :material-weather-lightning:
+
+This page presents a list of relevant Meteorological Service of Canada datasets under the thunderstroms theme, in order to guide users to the appropriate datasets. This list is not exhaustive, but provides an overview of the layers that can be used under this theme. The main data layers for this theme are wind variables and precipitation quantities. However, a number of other relevant layers can also provide additional information on the subject, such as thunderstorm occurrence probability, showalter or unstable parcel uplift indices, to name but a few examples.
+
+Example of an interactive map featuring the Web Map Service (WMS) layers `HRDPS - Instantaneous precipitation rate`, `Current Weather Alerts` and `HRDPS - Showalter Index` (active on the map), as well as other optional layers that can be added by checking the boxes in the list in the map. The layers are served by MSC GeoMet.
+
+
+Layers shown in preview below can also be viewed on MSC AniMet via a single [permalink](https://eccc-msc.github.io/msc-animet/?layers=HRDPS-WEonG_2.5km_Thunderstorm-Prob;0.75;0;0;0;1,HRDPS-WEonG_2.5km_WindGust;0.75;0;0;0;1,HRDPS-WEonG_2.5km_Precip-Prob;0.75;0;0;0;1,HRDPS.CONTINENTAL.CONV_SHWINX.500;0.75;0;1;0;1,Current-Alerts;0.75;0;1;0;1,HRDPS.CONTINENTAL_RT;0.75;0;1;0;1) for all variables.
+
+
+<div id="map" style="height: 500px; position: relative">
+  <div id="legend-popup">
+    <div id="legend-popup-content">
+      <img id="legend-img" style="display: flex; max-height: 400px;" src="" />
+    </div>
+  </div>
+
+  <div id="switch-content" style="position: absolute; z-index: 1; bottom: 40px; left: 8px;">
+    <div id="switch-case">
+        <label>
+          <input type="checkbox" id="layer2" checked>
+          <span onmouseover="updateLegend('https://geo.weather.gc.ca/geomet?version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=HRDPS.CONTINENTAL_RT&format=image/png&STYLE=PRECIPPRTMMH')">Instantaneous precipitation rate</span>
+        </label></br>
+        <label>
+          <input type="checkbox" id="layer4" checked>
+          <span onmouseover="updateLegend('https://geo.weather.gc.ca/geomet?version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Current-Alerts&format=image/png')">Weather Alerts</span>
+        </label></br>
+        <label>
+          <input type="checkbox" id="layer1" checked>
+          <span onmouseover="updateLegend('https://geo.weather.gc.ca/geomet?version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=HRDPS.CONTINENTAL.CONV_SHWINX.500&format=image/png&STYLE=LIFTED_INDEX-LINEAR')">Showalter index</span>
+        </label></br>
+        <label>
+          <input type="checkbox" id="layer3">
+          <span onmouseover="updateLegend('https://geo.weather.gc.ca/geomet?version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=HRDPS-WEonG_2.5km_Precip-Prob&format=image/png&STYLE=Precip-Prob')">Probability of precipitation</span>
+        </label></br>
+        <label>
+          <input type="checkbox" id="layer5">
+          <span onmouseover="updateLegend('https://geo.weather.gc.ca/geomet?version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=HRDPS-WEonG_2.5km_WindGust&format=image/png&STYLE=GUST_INTERV_MS2KTS')">Gust</span>
+        </label></br>
+        <label>
+          <input type="checkbox" id="layer6">
+          <span onmouseover="updateLegend('https://geo.weather.gc.ca/geomet?version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=HRDPS-WEonG_2.5km_Thunderstorm-Prob&format=image/png&STYLE=Thunderstorm-Prob')">Probability of thunderstorm</span>
+        </label></br>
+    </div>
+  </div>
+</div>
+</br>
+
+
+## Datasets
+
+It should be noted that the various layers presented in the list are available at different resolutions and timeframes.
+
+##### &emsp;<span class="badge badge-info">HRDPS at surface/near-surface fields</span>
+###### &emsp;[HRDPS data documentation](../msc-data/nwp_hrdps/readme_hrdps.md)
+* Instantaneous precipitation rate
+* Convective precipitation
+* Cloud water
+* Showalter Index, with reference level 500.0 mb
+* Lifted index for the most unstable parcel</br>
+
+##### &emsp;<span class="badge badge-info">HRDPS - Weather Elements on Grid</span>
+###### &emsp;[HRDPS data documentation](../msc-data/nwp_hrdps/readme_hrdps.md)
+* Probability of thunderstorm occurence
+* Wind speed
+* Wind direction
+* Gust
+* Temperature
+* Probability of precipitation
+* Dew point temperature</br>
+
+##### &emsp;<span class="badge badge-info">RESPS</span>
+###### &emsp;[RESPS data documentation](../msc-data/nwp_resps/readme_resps.md)
+* Storm surge - Atlantic North West (control member)
+* Storm surge - Atlantic North West (1)
+* Storm surge - Atlantic North West (2)
+* Storm surge - Atlantic North West (3)
+* Storm surge - Atlantic North West (4)
+* Storm surge - Atlantic North West (5)
+* Storm surge - Atlantic North West (6)</br>
+
+##### &emsp;<span class="badge badge-info">Radar</span>
+###### &emsp;[Radar data documentation](../msc-data/obs_radar/readme_radar.md)
+* Radar precipitation rate for rain
+* Radar extrapolation precipitation rate</br>
+
+##### &emsp;<span class="badge badge-info">Satellite</span>
+###### &emsp;[Satellite documentation](../msc-data/obs_satellite/readme_satellite.md)
+* Day Cloud Convection product
+* Visible IR Sandwich product
+* Night Microphysics and IR</br>
+
+##### &emsp;<span class="badge badge-info">Others</span>
+
+* [Weather Alerts](../msc-data/alerts/readme_alerts.md)
+* [Current Conditions](../msc-data/citypage-weather/readme_citypageweather.md)
+* [Thunderstorm Outlooks](../msc-data/thunderstorm-outlooks/readme_thunderstorm-outlooks.md)
+* [Lightning Flash Density over Canada](../msc-data/lightning/readme_lightning.md)
+* [GDSPS - Storm surge](../msc-data/nwp_gdsps/readme_gdsps.md)
+
+
+<style>
+  #legend-img {
+    margin: 0px;
+  }
+  #legend-popup {
+    position: absolute;
+    top: 40px;
+    right: 8px;
+    z-index: 2;
+  }
+  .legend-switch{
+    top: 8px;
+    right: .5em;
+  }
+  .ol-touch .legend-switch {
+    top: 80px;
+  }
+ #switch-content {
+  background-color: white;
+  border-radius: 6px;
+  padding: 7px;
+ }
+ label {
+  font-size: 14px;
+  margin-bottom: 0px;
+ }
+ input[type="checkbox"] {
+  width: 14px;
+  height: 14px;
+  }
+</style>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@v7.3.0/ol.css" type="text/css"/>
+<link rel="stylesheet" href="../../css/weather-icons-master/css/weather-icons.min.css">
+<script src="https://cdn.jsdelivr.net/npm/ol@v7.3.0/dist/ol.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/1.3.3/FileSaver.min.js"></script>
+<script>
+    function isIE() {
+      return window.navigator.userAgent.match(/(MSIE|Trident)/);
+    }
+    var head = document.getElementsByTagName('head')[0];
+    var js = document.createElement("script");
+    js.type = "text/javascript";
+    if (isIE())
+    {
+        js.src = "../../js/thunderstorms_theme_ie.js";
+        document.getElementById("controller").setAttribute("hidden", true);
+    }
+    else
+    {
+        js.src = "../../js/thunderstorms_theme.js";
+    }
+    head.appendChild(js);
+</script>

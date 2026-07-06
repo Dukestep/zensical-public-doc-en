@@ -1,0 +1,131 @@
+
+![ECCC logo](../img_eccc-logo.png)
+
+# Cold spells :material-snowflake:
+
+This page presents a list of relevant Meteorological Service of Canada datasets under the Cold Waves theme, in order to guide users to the appropriate datasets. This list is not exhaustive, but provides an overview of the layers that can be used under this theme. The main data layers for this theme are temperature and wind chill. However, a number of other relevant layers can also provide additional information on the subject, such as wind variables or cloud cover, to name just two examples.
+
+Example of an interactive map featuring the Web Map Service (WMS) layers `HRDPS-WEonG - Temperature`, `Current Weather Alerts` and `Current Conditions` (active on the map), as well as other optional layers that can be added by checking the boxes in the list in the map. The layers are served by MSC GeoMet.
+
+Layers shown in preview below can also be viewed on MSC AniMet via a single [permalink](https://eccc-msc.github.io/msc-animet/?layers=HRDPS.CONTINENTAL_UTCI;0.75;0;0;0;1,RDPS-WEonG_10km_DominantPrecipType;0.75;0;0;0;1,REPS.DIAG.3_WCF.ERMEAN;0.75;0;0;0;1,HRDPS-WEonG_2.5km_AirTemp;0.75;0;1;0;1,CURRENT_CONDITIONS;0.75;0;1;0;1,Current-Alerts;0.75;0;1;0;1) for all variables.
+
+
+<div id="map" style="height: 500px; position: relative">
+  <div id="legend-popup">
+    <div id="legend-popup-content">
+      <img id="legend-img" style="display: flex; max-height: 400px;" src="" />
+    </div>
+  </div>
+
+  <div id="switch-content" style="position: absolute; z-index: 1; bottom: 40px; left: 8px;">
+    <div id="switch-case">
+        <label>
+          <input type="checkbox" id="layer1" checked>
+          <span onmouseover="updateLegend('https://geo.weather.gc.ca/geomet?version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=HRDPS-WEonG_2.5km_AirTemp&format=image/png')">Temperature</span>
+        </label></br>
+        <label>
+          <input type="checkbox" id="layer2" checked>
+          <span onmouseover="updateLegend('https://geo.weather.gc.ca/geomet?version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Current-Alerts&format=image/png')">Weather Alerts</span>
+        </label></br>
+        <label>
+          <input type="checkbox" id="layer4" checked>
+          <span onmouseover="updateLegend('https://geo.weather.gc.ca/geomet?version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=CURRENT_CONDITIONS&format=image/png&STYLE=default')">Current Conditions</span>
+        </label></br>
+        <label>
+          <input type="checkbox" id="layer3">
+          <span onmouseover="updateLegend('https://geo.weather.gc.ca/geomet?version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=REPS.DIAG.3_WCF.ERMEAN&format=image/png&STYLE=WindChill_Dis')">Wind chill factor</span>
+        </label></br>
+        <label>
+          <input type="checkbox" id="layer6">
+          <span onmouseover="updateLegend('https://geo.weather.gc.ca/geomet?version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=RDPS-WEonG_10km_DominantPrecipType&format=image/png&STYLE=DominantPrecipType_Dis')">Dominant precipitation type</span>
+        </label></br>
+        <label>
+          <input type="checkbox" id="layer5">
+          <span onmouseover="updateLegend('https://geo.weather.gc.ca/geomet?version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=HRDPS.CONTINENTAL_UTCI&format=image/png&STYLE=UTCI-EN')">Universal Thermal Climate Index</span>
+        </label></br>
+    </div>
+  </div>
+</div>
+</br>
+
+
+## Datasets
+
+It should be noted that the various layers presented in the list are available at different resolutions and timeframes.
+
+##### &emsp;<span class="badge badge-info">HRDPS at surface/near-surface fields</span>
+###### &emsp;[HRDPS data documentation](../msc-data/nwp_hrdps/readme_hrdps.md)
+* Universal Thermal Climate Index (UTCI)</br>
+
+##### &emsp;<span class="badge badge-info">HRDPS - Weather Elements on Grid</span>
+###### &emsp;[HRDPS data documentation](../msc-data/nwp_hrdps/readme_hrdps.md)
+* Wind direction
+* Wind speed
+* Gust
+* Sky state day/night (combined cloud cover and opacity)
+* Probability of precipitation
+* Dew point temperature
+* Temperature</br>
+
+
+##### &emsp;<span class="badge badge-info">Others</span>
+
+* [Weather Alerts](../msc-data/alerts/readme_alerts.md)
+* [Current Conditions](../msc-data/citypage-weather/readme_citypageweather.md)
+* [MetNotes](../msc-data/metnotes/readme_metnotes.md)
+
+
+<style>
+  #legend-img {
+    margin: 0px;
+  }
+  #legend-popup {
+    position: absolute;
+    top: 40px;
+    right: 8px;
+    z-index: 2;
+  }
+  .legend-switch{
+    top: 8px;
+    right: .5em;
+  }
+  .ol-touch .legend-switch {
+    top: 80px;
+  }
+ #switch-content {
+  background-color: white;
+  border-radius: 6px;
+  padding: 7px;
+}
+label {
+  font-size: 14px;
+  margin-bottom: 0px;
+}
+input[type="checkbox"] {
+    width: 14px;
+    height: 14px;
+  }
+</style>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@v7.3.0/ol.css" type="text/css"/>
+<link rel="stylesheet" href="../../css/weather-icons-master/css/weather-icons.min.css">
+<script src="https://cdn.jsdelivr.net/npm/ol@v7.3.0/dist/ol.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/1.3.3/FileSaver.min.js"></script>
+<script>
+    function isIE() {
+      return window.navigator.userAgent.match(/(MSIE|Trident)/);
+    }
+    var head = document.getElementsByTagName('head')[0];
+    var js = document.createElement("script");
+    js.type = "text/javascript";
+    if (isIE())
+    {
+        js.src = "../../js/cold_spells_theme_ie.js";
+        document.getElementById("controller").setAttribute("hidden", true);
+    }
+    else
+    {
+        js.src = "../../js/cold_spells_theme.js";
+    }
+    head.appendChild(js);
+</script>

@@ -1,0 +1,173 @@
+[project]
+# Local development server address and port
+dev_addr = "localhost:8088"
+
+# Site metadata shown in the browser tab, search engines and social previews
+site_name = "MSC Open Data"
+site_description = "Meteorological Service of Canada open data documentation."
+site_author = "Meteorological Service of Canada"
+# Deployed base URL — required for sitemap.xml and instant link previews
+#site_url = "https://username.github.io/repo/en/"
+
+# Footer copyright notice (HTML is allowed)
+copyright = """
+Copyright &copy; 2026 Meteorological Service of Canada
+"""
+
+# Top-level navigation structure rendered as tabs and sidebar entries.
+# Each entry is { "Label" = "path/to/page.md" } or a nested list for sections.
+nav = [
+  { "MSC Open Data" = "index.md" },
+  { "Available data" = [
+    { "Data list" = ["msc-data/index.md" ] },
+    { "Datasets by themes" = [
+      "msc-data-themes/index.md",
+      { "Cold spells" = "msc-data-themes/cold_spells.md" },
+      { "Drought" = "msc-data-themes/drought.md" },
+      { "Floods" = "msc-data-themes/floods.md" },
+      { "Hurricanes" = "msc-data-themes/hurricanes.md" },
+      { "Ice storms" = "msc-data-themes/ice_storms.md" },
+      { "Snowstorms" = "msc-data-themes/snowstorms.md" },
+      { "Thunderstorms" = "msc-data-themes/thunderstorms.md" },
+      { "Ground transportation logistics" = "msc-data-themes/transportation_logistics.md" },
+      { "Wildfires" = "msc-data-themes/wildfires.md" },
+    ] },
+  ] },
+  { "Data access" = [
+    { "MSC GeoMet" = [
+      "msc-geomet/index.md",
+      { "Web Map Service (WMS)" = "msc-geomet/wms.md" },
+      { "Web Coverage Service (WCS)" = "msc-geomet/wcs.md" },
+      { "OGC API" = "msc-geomet/ogc_api.md" },
+      { "STAC" = "msc-geomet/stac.md" },
+    ] },
+    { "SMC Datamart" = [
+      "msc-datamart/index.md"
+    ] },
+    { "Cost-recovered services" = ["cost-recovered/index.md" ] },
+    { "MSC AniMet" = ["msc-animet/index.md" ] },
+    { "WMO WIS2" = ["wmo-wis2/index.md"]  },
+  ] },
+  { "Usage and tutorials" = [
+    { "Usage overview" = ["usage/index.md" ] },
+    { "Access tutorials" = "usage/tutorials.md" },
+    { "WMS technical doc" = "msc-geomet/wms.md" },
+    { "WCS technical doc" = "msc-geomet/wcs.md" },
+    { "OGC API technical doc" = "msc-geomet/ogc_api.md" },
+  ] },
+  { "FAQ" = ["faq/index.md" ] },
+  { "Contact us" = "https://weather.gc.ca/mainmenu/contact_us_e.html" },
+]
+
+# Additional CSS files loaded on every page (relative to docs/)
+extra_css = ["assets/stylesheets/extra.css"]
+
+[project.theme]
+# UI language for built-in labels (search placeholder, navigation arrows, etc.)
+language = "en"
+
+# For announcement header
+custom_dir = "overrides"
+
+# Material for MkDocs feature flags
+features = [
+    "announce.dismiss",         # Adds a dismiss button to the announcement bar
+    "content.code.annotate",    # Enables inline annotations on code blocks
+    "content.code.copy",        # Adds a copy-to-clipboard button on code blocks
+    "content.code.select",      # Allows selecting individual lines in code blocks
+    "content.footnote.tooltips",# Renders footnotes as tooltips on hover
+    "content.tabs.link",        # Keeps tab selection in sync across the page
+    "content.tooltips",         # Replaces browser title tooltips with styled ones
+    "navigation.footer",        # Shows previous/next page links in the footer
+    "navigation.indexes",       # Makes section index pages clickable in the nav
+    "navigation.path",          # Shows a breadcrumb path below the header
+    "navigation.sections",      # Renders top-level nav items as expandable sections
+    "navigation.tabs",          # Displays top-level nav items as horizontal tabs
+    "navigation.tabs.sticky",   # Keeps the tabs bar visible while scrolling
+    "navigation.top",           # Shows a back-to-top button when scrolling up
+    "navigation.tracking",      # Updates the URL anchor as the user scrolls
+    "search.highlight",         # Highlights search terms on the result page
+]
+
+# Light mode palette
+[[project.theme.palette]]
+scheme = "default"
+primary = "blue"
+accent = "blue"
+toggle.icon = "lucide/sun"
+toggle.name = "Switch to dark mode"
+
+# Dark mode palette
+[[project.theme.palette]]
+scheme = "slate"
+primary = "blue"
+accent = "blue"
+toggle.icon = "lucide/moon"
+toggle.name = "Switch to light mode"
+
+# Enables the tags plugin (allows tagging pages with metadata keywords)
+[project.extra.tags]
+[project.plugins.tags]
+# Renders Jupyter notebooks (.ipynb) as documentation pages instead of downloads
+[project.plugins.mkdocs-jupyter]
+
+# Extra site-wide variables — here used to configure the language switcher
+[project.extra]
+alternate = [
+  { name = "English", link = "/en/", lang = "en" },
+  { name = "Français", link = "/fr/", lang = "fr" }
+]
+
+# --- Markdown extensions ---
+
+[project.markdown_extensions.abbr]        # Abbreviation tooltips (pairs with includes/abbreviations.md glossary)
+[project.markdown_extensions.admonition]  # Note/warning/tip blocks (!!! note, !!! warning, etc.)
+[project.markdown_extensions.attr_list]   # HTML attributes on Markdown elements ({ .class, #id, key=value })
+[project.markdown_extensions.def_list]    # Definition lists (term followed by indented definition)
+[project.markdown_extensions.footnotes]   # Footnote syntax ([^1] references and definitions)
+[project.markdown_extensions.md_in_html]  # Standard Markdown inside raw HTML blocks
+
+[project.markdown_extensions.toc]          # Table of contents generation
+permalink  = true                          # Adds a clickable anchor symbol next to each heading
+toc_depth  = 3                             # Maximum heading depth included in the table of contents
+
+[project.markdown_extensions.pymdownx.arithmatex] # Math rendering via MathJax ($$...$$ and \(...\) syntax)
+generic = true
+
+[project.markdown_extensions.pymdownx.betterem]    # Improved bold/italic detection around punctuation
+[project.markdown_extensions.pymdownx.caret]       # Superscript (^text^) and insert (^^text^^) syntax
+[project.markdown_extensions.pymdownx.details]     # Collapsible ??? blocks (collapsed by default)
+
+[project.markdown_extensions.pymdownx.emoji]       # Emoji support — Twemoji images rendered as inline SVGs
+emoji_generator = "zensical.extensions.emoji.to_svg"
+emoji_index     = "zensical.extensions.emoji.twemoji"
+
+[project.markdown_extensions.pymdownx.highlight]   # Syntax highlighting for fenced code blocks
+anchor_linenums    = true      # Adds anchor links to individual line numbers
+line_spans         = "__span"  # Wraps each line in a <span> for precise CSS targeting
+pygments_lang_class = true     # Adds a data attribute with the language name for CSS styling
+
+[project.markdown_extensions.pymdownx.inlinehilite] # Syntax highlighting for inline backtick code
+[project.markdown_extensions.pymdownx.keys]         # Keyboard key combinations (++ctrl+c++ → styled key badges)
+[project.markdown_extensions.pymdownx.magiclink]    # Auto-links bare URLs, emails, and repository references
+[project.markdown_extensions.pymdownx.mark]         # Text highlighting with ==text== syntax
+[project.markdown_extensions.pymdownx.smartsymbols] # ASCII sequences to typographic symbols (e.g. (c) → ©)
+
+[project.markdown_extensions.pymdownx.snippets]     # File inclusion — auto-appends the abbreviations glossary
+auto_append = ["includes/abbreviations.md"]
+
+[project.markdown_extensions.pymdownx.superfences]  # Extended fenced code blocks with custom fence types
+custom_fences = [
+  { name = "mermaid", class = "mermaid", format = "pymdownx.superfences.fence_code_format" } # Mermaid diagrams
+]
+
+[project.markdown_extensions.pymdownx.tabbed]       # Tabbed content sections (=== "Tab label")
+alternate_style     = true  # CSS-only tab implementation (no JavaScript)
+combine_header_slug = true  # Combines tab label into heading slug for stable anchor links
+
+[project.markdown_extensions.pymdownx.tasklist]     # Task list checkboxes (- [x] done  /  - [ ] todo)
+custom_checkbox = true  # Replaces default HTML checkboxes with styled SVG icons
+
+[project.markdown_extensions.pymdownx.tilde]        # Strikethrough (~~text~~) and subscript (~text~) syntax
+
+[project.markdown_extensions.pymdownx.blocks.caption]
