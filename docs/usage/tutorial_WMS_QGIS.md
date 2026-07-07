@@ -31,7 +31,7 @@ Animated example of the procedure:
 ![Adding WMS layers in QGIS](https://collaboration.cmc.ec.gc.ca/cmc/cmos/public_doc/usage/images_QGIS/qgis_add-wms_en.gif)
 
 ## Browsing through available WMS layer styles
-[MSC GeoMet](../msc-geomet/index.md) often provides several different graphical representations for a single layer. The client can choose to display the data using the style most appropriate for their use case. For more information on the WMS styles, visit the [handling styles](https://eccc-msc.github.io/open-data/msc-geomet/web-services_en/#handling-styles) page.
+[MSC GeoMet](../msc-geomet/index.md) often provides several different graphical representations for a single layer. The client can choose to display the data using the style most appropriate for their use case. For more information on the WMS styles, visit the [handling styles](../msc-geomet/wms.md#handling-styles) page.
 
 It's possible to use QGIS to browse through available styles for a given WMS layer and the following example will show how to do so:
 

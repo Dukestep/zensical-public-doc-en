@@ -17,7 +17,7 @@ The coastal flooding risk index in GeoJSON format is a geo and time referenced p
 
 This data is available from the [MSC GeoMet](../../msc-geomet/index.md) API / web services and on the [MSC Datamart](../../msc-datamart/index.md) data server respectively:
 
-* [Costal flooding risk index data available via the GeoMet-Weather geospatial web services](https://eccc-msc.github.io/open-data/msc-geomet/readme_en/)
+* [Costal flooding risk index data available via the GeoMet-Weather geospatial web services](../../msc-geomet/index.md)
 * [Costal flooding risk index data in GeoJSON format available on the MSC Datamart](readme_coastal-flooding-risk-index-datamart.md)
 
 An [Overview and examples of how to access and use Meteorological Service of Canada open data](../../usage/index.md) is available. 

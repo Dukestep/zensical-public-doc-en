@@ -1,12 +1,12 @@
 
-![ECCC logo](https://eccc-msc.github.io/open-data/img_eccc-logo.png)  
+![ECCC logo](../../img_eccc-logo.png)  
 
 
 # Use case: Retrieving and displaying hydrometric data
 
 ## Introduction
 
-Hydrometric data from the Meteorological Service of Canada (MSC), Environment and Climate Change Canada (ECCC) can be easily accessed via [GeoMet-OGC-API](https://api.weather.gc.ca/). The [OGC API - Features](https://eccc-msc.github.io/open-data/msc-geomet/web-services_en/#ogc-api-features) web services available in GeoMet-OGC-API offer the capability to query vector geospatial data and retrieve it in a GeoJSON format. The GeoJSON output file can then be used for display or further data processing. This use case will show you how you can:
+Hydrometric data from the Meteorological Service of Canada (MSC), Environment and Climate Change Canada (ECCC) can be easily accessed via [GeoMet-OGC-API](https://api.weather.gc.ca/). The [OGC API - Features](../../msc-geomet/ogc_api.md#ogc-api-features) web services available in GeoMet-OGC-API offer the capability to query vector geospatial data and retrieve it in a GeoJSON format. The GeoJSON output file can then be used for display or further data processing. This use case will show you how you can:
 * Query and retrieve vector geospatial data from GeoMet-OGC-API with [Python](https://www.python.org/)
 * Display time series data in graphic and tabular format
 * Create an interactive map to display geospatial data

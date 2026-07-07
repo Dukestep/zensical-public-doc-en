@@ -118,7 +118,7 @@ Finally, we strongly recommend to subscribe to our mailing lists [dd_info](https
 
 Occasionally, NWP model data are late or even absent from our data dissemination services. To find out if this delay or absence is due to a production problem, you can consult the AACN01 CWAO bulletins. These are bulletins issued by the Canadian Centre for Meteorological and Environmental Prediction (CCMEP) to inform MSC offices and other clients of any problems that may disrupt or delay the issuance and/or distribution of operational products.
 
-To consult the latest AACN01 CWAO bulletins, you can make a request using our [MSC GeoMet-OGC-API](https://eccc-msc.github.io/open-data/msc-geomet/readme_en/#services) web services.
+To consult the latest AACN01 CWAO bulletins, you can make a request using our [MSC GeoMet-OGC-API](../msc-geomet/index.md#services) web services.
 
 Here is an example of a request to obtain all the AACN01 bulletins issued for a given date (to be adjusted according to the date of interest):
 

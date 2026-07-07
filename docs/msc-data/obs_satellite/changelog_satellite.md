@@ -10,4 +10,4 @@ On Monday, April 7, 2025, the Canadian Meteorological Centre (CMC) of the Meteor
 
 Official announcement: https://www.noaa.gov/news-release/noaas-goes-19-satellite-now-operational-providing-critical-new-data-to-forecasters
 
-The [images](https://meteo.gc.ca/satellite/index_e.html) are now available on the ECCC website and the data is being used in the operational chain. The [open data](https://eccc-msc.github.io/open-data/msc-data/obs_satellite/readme_satellite_en/) also benefits from this migration. 
+The [images](https://meteo.gc.ca/satellite/index_e.html) are now available on the ECCC website and the data is being used in the operational chain. The [open data](readme_satellite.md) also benefits from this migration. 

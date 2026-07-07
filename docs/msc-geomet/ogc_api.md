@@ -371,7 +371,7 @@ CQL2: ?filter=properties.STATION_NAME LIKE '%t'
 ![CQL LIKE Wildcard End](https://collaboration.cmc.ec.gc.ca/cmc/cmos/public_doc/msc-geomet/cql/CQL_Like_Wildcard_End_en.png)
 </br>
 
-**2.6)** Searching meteorological bulletins by the identifier. It's not possible to manually search by `id` on the interface. Users can use CQL filters and leverage the [bulletin filename nomenclature documentation](https://eccc-msc.github.io/open-data/msc-data/bulletins/readme_bulletins-datamart_en/#directory-and-file-name-nomenclature).</br>
+**2.6)** Searching meteorological bulletins by the identifier. It's not possible to manually search by `id` on the interface. Users can use CQL filters and leverage the [bulletin filename nomenclature documentation](../msc-data/bulletins/readme_bulletins-datamart.md#directory-and-file-name-nomenclature).</br>
 ```
 CQL2: ?filter=properties.identifier LIKE '%WWCN70%'
 ```

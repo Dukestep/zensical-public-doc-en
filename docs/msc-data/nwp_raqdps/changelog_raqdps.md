@@ -46,7 +46,7 @@ On Wednesday December 1st, 2021, starting with the 1200 UTC run, the Canadian Me
 
 The changes included in this upgrade are summarized as follows:
 
-* The RAQDPS is now piloted by [RDPS v8.0.0](https://eccc-msc.github.io/open-data/msc-data/nwp_rdps/changelog_rdps_en/), rather than RDPS v7.1.0.
+* The RAQDPS is now piloted by [RDPS v8.0.0](../nwp_rdps/changelog_rdps.md), rather than RDPS v7.1.0.
 *  New anthropogenic emissions inventories
     * Canada:  From 2013 Air Pollutant Emission Inventory (APEI) to projected 2020 APEI.
     * U.S.:    From 2017 projected National Emissions Inventory to projected 2023 NEI.

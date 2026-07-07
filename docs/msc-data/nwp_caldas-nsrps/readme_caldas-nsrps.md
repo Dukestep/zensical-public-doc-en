@@ -16,9 +16,9 @@ CaLDAS-NSRPS was installed within the National Surface and River Prediction Syst
 
 ### How to access the data 
 
-This data is available from the [MSC GeoMet](https://eccc-msc.github.io/open-data/msc-geomet/readme_en/) web services and on the [MSC Datamart](../../msc-datamart/index.md) server respectively:
+This data is available from the [MSC GeoMet](../../msc-geomet/index.md) web services and on the [MSC Datamart](../../msc-datamart/index.md) server respectively:
 
-* [Data available via the GeoMet-Weather geospatial web services](https://eccc-msc.github.io/open-data/msc-geomet/readme_en/)
+* [Data available via the GeoMet-Weather geospatial web services](../../msc-geomet/index.md)
 * [NetCDF data available on the MSC Datamart](readme_caldas-nsrps-datamart.md) 
 
 An [overview and examples to access and use the Meteorological Service of Canada's open data](../../usage/index.md) is available.

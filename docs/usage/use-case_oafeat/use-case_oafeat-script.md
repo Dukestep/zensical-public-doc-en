@@ -1,4 +1,4 @@
-![ECCC logo](https://eccc-msc.github.io/open-data/img_eccc-logo.png)  
+![ECCC logo](../../img_eccc-logo.png)  
 
 
 
@@ -6,12 +6,12 @@
 
 ## Introduction
 
-Hydrometric data from the Meteorological Service of Canada (MSC), Environment and Climate Change Canada (ECCC) can be easily accessed via [GeoMet-OGC-API](https://api.weather.gc.ca/). The [OGC API - Features](https://eccc-msc.github.io/open-data/msc-geomet/web-services_en/#ogc-api-features) web services available in GeoMet-OGC-API offer the capability to query vector geospatial data and retrieve it in a GeoJSON format. The GeoJSON output file can then be used for display or further data processing. This use case will show you how you can:
+Hydrometric data from the Meteorological Service of Canada (MSC), Environment and Climate Change Canada (ECCC) can be easily accessed via [GeoMet-OGC-API](https://api.weather.gc.ca/). The [OGC API - Features](../../msc-geomet/ogc_api.md#ogc-api-features) web services available in GeoMet-OGC-API offer the capability to query vector geospatial data and retrieve it in a GeoJSON format. The GeoJSON output file can then be used for display or further data processing. This use case will show you how you can:
 * Query and retrieve vector geospatial data from GeoMet-OGC-API with [Python](https://www.python.org/)
 * Display time series data in graphic and tabular format
 * Create an interactive map to display geospatial data
 
-This use case comes in two different versions. This version is designed to be run in a terminal or an IDE but can also be used [in a Jupyter Notebook](https://mybinder.org/v2/gh/ECCC-MSC/open-data.git/master?labpath=docs%2Fusage%2Fuse-case_oafeat%2Fuse-case_oafeat-script_en.ipynb). If you are looking for more interactive features like dropdown menus to choose the value of the variables, an interactive plot with a variety of controls and an interactive map based on Leaflet, **[the interactive version of this use case](https://eccc-msc.github.io/open-data/usage/use-case_oafeat/use-case_oafeat-interactive_en/)** that is conceived specifically for Jupyter Notebook might interest you.
+This use case comes in two different versions. This version is designed to be run in a terminal or an IDE but can also be used [in a Jupyter Notebook](https://mybinder.org/v2/gh/ECCC-MSC/open-data.git/master?labpath=docs%2Fusage%2Fuse-case_oafeat%2Fuse-case_oafeat-script_en.ipynb). If you are looking for more interactive features like dropdown menus to choose the value of the variables, an interactive plot with a variety of controls and an interactive map based on Leaflet, **[the interactive version of this use case](use-case_oafeat-interactive.md)** that is conceived specifically for Jupyter Notebook might interest you.
 
 [An executable version of this use case is available.](https://mybinder.org/v2/gh/ECCC-MSC/open-data.git/master?labpath=docs%2Fusage%2Fuse-case_oafeat%2Fuse-case_oafeat-script_en.ipynb) In Jupyter Notebook, click on the ⏩️ symbol or select the Cell -> Run All option in the menu bar to run the entire notebook. If the annotations are not visible on the plot or the map when hovering over data points, run the plot or the map code cell again by clicking in the desired cell and then clicking on the Run button in the menu bar.
 

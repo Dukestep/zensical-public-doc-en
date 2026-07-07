@@ -1,11 +1,11 @@
-![ECCC logo](https://eccc-msc.github.io/open-data/img_eccc-logo.png)  
+![ECCC logo](../../img_eccc-logo.png)  
 
 
 # Use case: anticipated profits based on precipitations probability
 
 ## Introduction
 
-Weather, climate and water data from [MSC GeoMet](https://eccc-msc.github.io/open-data/msc-geomet/readme_en/) geospatial web services can be easily used to predict demand associated with certain products or services. This usage example show how to extract and process raw meteorological data with [Python](https://www.python.org/) programming language to create a tool to calculate anticipated profits from sales depending on meteorological conditions. This use case teaches you how to:
+Weather, climate and water data from [MSC GeoMet](../../msc-geomet/index.md) geospatial web services can be easily used to predict demand associated with certain products or services. This usage example show how to extract and process raw meteorological data with [Python](https://www.python.org/) programming language to create a tool to calculate anticipated profits from sales depending on meteorological conditions. This use case teaches you how to:
 * Access and query meteorological data from MSC GeoMet geospatial web services;
 * Query layers to get data for specific locations;
 * Create temporal queries;
@@ -19,7 +19,7 @@ The [interactive version of this Jupyter Notebook is available](https://mybinder
 
 Consider the following situation: Arthur, a souvenir kiosk owner in Vancouver, wants to calculate the profits he anticipates making from umbrellas sales using Environment and Climate Change Canada weather forecast. Indeed, his umbrellas sales increase drastically when there is at least 30% chance that there will be a minimum of 5 mm of precipitations. Considering that the kiosk is open from 9 a.m. to 9 p.m, Arthur wants to calculate how much profits he anticipates to make in the following days according to the weather forecast obtained from MSC GeoMet geospatial web services.
 
-To determinate the amount of umbrellas that is predicted to be sold in the next days, the first step is to query the [Web Map Service (WMS)](https://eccc-msc.github.io/open-data/msc-geomet/web-services_en/#web-map-service-wms) from MSC to get the probability of getting 5 mm or more of precipitations for the time, the date and the location desired through Python programming. To carry out this step, the Python modules must first be imported and values must be given to the request parameters including the layer name, the coordinates of the location and the local time zone. The layer used for this exemple will be the layer from the [Regional Ensemble Prediction System (REPS)](https://eccc-msc.github.io/open-data/msc-data/nwp_reps/readme_reps_en/) that contains the probability that the quantity of precipitations will be equal or greater than 5 mm (``REPS.DIAG.3_PRMM.ERGE5``).
+To determinate the amount of umbrellas that is predicted to be sold in the next days, the first step is to query the [Web Map Service (WMS)](../../msc-geomet/wms.md) from MSC to get the probability of getting 5 mm or more of precipitations for the time, the date and the location desired through Python programming. To carry out this step, the Python modules must first be imported and values must be given to the request parameters including the layer name, the coordinates of the location and the local time zone. The layer used for this exemple will be the layer from the [Regional Ensemble Prediction System (REPS)](../../msc-data/nwp_reps/readme_reps.md) that contains the probability that the quantity of precipitations will be equal or greater than 5 mm (``REPS.DIAG.3_PRMM.ERGE5``).
 
 
 ```python

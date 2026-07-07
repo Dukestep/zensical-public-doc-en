@@ -1,11 +1,11 @@
-![ECCC logo](https://eccc-msc.github.io/open-data/img_eccc-logo.png)  
+![ECCC logo](../../img_eccc-logo.png)  
 
 
 # GDAL command line tutorial with weather data
 
 ## Introduction
 
-[MSC GeoMet](https://eccc-msc.github.io/open-data/msc-geomet/readme_en/) and [MSC Datamart](https://eccc-msc.github.io/open-data/msc-datamart/readme_en/) data can be manipulated via the command line using [GDAL](https://gdal.org/), a widely-known software library used to read and write raster and vector geospatial data. In the following examples, you'll use a GeoTIFF file retrieved using via a Web Coverage Service (WCS) request to MSC GeoMet. This tutorial will show you how to:
+[MSC GeoMet](../../msc-geomet/index.md) and [MSC Datamart](../../msc-datamart/index.md) data can be manipulated via the command line using [GDAL](https://gdal.org/), a widely-known software library used to read and write raster and vector geospatial data. In the following examples, you'll use a GeoTIFF file retrieved using via a Web Coverage Service (WCS) request to MSC GeoMet. This tutorial will show you how to:
 * Display the GDAL version installed on your system
 * Save a WCS request output to your computer
 * List information/metadata related to the raster file
@@ -37,7 +37,7 @@ gdalinfo --version
 
 ## Save a WCS request output to disk
 
-The OGC Web Coverage Service requests enable a client to retrieve coverage information from a raster file for a given area of interest. WCS requests are made over the internet (HTTPS) and give the user more flexibility when requesting information about the coverage of a layer compared with the more traditional way of downloading flat files. The Web Coverage Service allows for several different types of requests, each of which are described in further detail below. For more information on the WCS request parameters, please refer to the [MSC GeoMet WCS GetCoverage page](https://eccc-msc.github.io/open-data/msc-geomet/wcs_en/#wcs-getcoverage).
+The OGC Web Coverage Service requests enable a client to retrieve coverage information from a raster file for a given area of interest. WCS requests are made over the internet (HTTPS) and give the user more flexibility when requesting information about the coverage of a layer compared with the more traditional way of downloading flat files. The Web Coverage Service allows for several different types of requests, each of which are described in further detail below. For more information on the WCS request parameters, please refer to the [MSC GeoMet WCS GetCoverage page](../../msc-geomet/wcs.md#wcs-getcoverage).
 
 We are going to use a `curl` command to save the WCS request result on disk, the file will be named `CMC_glb_TMP.tif`. The result is a GeoTIFF file, showing temperature (°C) from a subset of MSC's Global Deterministic Prediction System (GDPS).
 
