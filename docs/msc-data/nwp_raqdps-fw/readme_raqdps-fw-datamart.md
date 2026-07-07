@@ -1,4 +1,11 @@
+---
+status: deprecated
+---
+
 ![ECCC logo](../../img_eccc-logo.png)
+
+!!! failure "Retired data"
+    This dataset has been retired and is no longer available.
 
 # Regional Air Quality Deterministic Prediction System FireWork (RAQDPS-FW) data in GRIB2 Format
 

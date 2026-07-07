@@ -4,10 +4,13 @@ tags:
   - Regional
   - Deterministic
   - Storm Surge
+status: deprecated
 ---
 
 ![ECCC logo](../../img_eccc-logo.png)
 
+!!! failure "Retired data"
+    This dataset has been retired and is no longer available.
 
 # Data and Products of the Regional Deterministic Storm Surge Prediction System (RDSPS)
 
@@ -18,11 +21,6 @@ During the post processing phase tidal heights are predicted using Webtide (Dupo
 ## Access
 
 ### How to access the data
-
-
-!!! failure inline end "Retired data"
-    This dataset has been retired and is no longer available.
-
 
 This data is available on the [MSC Datamart](../../msc-datamart/index.md) data server service:
 

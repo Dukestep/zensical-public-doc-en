@@ -1,3 +1,8 @@
+---
+hide:
+    - navigation
+---
+
 ![ECCC logo](../img_eccc-logo.png)
 
 # MSC Open Data FAQ
@@ -10,7 +15,7 @@
 
 ## Licensing and data use
 
-### I would like to use your data for profit, am I allowed to do so ?
+#### I would like to use your data for profit, am I allowed to do so ?
 
 Yes, it is possible to use our data for profit-making purposes. You will find all the information you need to use our data in the [user licence](../licence/index.md).
 
@@ -18,7 +23,7 @@ Yes, it is possible to use our data for profit-making purposes. You will find al
 
 ## Radar data
 
-### Can I have weather radar data ?
+#### Can I have weather radar data ?
 
 The weather radar data that we freely provide to the public are the [North American Radar Composite and Extrapolation](../msc-data/obs_radar/readme_radar_geomet.md) via GeoMet-Weather Geospatial Web Services. The North American Radar Composite is available every 6 minutes for the past 3 hours. We also offer the [GIF images](../msc-data/obs_radar/readme_radarimage-datamart.md) on the MSC open data server. [Documentation of radar observations](../msc-data/obs_radar/readme_radar.md) can be consulted for other radar data and products.
 
@@ -30,7 +35,7 @@ For the data feeds, the following formats are available:
 * GIF format (recent GIFs available for free on the MSC Datamart) 
 * [ODIM_H5](https://www.eumetnet.eu/wp-content/uploads/2019/01/ODIM_H5_v23.pdf) raw format for the new S-band radars
 
-### Can I have archived radar data ?
+#### Can I have archived radar data ?
 
 Environment and Climate Change Canada does not have an online service to retrieve archived data.
 
@@ -53,7 +58,7 @@ Typical archived data retrieval requests require between 2-4 hours to process. I
 | Other information | |
 | Billing name and coordinates | |
 
-### When you zoom in on the radar layer, you can clearly see the pixels. Do you apply spatial interpolation to radar data when moving from one zoom level to another?
+#### When you zoom in on the radar layer, you can clearly see the pixels. Do you apply spatial interpolation to radar data when moving from one zoom level to another?
 
 The original resolution of the radar data is 1 km, and our display system does not apply any additional processing, such as spatial interpolation, when moving from one zoom level to another.
 
@@ -61,7 +66,7 @@ The original resolution of the radar data is 1 km, and our display system does n
 
 ## Numerical weather prediction (NWP)
 
-### Can we have access to the verification scores of your numerical weather prediction models and how do they compare with other international centres ?
+#### Can we have access to the verification scores of your numerical weather prediction models and how do they compare with other international centres ?
 
 The [European Centre for Medium-Range Weather Forecasting (ECMWF)](https://www.ecmwf.int/), designated in 2011 as the [WMO Lead Centre for Deterministic NWP Verification](https://confluence.ecmwf.int/pages/viewpage.action?pageId=24316358&src=sidebar), makes available all altitude and surface scores of all centres participating in the [World Meteorological Organization (WMO)](https://public.wmo.int/en) score exchange.
 
@@ -69,7 +74,7 @@ Thus, it is possible to obtain [upper air scores](https://apps.ecmwf.int/wmolcdn
 
 In addition, we publish daily [scores against radiosonde observations and against model analyses](https://weather.gc.ca/verification/index_e.html) for the [Global Deterministic Prediction System (GDPS)](../msc-data/nwp_gdps/readme_gdps.md) and the [Regional Deterministic Prediction System (RDPS)](../msc-data/nwp_rdps/readme_rdps.md), following the standards defined by the WMO.
 
-### Are historical data forecasts from your numerical weather prediction models available ?
+#### Are historical data forecasts from your numerical weather prediction models available ?
 
 Environment and Climate Change Canada does not have an online service to retrieve archived data.
 
@@ -96,7 +101,7 @@ Notes:
 * Forecast data are archived for 5 years. Other types of data (analyses for example) may have longer retention periods.
 * Given the large volume of requests, a certain delay is to be expected. Please indicate if the request is urgent, we will try to prioritize it.
 
-### How to be informed of any change to bulletins or model format and or content ?
+#### How to be informed of any change to bulletins or model format and or content ?
 
 For Canadian station bulletins, any change in the heading and station name is announced via what we call a GENOT (GEneral NOTification) message. We have a mailing list to distribute GENOTs for station and header changes. If you are interested in this e-mail notification, please send us your e-mail and we will add it to this mailing list.
 
@@ -109,7 +114,7 @@ You can find an [example of a GENOT 03 bulletin](https://dd.meteo.gc.ca/doc/geno
 
 Finally, we strongly recommend to subscribe to our mailing lists [dd_info](https://comm.collab.science.gc.ca/mailman3/postorius/lists/dd_info/) and [GeoMet-Info](https://comm.collab.science.gc.ca/mailman3/postorius/lists/geomet-info/) to be warned of any updates or changes regarding the data availability.
 
-### How to be informed about problems with model data production ?
+#### How to be informed about problems with model data production ?
 
 Occasionally, NWP model data are late or even absent from our data dissemination services. To find out if this delay or absence is due to a production problem, you can consult the AACN01 CWAO bulletins. These are bulletins issued by the Canadian Centre for Meteorological and Environmental Prediction (CCMEP) to inform MSC offices and other clients of any problems that may disrupt or delay the issuance and/or distribution of operational products.
 
@@ -121,29 +126,29 @@ https://api.weather.gc.ca/collections/bulletins-realtime/items?q=*AACN01*&f=json
 
 There is also a mailing list for AACN01 bulletins. If you are interested, please contact us at dps-client@ec.gc.ca and we will add you to the mailing list.
 
-### Why not produce just one big GRIB file with all the variables ?
+#### Why not produce just one big GRIB file with all the variables ?
 
 Environment and Climate Change Canada opted to put one variable per file because we presumed that most users would not require all the variables. This will then reach the same download speed as if all the GRIB files were in a single zip file.
 
-### What is the reference coordinate system or datum of a numerical weather prediction model ?
+#### What is the reference coordinate system or datum of a numerical weather prediction model ?
 
 To know the reference coordinate system of a numerical weather prediction model and the projection used to produce our numerical weather prediction files, just use the [GDAL](https://www.gdal.org/GDAL) tools (free software). The following command will provide you with the reference coordinate system and the projection of the file: `gdalinfo -proj4 file.grib2`.
 
 The output information starts with `The coordinates system is:`. This command also gives access to the projection in Proj4 format which is commonly used in geospatial tools.
 
-### Can I have the topography of a numerical weather prediction model ?
+#### Can I have the topography of a numerical weather prediction model ?
 
 The topography of a numerical weather prediction model whose data is available in GRIB2 format can be obtained using the `HGT_SFC` parameter (smoothed topography of the model).
 
-### Can I have the land sea mask of a numerical weather prediction model ?
+#### Can I have the land sea mask of a numerical weather prediction model ?
 
 You can use the variable `LAND_SFC` (Land cover) of prognostic hour 00 to determine this mask. When the value is 0, it is sea, when the value is not 0, it is land (or portion of it).
 
-### Is it possible to access numerical weather prediction parameters other than those currently available on the MSC Datamart or is the list exhaustive ?
+#### Is it possible to access numerical weather prediction parameters other than those currently available on the MSC Datamart or is the list exhaustive ?
 
 The list is not exhaustive. We are always very open to receive feedback from users and to know their needs. It is possible to communicate with us via the email address: ec.dps-client.ec@canada.ca.
 
-### Can I have snow water equivalent data ?
+#### Can I have snow water equivalent data ?
 
 The estimation of the snow mass is mainly valid for the ground. The GRIB parameter `SNOD` representing the snow depth on the ground is available as an aggregated value but the parameter `SDEN` (snow density) is only available for the fraction of soil. The `SNODxSDENxfactor` product for the units probably provides the best estimate currently available for snow water equivalent. Be aware that the `SDEN` parameter for the soil fraction may or may not be representative of snow density for other surface types.
 
@@ -152,11 +157,11 @@ Therefore, the micro equation for calculating snow water equivalent in mm (equiv
 * If the thickness is given in "cm" and `SDEN` in "kg/m3", which we have at operations, then `SWE = (SNOD * SDEN) / 100`; `SWE` is in mm (or kg/m2, which is the equivalent for water)
 * If the thickness is given in "m" and the `SDEN` in "kg/m3", then `SWE = SNOD * SDEN`; `SWE` is in mm (kg/m2)
 
-### In the numerical weather prediction systems changelog, I see several systems (e.g. RESPS) not mentioned in the list of systems with available data, where can I find this data ?
+#### In the numerical weather prediction systems changelog, I see several systems (e.g. RESPS) not mentioned in the list of systems with available data, where can I find this data ?
 
 This data is not yet available on the MSC Datamart. To be informed when new datasets are added, you can subscribe to the [dd-info](https://comm.collab.science.gc.ca/mailman3/postorius/lists/dd_info/) and [GeoMet-Info](http://lists.ec.gc.ca/cgi-bin/mailman/listinfo/geomet-info) mailing lists.
 
-### Can I have JSON minimum and maximum forecast temperature ?
+#### Can I have JSON minimum and maximum forecast temperature ?
 
 To obtain minimum and maximum forecast temperature data in JSON format, you can consult either:
 
@@ -166,7 +171,7 @@ To obtain minimum and maximum forecast temperature data in JSON format, you can 
 
 These bulletins are available on the MSC Datamart at the address: [https://dd.weather.gc.ca/bulletins/alphanumeric/YYYYMMDD/FM/CWAO/](https://dd.weather.gc.ca/bulletins/alphanumeric/YYYYMMDD/FM/CWAO/) and on the GeoMet-OGC-API geospatial web services at the address: [https://api.weather.gc.ca/collections/bulletins-realtime/items?limit=10&startindex=0&sortby=-datetime&type=fm](https://api.weather.gc.ca/collections/bulletins-realtime/items?limit=10&startindex=0&sortby=-datetime&type=fm)
 
-### Can I have rainfall amount data ?
+#### Can I have rainfall amount data ?
 
 Regarding QPF (Quantitative Precipitation Forecast) data in CSV format, you may be interested in the FOCN03 bulletins, i.e. grid point forecasts of meteorological variables obtained from the direct outputs of the RDPS (Regional Deterministic Prediction System).
 
@@ -180,7 +185,7 @@ Also, an optimal estimate of the amount of precipitation that has occurred durin
 
 ## Observational data
 
-### What is the difference between the two sets of observational data available on the MSC Datamart ?
+#### What is the difference between the two sets of observational data available on the MSC Datamart ?
 
 We have 2 products that contain observations from the Environment and Climate Change Canada station network.
 
@@ -190,13 +195,13 @@ The second one groups [observational data from the same province or territory](.
 
 Consequently, it is not really possible to compare these 2 sets of data and it is strongly recommended to use the SWOB data, which are more complete and subject to no rules, for the region of interest.
 
-### How often are the observational data collected by province and territory refreshed ?
+#### How often are the observational data collected by province and territory refreshed ?
 
 The [provincial summary files](../msc-data/obs_station/readme_obs_insitu_xmldatamart.md) are updated 6 times per hour, but the simple fact that we update them does not necessarily mean that any of the stations in the summary file have updated their data since the last run. We update the observations on an hourly (not minute-by-minute) basis for each station at the beginning of the hour, but another update (called a "special obs" or "speci") within the hour is also possible if the observer feels that there has been a change large enough to warrant an update. 
 
 It is possible, for example, that the 1614Z file may not contain observations different from those in 1611Z, so the user should not always expect changes in values for an individual station within the hour. We present only the data we obtain and, in this case, most stations report only once per hour.
 
-### Can I have buoys data ?
+#### Can I have buoys data ?
 
 Buoy data (marine observations) are available on the MSC Datamart at this address:
 
@@ -208,7 +213,7 @@ Daily reports of MSC buoys are also published on the [Fisheries and Oceans Canad
 
 Finally, these buoy data are accessible through the [alphanumeric bulletins](../msc-data/bulletins/readme_bulletins-datamart.md) available on the MSC Datamart with SM/SN/SIVD17 headings.
 
-### Can I have satellite images ?
+#### Can I have satellite images ?
 
 Environment and Climate Change Canada does not provide satellite images or products to external users, apart those from our [web site](https://weather.gc.ca/satellite/index_e.html), as we are not the data producer.
 
@@ -216,7 +221,7 @@ A recommended site for freely available satellite images is from the [University
 
 If you require a data feed of satellite images, we suggest users contact our U.S. counterparts at NOAA or to seek a provider in the private sector.
 
-### Are lightning data available ?
+#### Are lightning data available ?
 
 The lightning data currently available to the public free of charge are lightning flash density over Canada via [GeoMet-Weather geospatial web services](../msc-geomet/index.md). We also offer [GeoTIFF data](../msc-data/lightning/readme_lightning-datamart.md) on the MSC open data server.
 
@@ -224,13 +229,13 @@ The lightning data currently available to the public free of charge are lightnin
  
 If you are interested in purchasing real-time or archived lightning data from the Canadian Lightning Detection Network (CLDN), please contact our colleagues at ec.rcdf-cldn.ec@canada.ca . There is a cost for private companies. The price depends on the area they need for the live data and the duration of the archived data. If the customer sends the CLDN their specifications, an estimate of the cost will be forwarded (request sent to Vaisala). 
 
-### I do not see a condition under the corresponding element of the Citypage XML file, is this normal ?
+#### I do not see a condition under the corresponding element of the Citypage XML file, is this normal ?
 
 Some weather stations are automatic (unmanned) and do not report the current condition. If you look to the corresponding page on our web site, for example [Edmonton](https://weather.gc.ca/city/pages/ab-50_metric_e.html), you will see that it is written <em>Not observed</em> for the condition.
 
 This is why there is no icon or condition reported in the corresponding Citypage XML file.
 
-### Is it possible to access observed air quality data and pollutant emission data used to calculate the Air Quality Health Index ?
+#### Is it possible to access observed air quality data and pollutant emission data used to calculate the Air Quality Health Index ?
 
 In Canada, observed air quality data are generally produced by provinces and municipalities and collected by ECCC. This is true for both real-time and "official" data that are subject to detailed quality control and are usually published the following year. These official data are assembled in the [National Air Pollution Surveillance (NAPS)](http://data.ec.gc.ca/data/air/monitor/national-air-pollution-surveillance-naps-program/?lang=en) program, now on the ECCC data catalogue.
 
@@ -242,7 +247,7 @@ Finally, the [National Pollutant Release Inventory](https://www.canada.ca/en/env
 
 ## Alerts, warnings and data retrieval
 
-### Can I have access to weather warnings ?
+#### Can I have access to weather warnings ?
 
 You can find information about Environment and Climate Change Canada's warning in several places :
 
@@ -252,7 +257,7 @@ You can find information about Environment and Climate Change Canada's warning i
 
 * Finally, ECCC has set up the [experimental EC Alert Me service](https://ecalertme.weather.gc.ca/guides/quickstart_en.php) to send warnings by email. 
 
-### What are the main differences between RSS ATOM feeds and AMQP protocol to retrieve alerts ?
+#### What are the main differences between RSS ATOM feeds and AMQP protocol to retrieve alerts ?
 
 The main difference between RSS feeds (ATOM) and AMQP is that in the case of the RSS feed, user needs to send a request to know if new files
 are available, whereas with AMQP, user is advised without sending any request.
@@ -261,7 +266,7 @@ If one wants to make an analogy, RSS feeds can be considered as a mailman who de
 
 We recommend to use the AMQP protocol if it is important for users to receive the announcement and data once available, also AMQP is a longer-term solution.
 
-### Why are message queues terminated after several hours of inactivity when using AMQP ?
+#### Why are message queues terminated after several hours of inactivity when using AMQP ?
 
 Users of the [AMQPS](../msc-datamart/amqp.md) service are supposed to run a daemon that downloads data continuously, such as the one provided by [Sarracenia](https://github.com/MetPX/sarracenia/blob/master/doc/sarra.rst). In the AMQP language, a pump, i.e. a host running Sarracenia, is a [broker](https://github.com/MetPX/sarracenia/blob/master/doc/Install.rst). The broker has a limited ability to queue products when a user experiences a long unintended interruption, for example, from a few hours to a few days. 
 The performance of the overall service is affected by the presence of large queues for a single consumer, so queues should not be allowed to build up indefinitely. 

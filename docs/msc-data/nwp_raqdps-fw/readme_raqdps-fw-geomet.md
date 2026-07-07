@@ -1,4 +1,11 @@
+---
+status: deprecated
+---
+
 ![ECCC logo](../../img_eccc-logo.png)
+
+!!! failure "Retired data"
+    This dataset has been retired and is no longer available.
 
 # RAQDPS-FW data available on MSC GeoMet
 

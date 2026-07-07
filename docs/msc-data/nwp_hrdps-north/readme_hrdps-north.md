@@ -3,9 +3,13 @@ tags:
   - Retired data
   - High resolution
   - Deterministic
+status: deprecated
 ---
 
 ![ECCC logo](../../img_eccc-logo.png)
+
+!!! failure "Retired data"
+    This dataset has been retired and is no longer available.
 
 # Data and Products of the High Resolution Deterministic Prediction System North
 
@@ -16,11 +20,6 @@ As part of a modernization plan of the Meteorological Service of Canada (MSC), c
 ## Access
 
 ### How to access the data
-
-
-!!! failure inline end "Retired data"
-    This dataset has been retired and is no longer available.
-
 
 This data are available on the data server services [MSC Datamart](../../msc-datamart/index.md) and the web services [MSC GeoMet](../../msc-geomet/index.md) respectively:
 

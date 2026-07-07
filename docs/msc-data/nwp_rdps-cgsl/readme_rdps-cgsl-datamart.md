@@ -1,4 +1,11 @@
+---
+status: deprecated
+---
+
 ![ECCC logo](../../img_eccc-logo.png)
+
+!!! failure "Retired data"
+    This dataset has been retired and is no longer available.
 
 # Atmosphere-Ocean-Ice forecast system for the Gulf of St. Lawrence data in GRIB2 format
 

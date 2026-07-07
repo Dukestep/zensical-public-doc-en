@@ -3,10 +3,13 @@ tags:
   - Retired data
   - Regional
   - Deterministic
+status: deprecated
 ---
 
 ![ECCC logo](../../img_eccc-logo.png)
 
+!!! failure "Retired data"
+    This dataset has been retired and is no longer available.
 
 # Data and products of the Atmosphere-Ocean-Ice forecast system for the Gulf of St. Lawrence
 
@@ -33,11 +36,6 @@ calculated (Saucier et al. `[2003]`).
 ## Access
 
 ### How to access the data
-
-
-!!! failure inline end "Retired data"
-    This dataset has been retired and is no longer available.
-
 
 This data is available on the [MSC Datamart](../../msc-datamart/index.md) data server service as well as [MSC GeoMet](../../msc-geomet/index.md):
 
