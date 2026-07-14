@@ -154,7 +154,7 @@ Note that a user cannot, in a single GetCoverage request, ask for more than 256 
 
 #### <span class="badge badge-light">GeoMet-Weather</span>
 
-Please refer to the page [WMS Handling Time](../WMS_en/#handling-time) section, as for GeoMet-Weather,
+Please refer to the page [WMS Handling Time](../wms/#handling-time) section, as for GeoMet-Weather,
 the `TIME` and `DIM_REFERENCE_TIME` usage is the same.
 
 Note that the layers time metadata are not available in the WCS GetCapabilities or the WCS DescribeCoverage. The time metadata can only be access through the WMS GetCapabilities.

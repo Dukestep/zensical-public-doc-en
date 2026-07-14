@@ -59,11 +59,11 @@ There is one main weather alerts layer with all four types of alerts:
 **WMS styles:**
 
 * The list of available WMS styles is provided in the WMS GetCapabilities response ([example of a WMS GetCapabilities request](https://geo.weather.gc.ca/geomet?service=WMS&version=1.3.0&request=GetCapabilities&layer=Current-Alerts))
-* Furthermore, users can request layers with their own custom styles with the Styled Layer Descriptor (SLD) standard, please refer to the [SLD technical documentation](../../../msc-geomet/wms_en#handling-styles)
+* Furthermore, users can request layers with their own custom styles with the Styled Layer Descriptor (SLD) standard, please refer to the [SLD technical documentation](../../../msc-geomet/wms#handling-styles)
 
 **Legends:**
 
-* Legends are available for every WMS style. Details are provided in [the WMS legend technical documentation](../../../msc-geomet/wms_en#wms-getlegendgraphic)
+* Legends are available for every WMS style. Details are provided in [the WMS legend technical documentation](../../../msc-geomet/wms#wms-getlegendgraphic)
 * **Legend retrieval request example:**
 [https://geo.weather.gc.ca/geomet?version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Current-Alerts&format=image/png&STYLE=Current-Alerts](https://geo.weather.gc.ca/geomet?version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Current-Alerts&format=image/png&STYLE=Current-Alerts)
 

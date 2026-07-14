@@ -22,16 +22,16 @@ Retrieving the list of latest layer timesteps available:
 
 * Users can use the `layer` query parameter in WMS GetCapabilities requests to point to a specific layer and retrieve a smaller XML payload with up-to-date temporal dimensions. Example for the lightning density layer: [https://geo.weather.gc.ca/geomet?&service=WMS&version=1.3.0&request=GetCapabilities&layer=Lightning_2.5km_Density](https://geo.weather.gc.ca/geomet?&service=WMS&version=1.3.0&request=GetCapabilities&layer=Lightning_2.5km_Density)
 * Users can also get the most up-to-date time dimensions for all layers that have a time interval in minutes, including lightning density, in a single query, via the use of the `LAYERS_REFRESH_RATE=PT1M` query parameter. In addition, all layers with a time interval in minutes will be included in this GetCapabilities. Example for the query: [https://geo.weather.gc.ca/geomet?LAYERS_REFRESH_RATE=PT1M&SERVICE=WMS&REQUEST=GetCapabilities](https://geo.weather.gc.ca/geomet?LAYERS_REFRESH_RATE=PT1M&SERVICE=WMS&REQUEST=GetCapabilities)
-* Additional information is available in the [handling time with WMS section](../../../msc-geomet/wms_en#handling-time)
+* Additional information is available in the [handling time with WMS section](../../../msc-geomet/wms#handling-time)
 
 WMS styles:
 
 * The list of available WMS styles is provided in the WMS GetCapabilities response ([example of a WMS GetCapabilities request](https://geo.weather.gc.ca/geomet?service=WMS&version=1.3.0&request=GetCapabilities&layer=Lightning_2.5km_Density))
-* Furthermore, users can request layers with their own custom styles with the Styled Layer Descriptor (SLD) standard, please refer to the [SLD technical documentation](../../../msc-geomet/wms_en#handling-styles).
+* Furthermore, users can request layers with their own custom styles with the Styled Layer Descriptor (SLD) standard, please refer to the [SLD technical documentation](../../../msc-geomet/wms#handling-styles).
 
 Legends:
 
-* Legends are available for every WMS style. Details are provided in [the WMS legend technical documentation](../../../msc-geomet/wms_en#wms-getlegendgraphic).
+* Legends are available for every WMS style. Details are provided in [the WMS legend technical documentation](../../../msc-geomet/wms#wms-getlegendgraphic).
 * Legend retrieval request example: `https://geo.weather.gc.ca/geomet?version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Lightning_2.5km_Density&format=image/png&STYLE=Lightning`
 
 ![The Lightning WMS legend](https://geo.weather.gc.ca/geomet?version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=Lightning_2.5km_Density&format=image/png&STYLE=Lightning)

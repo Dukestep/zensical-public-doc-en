@@ -1,4 +1,7 @@
-
+---
+hide:
+  - toc
+---
 ![ECCC logo](../img_eccc-logo.png)
 
 # Meteorological Service of Canada open data

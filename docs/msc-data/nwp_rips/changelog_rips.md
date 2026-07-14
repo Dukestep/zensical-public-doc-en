@@ -15,7 +15,7 @@ On September 17, 2015, CMC implemented version 2.2 of the Regional Ice Predictio
     * Reduction of the observation-error standard deviation of SSMIS data from 0.1 to 0.05 (because of thinning)
     * Reject all data over lakes (as in version 1.0)
     * Wind filter to eliminate spurious ice concentration retrievals
-A technical note with more details on this change is available [at this link](file:///C:/Users/prisc/docs/msc-data/open-data/docs/msc-data/nwp_reps/changelog_reps.md).
+A technical note with more details on this change is available [at this link](../nwp_reps/changelog_reps.md).
 
 ## Tuesday July 23 2013
 
