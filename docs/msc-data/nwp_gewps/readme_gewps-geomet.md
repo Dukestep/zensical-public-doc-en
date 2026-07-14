@@ -42,16 +42,16 @@ Desktop GIS software such as QGIS also makes it easy to [navigate the WMS Get Ca
 Retrieving the available model runs and forecast hours available for a given GEWPS layer:
 
 * Users can use the `layer` query parameter in WMS GetCapabilities requests to point to a specific layer and retrieve a smaller XML payload with up-to-date temporal dimensions (see the `<Dimension>` tags). Example: [https://geo.weather.gc.ca/geomet/?lang=en&service=WMS&version=1.3.0&request=GetCapabilities&layers=GEWPS_25km_SignificantWaveHeight_01](https://geo.weather.gc.ca/geomet/?lang=en&service=WMS&version=1.3.0&request=GetCapabilities&layers=GEWPS_25km_SignificantWaveHeight_01)
-* Additional information is available in the [handling time with WMS section](../../../msc-geomet/wms#handling-time)
+* Additional information is available in the [handling time with WMS section](../../msc-geomet/wms.md#handling-time)
 
 WMS styles:
 
 * In addition to the default WMS style, several alternative WMS styles with different color scales are available. The list of available WMS styles is provided in the WMS GetCapabilities response.
-* Furthermore, users can request layers with their own custom styles with the Styled Layer Descriptor (SLD) standard, please refer to the [SLD technical documentation](../../../msc-geomet/wms#handling-styles).
+* Furthermore, users can request layers with their own custom styles with the Styled Layer Descriptor (SLD) standard, please refer to the [SLD technical documentation](../../msc-geomet/wms.md#handling-styles).
 
 Legends:
 
-* Legends are available for every WMS style. Details are provided in [the WMS legend technical documentation](../../../msc-geomet/wms#wms-getlegendgraphic).
+* Legends are available for every WMS style. Details are provided in [the WMS legend technical documentation](../../msc-geomet/wms.md#wms-getlegendgraphic).
 * Example of retrieving a layer's legend via a GetLegendGraphic request: [https://geo.weather.gc.ca/geomet?version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0
 &layer=GEWPS_25km_SignificantWaveHeight_01&format=image/png&STYLE=MODELWAVEHEIGHT_OCEAN_2-LINEAR](https://geo.weather.gc.ca/geomet?version=1.3.0&service=WMS&request=GetLegendGraphic&sld_version=1.1.0&layer=GEWPS_25km_SignificantWaveHeight_01&format=image/png&STYLE=MODELWAVEHEIGHT_OCEAN_2-LINEAR).
 

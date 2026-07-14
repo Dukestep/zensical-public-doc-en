@@ -58,7 +58,7 @@ The changes included in this upgrade are summarized as follows :
 * Addition of 14 Canadian S-band radars
 * Assimilation of observations from the Ontario Ministry of Natural Resources (MNR) network
 * Updates to the static quality control masks for 8 radars
-* Enlargement of the grid to cover the same domain as the [RDPS](../nwp_rdps)
+* Enlargement of the grid to cover the same domain as the [RDPS](../nwp_rdps/readme_rdps.md)
 
 The official note announcing this implementation is available [at this location](https://dd.meteo.gc.ca/doc/genots/2021/11/26/NOCN03_CWAO_262118___50159).
 

@@ -17,7 +17,7 @@
     - [X] Create and share custom animations
     - [X] Access third-party WMS services (ECMWF, NASA, NOAA, and more)
 
--   :material-layers: **[Tutorial: display, interact and animate WMS layers in QGIS](tutorial_WMS_QGIS/)**
+-   :material-layers: **[Tutorial: display, interact and animate WMS layers in QGIS](tutorial_WMS_QGIS.md)**
 
     ---
 
@@ -26,7 +26,7 @@
     - [X] Pan, zoom, and query pixel values (GetFeatureInfo)
     - [X] Animate the layer's time dimension
 
--   :material-web: **[Tutorial: building interactive web maps with OpenLayers and Leaflet](tutorial_web-maps/)**
+-   :material-web: **[Tutorial: building interactive web maps with OpenLayers and Leaflet](tutorial_web-maps.md)**
 
     ---
 
@@ -67,7 +67,7 @@
 
 <div class="grid cards" markdown>
 
--   :material-earth: **[Use OGC API - Features in QGIS](tutorial_OAFeat_QGIS/)**
+-   :material-earth: **[Use OGC API - Features in QGIS](tutorial_OAFeat_QGIS.md)**
 
     ---
 
@@ -75,7 +75,7 @@
     - [X] Build and filter data with a custom query
     - [X] Display the resulting vector layer
 
--   :material-chart-bar: **[Use OGC API - Features in Power BI](tutorial_OAFeat_Power-BI/)**
+-   :material-chart-bar: **[Use OGC API - Features in Power BI](tutorial_OAFeat_Power-BI.md)**
 
     ---
 
@@ -93,7 +93,7 @@
 
     [:lucide-download: Download the jupyter notebook](use-case_oafeat/use-case_oafeat-script.ipynb){ .md-button .md-button--primary }
 
--   :material-table: **[Make OGC API - Features requests using VBA in Excel and R](tutorial_OAFeat_R-Excel/)**
+-   :material-table: **[Make OGC API - Features requests using VBA in Excel and R](tutorial_OAFeat_R-Excel.md)**
 
     ---
 
@@ -107,7 +107,7 @@
 
 <div class="grid cards" markdown>
 
--   :material-layers: **[Tutorial: adding raw geospatial file in QGIS](tutorial_raw-data_QGIS/)**
+-   :material-layers: **[Tutorial: adding raw geospatial file in QGIS](tutorial_raw-data_QGIS.md)**
 
     ---
 

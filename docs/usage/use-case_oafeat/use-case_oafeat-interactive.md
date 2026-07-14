@@ -11,7 +11,7 @@ Hydrometric data from the Meteorological Service of Canada (MSC), Environment an
 * Display time series data in graphic and tabular format
 * Create an interactive map to display geospatial data
 
-This use case comes in two different versions. This version is conceived to be used in a Jupyter Notebook and includes more interactive features like dropdown menus to choose the value of the variables, an interactive plot with a variety of controls and an interactive map based on Leaflet. As some libraries used in this version like ipywidgets are not conceived to be used outside of a Jupyter Notebook, the [other version of this use case](../use-case_oafeat-script/) presents a script that is designed to be run in a terminal or an IDE.
+This use case comes in two different versions. This version is conceived to be used in a Jupyter Notebook and includes more interactive features like dropdown menus to choose the value of the variables, an interactive plot with a variety of controls and an interactive map based on Leaflet. As some libraries used in this version like ipywidgets are not conceived to be used outside of a Jupyter Notebook, the [other version of this use case](use-case_oafeat-script.md) presents a script that is designed to be run in a terminal or an IDE.
 
 To run the entire notebook, click on the ⏩️ symbol or select the Cell -> Run All option in the menu bar.
 
