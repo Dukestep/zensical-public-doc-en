@@ -4,14 +4,12 @@
 
 ## Tuesday April 14, 2026
 
-### Upgrade to Version 2.5.0 of the INCS adapted to the New High Performance Computing Infrastructure.
-
+#### Upgrade to Version 2.5.0 of the INCS adapted to the New High Performance Computing Infrastructure.
 See details [at this link](../changelog_multisystems.md)
 
-# Tuesday June 11, 2024
+## Tuesday June 11, 2024
 
-### Upgrade to Version 2.3.0 of the INCS.
-
+#### Upgrade to Version 2.3.0 of the INCS.
 On Tuesday June 11, 2024, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) will upgrade the Integrated Nowcasting System (INCS) to version 2.3.0.
 
 Significant change:
@@ -29,8 +27,7 @@ The technical specifications document for INCS 2.3.0 is available [at this link]
 
 ## Monday February 19, 2024
 
-### Upgrade to Version 2.2.0 of the INCS
-
+#### Upgrade to Version 2.2.0 of the INCS
 On Monday February 19, 2024, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 2.2.0 of the Integrated NowCasting System (INCS).
 
 The changes included in this upgrade are summarized as follows:
@@ -39,8 +36,7 @@ The changes included in this upgrade are summarized as follows:
 
 ## Thursday March 23, 2023
 
-### Upgrade to version 2.1.0 of the INCS to incorporate S-band radar data over Canada
-
+#### Upgrade to version 2.1.0 of the INCS to incorporate S-band radar data over Canada
 On Thursday March 23th, 2023, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 2.1.0 of the Integrated NowCasting System (INCS).
 
 The changes included in this upgrade are summarized as follows :
@@ -56,14 +52,12 @@ A technical note with more details is available at [this link](https://collabora
 
 ## Tuesday June 28, 2022
 
-### Upgrade to Version 1.10.0 of the INCS adapted to the New High Performance Computing Infrastructure.
-
+#### Upgrade to Version 1.10.0 of the INCS adapted to the New High Performance Computing Infrastructure.
 See details [at this link](../changelog_multisystems.md).
 
 ## Wednesday December 1st, 2021
 
-#### Upgrade to Version 1.9.0 of the Integrated NowCasting System (INCS) at the Canadian Meteorological Centre
-
+##### Upgrade to Version 1.9.0 of the Integrated NowCasting System (INCS) at the Canadian Meteorological Centre
 On Wednesday December 1st, 2021, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) will upgrade the Integrated NowCasting System (INCS) to version 1.9.0.
 
 The changes included in this upgrade are summarized as follows :
@@ -80,14 +74,12 @@ The technical specifications document for INCS v1.9.0 is available [at this link
 
 ## Tuesday January 21, 2020
 
-### Upgrade to INCS adapted to the New High Performance Computing Infrastructure.
-
+#### Upgrade to INCS adapted to the New High Performance Computing Infrastructure.
 See details [at this link](../changelog_multisystems.md)
 
 ## Thursday July 9, 2015
 
-### The Canadian Meteorological Centre Upgrades the INCS (Nowcast system) to version 1.5
-
+#### The Canadian Meteorological Centre Upgrades the INCS (Nowcast system) to version 1.5
 Starting on July 09, 2015 with the 1400 UTC run the Canadian Meteorological Centre (CMC) will update the Integrated NowCasting System (INCS). This system provides both observation data and very short term forecasts to the Scribe forecast production system. This upgrade improves mainly the quality of the component that processes the radar data of this system.
 
 A copy of the official note describing these changes [is available by clicking here](http://dd.weather.gc.ca/doc/genots/2015/07/08/NOCN03_CWAO_081637___00169).
@@ -96,8 +88,7 @@ A technical note with detailed information on this system will be provided short
 
 ## Wednesday November 20 2013
 
-### The Canadian Meteorological Centre Upgrades the INCS (Nowcasting) to version 1.4
-
+#### The Canadian Meteorological Centre Upgrades the INCS (Nowcasting) to version 1.4
 Starting on August 20 2013 with the 1400 UTC run the Canadian Meteorological Centre (CMC) will update the Integrated NowCasting System (INCS). This system provides both observation data and very short term forecasts to the Scribe forecast production system. This upgrade, which now integrates radar observations, brings the system version from 1.1 to version 1.4.
 
 The following changes were made to the system:
@@ -124,8 +115,7 @@ A technical note with detailed information on this system: [Technical Note of IN
 
 ## Tuesday August 7 2012
 
-### The Canadian Meteorological Centre Upgrades its INCS (Nowcasting) to version 1.1
-
+#### The Canadian Meteorological Centre Upgrades its INCS (Nowcasting) to version 1.1
 Starting on August 7 2012 with the 1400 UTC run the Canadian Meteorological Centre (CMC) will update its Integrated NowCasting System (INCS). This system provides both obervation data and very short term forecasts to the Scribe forecast production system. With this upgrade the system version number goes from 1.0 to 1.1.
 
 The following changes were made to the system:

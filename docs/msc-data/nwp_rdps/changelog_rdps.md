@@ -4,8 +4,7 @@
 
 ## Wednesday July 23, 2025
 
-### Implementation of a new statistical post-processing system, PROGNOS v1.0.0, for the Regional Deterministic Prediction System (RDPS) 9.0.0 of the Canadian Meteorological Centre (CMC)
-
+#### Implementation of a new statistical post-processing system, PROGNOS v1.0.0, for the Regional Deterministic Prediction System (RDPS) 9.0.0 of the Canadian Meteorological Centre (CMC)
 On Wednesday, July 23, 2025, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) will implement a new statistical post-processing system: PROGNOS.
 
 Main change:
@@ -18,8 +17,7 @@ The technical specifications document for PROGNOS v1.0.0 is available [via this 
  
 ## Tuesday June 11, 2024
 
-### Upgrade to Version 9.0.0 of the Regional Deterministic Prediction System (RDPS) at the Canadian Meteorological Centre
-
+#### Upgrade to Version 9.0.0 of the Regional Deterministic Prediction System (RDPS) at the Canadian Meteorological Centre
 On Tuesday June 11, 2024, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) will upgrade the Regional Deterministic Prediction System (RDPS) to version 9.0.0.
 
 Significant changes:
@@ -36,8 +34,7 @@ The technical specifications document for RDPS 9.0.0 is available [at this link]
 
 ## Thursday November 2, 2023
 
-### Addition of CSR observations from the GOES-18 satellite in the RDPS
-
+#### Addition of CSR observations from the GOES-18 satellite in the RDPS
 On Thursday November 2nd, 2023, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 8.1.1 of the Regional Deterministic Prediction System (RDPS).
 
 Only the data assimilation component was modified to include the following observations:
@@ -46,8 +43,7 @@ Addition of CSR (Clear-Sky Radiance) infrared radiances from the GOES-18 satelli
 
 ## Thursday September 14, 2023
 
-### Addition of commercial GNSS-RO observations from PlanetIQ in the RDPS
-
+#### Addition of commercial GNSS-RO observations from PlanetIQ in the RDPS
 On Thursday September 14th, 2023, starting with the 0000 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 8.1.1 of the Regional Deterministic Prediction System (RDPS).
 
 Only the data assimilation component was modified to include the following observations:
@@ -56,8 +52,7 @@ Addition of commercial GNSS-RO (Global Navigation Satellite System Radio Occulta
 
 ## Wednesday July 5, 2023
 
-### Addition of commercial GNSS-RO observations from Spire in the RDPS
-
+#### Addition of commercial GNSS-RO observations from Spire in the RDPS
 On Wednesday July 5th, 2023, starting with the 0000 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 8.1.1 of the Regional Deterministic Prediction System (RDPS).
 
 Only the data assimilation component was modified to include the following observations:
@@ -66,8 +61,7 @@ Addition of commercial GNSS-RO (Global Navigation Satellite System Radio Occulta
 
 ## Wednesday March 8, 2023
 
-### Correction to the quality control of snow depth observations from Canadian automatic stations in the RDPS
-
+#### Correction to the quality control of snow depth observations from Canadian automatic stations in the RDPS
 On Wednesday March 8th, 2023, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 8.1.1 of the Regional Deterministic Prediction System (RDPS).
 
 A modification to the quality control of snow depth observations from Canadian automatic stations used in the snow analysis has been installed in the RDPS.
@@ -78,8 +72,7 @@ The official note announcing the implementation of these changes is available [a
 
 ## Wednesday February 15, 2023
 
-### Addition of GPSRO observations from the Sentinel-6A satellite in the RDPS
-
+#### Addition of GPSRO observations from the Sentinel-6A satellite in the RDPS
 On Wednesday February 15th, 2023, starting with the 0000 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 8.1.0 of the Regional Deterministic Prediction System (RDPS).
 
 Only the data assimilation component was modified to include the following observations:
@@ -88,8 +81,7 @@ Addition of GPSRO (Global Positioning System Radio Occultation) observations fro
 
 ## Wednesday January 4, 2023
 
-### Replacement of Atmospheric Motion wind Vectors from GOES-17 by those from GOES-18 in the RDPS
-
+#### Replacement of Atmospheric Motion wind Vectors from GOES-17 by those from GOES-18 in the RDPS
 On Wednesday January 4th, 2023, starting with the 1800 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update of version 8.1.0 of the Regional Deterministic Prediction System (RDPS).
 
 Only the data assimilation component was modified to include the following observations:
@@ -98,8 +90,7 @@ Replacement of Atmospheric Motion wind Vectors (AMV) from GOES-17 by those from 
 
 ## Thursday November 3, 2022
 
-### Addition of surface observations received from ships in BUFR format in the RDPS
-
+#### Addition of surface observations received from ships in BUFR format in the RDPS
 On Thursday November 3rd, 2022, starting with the 0600 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update of version 8.1.0 of the Regional Deterministic Prediction System (RDPS).
 
 Only the data assimilation component was modified to include the following observations:
@@ -109,14 +100,12 @@ Addition of surface observations received from ships in BUFR (Binary Universal F
 
 ## Tuesday June 28, 2022
 
-### Upgrade to Version 8.1.0 of the RDPS adapted to the New High Performance Computing Infrastructure.
-
+#### Upgrade to Version 8.1.0 of the RDPS adapted to the New High Performance Computing Infrastructure.
 See details [at this link](../changelog_multisystems.md)
 
 ## Wednesday February 16, 2022
 
-### Addition of GPSRO observations from the GRACE-C and GRACE-D satellites in the RDPS
-
+#### Addition of GPSRO observations from the GRACE-C and GRACE-D satellites in the RDPS
 On Wednesday February 16th, 2022, starting with the 0000 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 8.0.0 of the Regional Deterministic Prediction System (RDPS).
 
 Only the data assimilation component was modified to include the following observations:
@@ -125,8 +114,7 @@ Addition of GPSRO (Global Positioning System Radio Occultation) observations fro
 
 ## Wednesday December 1st, 2021
 
-#### Upgrade to Version 8.0.0 of the Regional Deterministic Prediction System (RDPS) at the Canadian Meteorological Centre
-
+##### Upgrade to Version 8.0.0 of the Regional Deterministic Prediction System (RDPS) at the Canadian Meteorological Centre
 On Wednesday December 1st, 2021, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) will upgrade the Regional Deterministic Prediction System (RDPS) to version 8.0.0.
 
 A brief summary of the innovations included in this upgrade and their impact on performance can be found [in this document](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/fact_sheets/factsheet_rdps-800_e.pdf).
@@ -140,8 +128,7 @@ The technical specifications document for RDPS v8.0.0 is available [at this link
 
 ## Tuesday January 26th, 2021
 
-### Addition and replacement of satellite radiance observations
-
+#### Addition and replacement of satellite radiance observations
 On Tuesday January 26th, 2021, starting with the 0600 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 7.1.0 of the Regional Deterministic Prediction System (RDPS).
 
 Only the data assimilation component was modified to include and substitute the following observations:
@@ -151,8 +138,7 @@ Only the data assimilation component was modified to include and substitute the 
 
 ## Tuesday December 8th, 2020
 
-### Addition of satellite radiance observations
-
+#### Addition of satellite radiance observations
 On Tuesday December 8th, 2020, starting with the 0600 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 7.1.0 of the Regional Deterministic Prediction System (RDPS).
 
 Only the data assimilation component was modified to include the following observations:
@@ -163,8 +149,7 @@ Only the data assimilation component was modified to include the following obser
 
 ## Friday June 26th, 2020
 
-### Addition of GPSRO observations from the COSMIC-II satellites
-
+#### Addition of GPSRO observations from the COSMIC-II satellites
 On Friday June 26th, 2020, starting with the 0000 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 7.1.0 of the Regional Deterministic Prediction System (RDPS).
 
 Only the data assimilation component was modified to include the following observations:
@@ -173,8 +158,7 @@ Addition of GPSRO (Global Positioning System Radio Occultation) observations fro
 
 ## Wednesday April 29th, 2020
 
-### Addition of GPSRO observations from the PAZ and the KOMPSAT-5 satellites
-
+#### Addition of GPSRO observations from the PAZ and the KOMPSAT-5 satellites
 On Wednesday April 29th, 2020, starting with the 0000 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 7.1.0 of the Regional Deterministic Prediction System (RDPS).
 
 Only the data assimilation component was modified to include the following observations:
@@ -183,8 +167,7 @@ Addition of GPSRO (Global Positioning System Radio Occultation) observations fro
 
 ## Tuesday April 28th, 2020
 
-### Addition of AMV observations from the MetOp-3/C satellite
-
+#### Addition of AMV observations from the MetOp-3/C satellite
 On Tuesday April 28th, 2020, starting with the 0600 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 7.1.0 of the Regional Deterministic Prediction System (RDPS).
 
 Only the data assimilation component was modified to include the following observations:
@@ -193,15 +176,13 @@ Addition of AMV (Atmospheric Motion Vector) observations from the MetOp-3/C sate
 
 ## Tuesday January 21, 2020
 
-### Upgrade to Version 7.1.0 of the RDPS adapted to the New High Performance Computing Infrastructure.
-
+#### Upgrade to Version 7.1.0 of the RDPS adapted to the New High Performance Computing Infrastructure.
 See details [at this link](../changelog_multisystems.md)
 
 
 ## Tuesday July 23, 2019
 
-### Additional observations data in the Regional Deterministic Prediction System (RDPS) at the Canadian Meteorological Centre
-
+#### Additional observations data in the Regional Deterministic Prediction System (RDPS) at the Canadian Meteorological Centre
 On Tuesday July 23rd 2019, starting with the 0600 UTC run, the Meteorological Service of Canada's Canadian Meteorological Centre (CMC) proceeded with an update of its Regional Deterministic Prediction System (RDPS).
 
 The data assimilation component of the RDPS system was modified to use additional observations in seven observations families. All these families were already used, this upgrade mainly increase the data assimilation systems robustness.
@@ -213,8 +194,7 @@ The details of these changes can be consulted in the copy of the official note a
 
 ## Wednesday July 3, 2019
 
-### Major upgrade to Version 7.0.0 of the Regional Deterministic Prediction System (RDPS) at the Canadian Meteorological Centre
-
+#### Major upgrade to Version 7.0.0 of the Regional Deterministic Prediction System (RDPS) at the Canadian Meteorological Centre
 On Wednesday, July 3, 2019, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada will upgrade the Regional Deterministic Prediction System (RDPS) to version 7.0.0.
 
 The changes included in this upgrade are summarized as follows:
@@ -237,8 +217,7 @@ The technical specifications document for RDPS 7.0.0 [is available at this link]
 
 ## Tuesday September 18, 2018
 
-### Major upgrade to Version 6.0.0 of the Regional Deterministic Prediction System (RDPS) at the Canadian Meteorological Centre
-
+#### Major upgrade to Version 6.0.0 of the Regional Deterministic Prediction System (RDPS) at the Canadian Meteorological Centre
 On Tuesday, September 18, 2018, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada will upgrade the Regional Deterministic Prediction System (RDPS) to version 6.0.0.
 
 The changes included in this upgrade are summarized as follows:
@@ -265,8 +244,7 @@ The technical specifications document for RDPS 6.0.0 [is available at this link]
 
 ## Wednesday September 7, 2016
 
-### Upgrade to Version 5.0.0 of the Regional Deterministic Prediction System (RDPS) at the Canadian Meteorological Centre
-
+#### Upgrade to Version 5.0.0 of the Regional Deterministic Prediction System (RDPS) at the Canadian Meteorological Centre
 On Wednesday, September 7th 2016, starting with the 1200 UTC run, the Meteorological Service of Canada's Canadian Meteorological Centre (CMC) will upgrade the Regional Deterministic Prediction System (RDPS) to version 5.0.0.
 
 The changes included in this upgrade are summarized as follows:
@@ -292,8 +270,7 @@ The technical specifications document for RDPS 5.0.0 [is available at this link]
 
 ## Tuesday December 15, 2015
 
-### Upgrade to Version 4.1.0 of the Regional Deterministic Prediction System (RDPS) at the Canadian Meteorological Centre
-
+#### Upgrade to Version 4.1.0 of the Regional Deterministic Prediction System (RDPS) at the Canadian Meteorological Centre
 On Tuesday December 15th 2015, starting with the 1200 UTC run, the Meteorological Service of Canada's Canadian Meteorological Centre (CMC) will upgrade the Regional Deterministic Prediction System (RDPS) to version 4.1.0.
 
 The changes included in this upgrade are summarized as follows:
@@ -317,8 +294,7 @@ The technical specifications document for RDPS 4.1.0 [is available at this link]
 
 ## Tuesday November 18th 2014
 
-### Major Upgrade to the Regional Deterministic Prediction System (RDPS) version 4.0.0 at the Canadian Meteorological Centre
-
+#### Major Upgrade to the Regional Deterministic Prediction System (RDPS) version 4.0.0 at the Canadian Meteorological Centre
 On Tuesday November 18th 2014, starting with the 1200 UTC run the Meteorological Service of Canada's Canadian Meteorological Centre (CMC) will upgrade the Regional Deterministic Prediction System (RDPS) to version 4.0.0.
 Summary of the major changes included in this upgrade:
 
@@ -339,8 +315,7 @@ A technical note with more details on this change [is available at this link](ht
 
 ## Tuesday May 6th 2014
 
-### Addition of IASI observations from METOP-B/1 to the operational data of the RDPS
-
+#### Addition of IASI observations from METOP-B/1 to the operational data of the RDPS
 On May 6th, 2014, starting with the 1200 UTC prediction run of the Regional Deterministic Prediction System (RDPS), the Canadian Meteorological Centre (CMC) of Environment Canada added radiance observations from the IASI instrument aboard the METOP-B/1 satellite to the operational data assimilation system. IASI is the last of the instruments on-board the METOP-B/1 satellite to be included in the operational data assimilation systems.
 
 Motivation for the incorporation of IASI observations from METOP-B/1 in the operational data of the RDPS:
@@ -355,8 +330,7 @@ A copy of the official note announcing the implementation of this change along w
 
 ## Thursday November 7 2013
 
-### Additional satellite data (CSR, ATOVS, polar winds) added to the RDPS assimilation systems and various other adjustments
-
+#### Additional satellite data (CSR, ATOVS, polar winds) added to the RDPS assimilation systems and various other adjustments
 On Thursday November 7 2013, additional satellite data was added to the operational data assimilation system of the Global Deterministic Prediction System (GDPS). Changes include the following: additional CSR (Clear Sky Radiance) radiances from MeteoSat10, additional ATOVS radiances from Metop-B and additional AVHRR polar winds from Metop-B.
 
 Along with the addition of satellite data, there were also other adjustments made to the systems. There was an update of the spectroscopic coefficient files used by the RTTOV radiative transfer model for computing the simulated observations (the 6-hour "P"rognosis portion of the Observations-Prognosis (O-P) of the AMSUB and MHS instruments onboard all satellites. These new coefficients labelled as "Newstyle" do not separate out water vapor transmittances into line absorption and continuum absorption. The impact on the results are neutral.
@@ -368,13 +342,11 @@ As a result of all of the above changes installed in this implementation, the RD
 
 ## Tuesday July 3rd 2013
 
-### Update to the RDPS binary (in support of the production of the variable PX)
-
+#### Update to the RDPS binary (in support of the production of the variable PX)
 
 ## Wednesday February 13, 2013
 
-### Regional Deterministic Prediction System (RDPS) version 3.1.0 installed at the Canadian Meteorological Centre
-
+#### Regional Deterministic Prediction System (RDPS) version 3.1.0 installed at the Canadian Meteorological Centre
 On Wednesday February 13 2013, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) will implement version 3.1.0 of the Regional Deterministic Prediction System (RDPS) in order to harmonize it with the [implementation on that same day of the GDPS-3.0.0](../nwp_gdps/changelog_gdps.md). As a result, RDPS forecasts are improved as a result.
 
 Please consult the documentation available regarding the GDPS-3.0.0 implementation [at this link for more information](../nwp_gdps/changelog_gdps.md).
@@ -382,15 +354,13 @@ Please consult the documentation available regarding the GDPS-3.0.0 implementati
 
 ## Wednesday October 19 2012
 
-### Regional Deterministic Prediction System (RDPS) Data Assimilation Window extended by 5 minutes
-
+#### Regional Deterministic Prediction System (RDPS) Data Assimilation Window extended by 5 minutes
 Starting with the 18Z run of October 19 2012, the `[00,06,12,18]`Z runs of the RDPS will now be launched at `[00,06,12,18]`Z+2:00 allowing those runs to collect an additional 5 minutes of observation data prior to the model integration.
 
 
 ## Wednesday October 3 2012
 
-### Major Upgrade to the Regional Deterministic Prediction System (RDPS) at the Canadian Meteorological Centre
-
+#### Major Upgrade to the Regional Deterministic Prediction System (RDPS) at the Canadian Meteorological Centre
 On Wednesday October 3 2012, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) will implement version 3.0.0 of the Regional Deterministic Prediction System (RDPS). This version includes an increase in resolution to 10 km from the previous 15 km, a 4D-Var data assimilation system replacing the previous 3D-Var, as well as important changes in the GEM model physics. This results in significant forecast improvements especially for the winter season.
 
 As part of this implementation the cutoff time for collecting observations has been reduced by 10 minutes and is now `[00,06,12,18]`Z+1:55
@@ -404,8 +374,7 @@ A technical note with more details on this change [is available at this link](ht
 
 ## Wednesday November 16, 2011
 
-### Improvements to the Regional Deterministic Prediction System (RDPS v 2.0.0) of the Canadian Meteorological Centre
-
+#### Improvements to the Regional Deterministic Prediction System (RDPS v 2.0.0) of the Canadian Meteorological Centre
 Starting on November 16 2011 at 06 UTC, the Canadian Meteorological Centre (CMC) will implement changes to the regional data assimilation system by incorporating additional satellite data and by introducing a higher quality analysis of the sea surface temperature.
 
 Here is an overview of changes involving the regional data assimilation system:

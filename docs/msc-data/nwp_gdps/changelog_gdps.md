@@ -4,8 +4,7 @@
 
 ## Tuesday May 26, 2026
 
-### Upgrade to Version 10.0.0 of the Global Deterministic Prediction System (GDPS)  
- 
+#### Upgrade to Version 10.0.0 of the Global Deterministic Prediction System (GDPS)   
 On Tuesday, May 26, 2026, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) will upgrade the Global Deterministic Prediction System (GDPS) to version 10.0.0.
 
 Significant changes: 
@@ -27,14 +26,12 @@ The technical specifications document is available [at this link](https://collab
 
 ## Tuesday April 14, 2026
 
-### Upgrade to Version 9.1.0 of the GDPS adapted to the New High Performance Computing Infrastructure.
-
+#### Upgrade to Version 9.1.0 of the GDPS adapted to the New High Performance Computing Infrastructure.
 See details [at this link](../changelog_multisystems.md)
 
 ## Wednesday July 23, 2025
 
-### Implementation of a new statistical post-processing system, PROGNOS v1.0.0, for the Global Deterministic Prediction System (GDPS) 9.0.0 of the Canadian Meteorological Centre (CMC)
-
+#### Implementation of a new statistical post-processing system, PROGNOS v1.0.0, for the Global Deterministic Prediction System (GDPS) 9.0.0 of the Canadian Meteorological Centre (CMC)
 On Wednesday, July 23, 2025, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) will implement a new statistical post-processing system: PROGNOS.
 
 Main change:
@@ -47,8 +44,7 @@ The technical specifications document for PROGNOS v1.0.0 is available [via this 
 
 ## Thursday June 26th, 2025
 
-### Addition of AMV observations from the NOAA-21 and GOES19 satellites in the GDPS
-
+#### Addition of AMV observations from the NOAA-21 and GOES19 satellites in the GDPS
 On Thursday June 26th, 2025, starting with the 0600 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 9.0.0 of the Global Deterministic Prediction System (GDPS).
 
 Only the data assimilation component was modified to add the following satellite observation sources:
@@ -57,8 +53,7 @@ Only the data assimilation component was modified to add the following satellite
 
 ## Tuesday June 17th, 2025
 
-### Production and use of dynamic allowlists for radiosonde, aircraft and ground-based GNSS observations in the GDPS
-
+#### Production and use of dynamic allowlists for radiosonde, aircraft and ground-based GNSS observations in the GDPS
 On Tuesday June 17th, 2025, starting with the 0600 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 9.0.0 of the Global Deterministic Prediction System (GDPS).
 
 Only the data assimilation component was modified to include:
@@ -68,8 +63,7 @@ Only the data assimilation component was modified to include:
 
 ## Monday May 26th, 2025
 
-### Addition of ATMS and CrIS observations from the NOAA-21 satellite and RARS-MWHS2 observations from the FY-3D and FY-3E satellites in the GDPS
-
+#### Addition of ATMS and CrIS observations from the NOAA-21 satellite and RARS-MWHS2 observations from the FY-3D and FY-3E satellites in the GDPS
 On Monday May 26th, 2025, starting with the 0600 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 9.0.0 of the Global Deterministic Prediction System (GDPS).
 
 Only the data assimilation component was modified to add the following satellite observation sources:
@@ -79,8 +73,7 @@ Only the data assimilation component was modified to add the following satellite
 
 ## Wednesday April 2, 2025
 
-### Technical update of atmospheric data assimilation systems
-
+#### Technical update of atmospheric data assimilation systems
 On Wednesday April 2nd, 2025, starting with the 0600 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 9.0.0 of the Global Deterministic Prediction System (GDPS).
 
 Only the data assimilation component was modified:
@@ -90,8 +83,7 @@ Only the data assimilation component was modified:
 
 ## Monday March 3, 2025
 
-### Correction to the treatment of TropOMI total column ozone observations
-
+#### Correction to the treatment of TropOMI total column ozone observations
 On Monday March 3rd, 2025, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 9.0.0 of the Global Deterministic Prediction System (GDPS).
 
 Only the data assimilation component was modified with:
@@ -100,8 +92,7 @@ Only the data assimilation component was modified with:
 
 ## Wednesday October 23, 2024
 
-### Addition of new satellite observation sources in the GDPS
-
+#### Addition of new satellite observation sources in the GDPS
 On Wednesday October 23rd, 2024, starting with the 0600 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 9.0.0 of the Global Deterministic Prediction System (GDPS).
 
 Only the data assimilation component was modified to add the following satellite observation sources:
@@ -111,8 +102,7 @@ Only the data assimilation component was modified to add the following satellite
 
 ## Tuesday June 11, 2024
 
-### Upgrade to Version 9.0.0 of the Global Deterministic Prediction System (GDPS) at the Canadian Meteorological Centre
-
+#### Upgrade to Version 9.0.0 of the Global Deterministic Prediction System (GDPS) at the Canadian Meteorological Centre
 On Tuesday June 11, 2024, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) will upgrade the Global Deterministic Prediction System (GDPS) to version 9.0.0.
 
 Significant changes:
@@ -135,8 +125,7 @@ The technical specifications document for GDPS 9.0.0 is available [at this link]
 
 ## Thursday November 2, 2023
 
-### Addition of CSR observations from the GOES-18 satellite in the GDPS
-
+#### Addition of CSR observations from the GOES-18 satellite in the GDPS
 On Thursday November 2nd, 2023, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 8.1.1 of the Global Deterministic Prediction System (GDPS).
 
 Only the data assimilation component was modified to include the following observations:
@@ -145,8 +134,7 @@ Addition of CSR (Clear-Sky Radiance) infrared radiances from the GOES-18 satelli
 
 ## Thursday September 14, 2023
 
-### Addition of commercial GNSS-RO observations from PlanetIQ in the GDPS
-
+#### Addition of commercial GNSS-RO observations from PlanetIQ in the GDPS
 On Thursday September 14th, 2023, starting with the 0000 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 8.1.1 of the Global Deterministic Prediction System (GDPS).
 
 Only the data assimilation component was modified to include the following observations:
@@ -155,8 +143,7 @@ Addition of commercial GNSS-RO (Global Navigation Satellite System Radio Occulta
 
 ## Wednesday July 5, 2023
 
-### Addition of commercial GNSS-RO observations from Spire in the GDPS
-
+#### Addition of commercial GNSS-RO observations from Spire in the GDPS
 On Wednesday July 5th, 2023, starting with the 0000 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 8.1.1 of the Global Deterministic Prediction System (GDPS).
 
 Only the data assimilation component was modified to include the following observations:
@@ -165,8 +152,7 @@ Addition of commercial GNSS-RO (Global Navigation Satellite System Radio Occulta
 
 ## Wednesday March 8, 2023
 
-### Correction to the quality control of snow depth observations from Canadian automatic stations in the GDPS
-
+#### Correction to the quality control of snow depth observations from Canadian automatic stations in the GDPS
 On Wednesday March 8th, 2023, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 8.1.1 of the Global Deterministic Prediction System (GDPS).
 
 A modification to the quality control of snow depth observations from Canadian automatic stations used in the snow analysis has been installed in the GDPS.
@@ -177,8 +163,7 @@ The official note announcing the implementation of these changes is available [a
 
 ## Wednesday February 15, 2023
 
-### Addition of GPSRO observations from the Sentinel-6A satellite in the GDPS
-
+#### Addition of GPSRO observations from the Sentinel-6A satellite in the GDPS
 On Wednesday February 15th, 2023, starting with the 0000 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 8.1.0 of the Global Deterministic Prediction System (GDPS).
 
 Only the data assimilation component was modified to include the following observations:
@@ -187,8 +172,7 @@ Addition of GPSRO (Global Positioning System Radio Occultation) observations fro
 
 ## Wednesday January 4, 2023
 
-### Replacement of Atmospheric Motion wind Vectors from GOES-17 by those from GOES-18 in the GDPS
-
+#### Replacement of Atmospheric Motion wind Vectors from GOES-17 by those from GOES-18 in the GDPS
 On Wednesday January 4th, 2023, starting with the 1800 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update of version 8.1.0 of the Global Deterministic Prediction System (GDPS).
 
 Only the data assimilation component was modified to include the following observations:
@@ -197,8 +181,7 @@ Replacement of Atmospheric Motion wind Vectors (AMV) from GOES-17 by those from 
 
 ## Thursday November 3, 2022
 
-### Addition of surface observations received from ships in BUFR format in the GDPS
-
+#### Addition of surface observations received from ships in BUFR format in the GDPS
 On Thursday November 3rd, 2022, starting with the 0600 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update of version 8.1.0 of the Global Deterministic Prediction System (GDPS).
 
 Only the data assimilation component was modified to include the following observations:
@@ -207,14 +190,12 @@ Addition of surface observations received from ships in BUFR (Binary Universal F
 
 ## Tuesday June 28, 2022
 
-### Upgrade to Version 8.1.0 of the GDPS adapted to the New High Performance Computing Infrastructure.
-
+#### Upgrade to Version 8.1.0 of the GDPS adapted to the New High Performance Computing Infrastructure.
 See details [at this link](../changelog_multisystems.md)
 
 ## Wednesday February 16, 2022
 
-### Addition of GPSRO observations from the GRACE-C and GRACE-D satellites in the GDPS
-
+#### Addition of GPSRO observations from the GRACE-C and GRACE-D satellites in the GDPS
 On Wednesday February 16th, 2022, starting with the 0000 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 8.0.0 of the Global Deterministic Prediction System (GDPS).
 
 Only the data assimilation component was modified to include the following observations:
@@ -223,8 +204,7 @@ Addition of GPSRO (Global Positioning System Radio Occultation) observations fro
 
 ## Wednesday December 1st, 2021
 
-### Upgrade to Version 8.0.0 of the Global Deterministic Prediction System (GDPS) at the Canadian Meteorological Centre
-
+#### Upgrade to Version 8.0.0 of the Global Deterministic Prediction System (GDPS) at the Canadian Meteorological Centre
 On Wednesday December 1st, 2021, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) will upgrade the Global Deterministic Prediction System (GDPS) to version 8.0.0.
 
 A brief summary of the innovations included in this upgrade and their impact on performance can be consulted in this document: [GDPS_8.0.0_innovations](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/fact_sheets/factsheet_gdps-800_e.pdf). For detailed description of this upgrade, please see the [Technical note](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/tech_notes/technote_gdps-800_e.pdf).
@@ -239,8 +219,7 @@ Associated Notes:
 
 ## Tuesday January 26th, 2021
 
-### Addition and replacement of satellite radiance observations
-
+#### Addition and replacement of satellite radiance observations
 On Tuesday January 26th, 2021, starting with the 0600 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 7.1.0 of the Global Deterministic Prediction System (GDPS).
 
 Only the data assimilation component was modified to include and substitute the following observations:
@@ -250,8 +229,7 @@ Only the data assimilation component was modified to include and substitute the 
 
 ## Tuesday December 8th, 2020
 
-### Addition of satellite radiance observations
-
+#### Addition of satellite radiance observations
 On Tuesday December 8th, 2020, starting with the 0600 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 7.1.0 of the Global Deterministic Prediction System (GDPS).
 
 Only the data assimilation component was modified to include the following observations:
@@ -262,8 +240,7 @@ Only the data assimilation component was modified to include the following obser
 
 ## Friday June 26th, 2020
 
-### Addition of GPSRO observations from the COSMIC-II satellites
-
+#### Addition of GPSRO observations from the COSMIC-II satellites
 On Friday June 26th, 2020, starting with the 0000 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 7.1.0 of the Global Deterministic Prediction System (GDPS).
 
 Only the data assimilation component was modified to include the following observations:
@@ -272,8 +249,7 @@ Addition of GPSRO (Global Positioning System Radio Occultation) observations fro
 
 ## Wednesday April 29th, 2020
 
-### Addition of GPSRO observations from the PAZ and the KOMPSAT-5 satellites
-
+#### Addition of GPSRO observations from the PAZ and the KOMPSAT-5 satellites
 On Wednesday April 29th, 2020, starting with the 0000 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 7.1.0 of the Global Deterministic Prediction System (GDPS).
 
 Only the data assimilation component was modified to include the following observations:
@@ -282,8 +258,7 @@ Addition of GPSRO (Global Positioning System Radio Occultation) observations fro
 
 ## Tuesday April 28th, 2020
 
-### Addition of AMV observations from the MetOp-3/C satellite
-
+#### Addition of AMV observations from the MetOp-3/C satellite
 On Tuesday April 28th, 2020, starting with the 0600 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 7.1.0 of the Global Deterministic Prediction System (GDPS.
 
 Only the data assimilation component was modified to include the following observations:
@@ -292,14 +267,12 @@ Addition of AMV (Atmospheric Motion Vector) observations from the MetOp-3/C sate
 
 ## Tuesday January 21, 2020
 
-### Upgrade to Version 7.1.0 of the GDPS adapted to the New High Performance Computing Infrastructure.
-
+#### Upgrade to Version 7.1.0 of the GDPS adapted to the New High Performance Computing Infrastructure.
 See details [at this link](../changelog_multisystems.md)
 
 ## Tuesday July 23, 2019
 
-### Additional observations data in the Global Deterministic Prediction System (GDPS) at the Canadian Meteorological Centre
-
+#### Additional observations data in the Global Deterministic Prediction System (GDPS) at the Canadian Meteorological Centre
 On Tuesday July 23rd 2019, starting with the 0600 UTC run, the Meteorological Service of Canada's Canadian Meteorological Centre (CMC) proceeded with an update of its Global Deterministic Prediction System (GDPS).
 
 The data assimilation component of the GDPS system was modified to use additional observations in seven observations families. All these families were already used, this upgrade mainly increase the data assimilation systems robustness.
@@ -310,8 +283,7 @@ The data assimilation component of the GDPS system was modified to use additiona
 
 ## Wednesday July 3, 2019
 
-### Upgrade to Version 7.0.0 of the Global Deterministic Prediction System (GDPS) at the Canadian Meteorological Centre
-
+#### Upgrade to Version 7.0.0 of the Global Deterministic Prediction System (GDPS) at the Canadian Meteorological Centre
 On Wednesday July 3rd 2019, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada will upgrade the Global Deterministic Prediction System (GDPS) to version 7.0.0.
 The changes included in this upgrade are summarized as follows:
 
@@ -338,8 +310,7 @@ Notes:
 
 ## Tuesday September 18, 2018
 
-### Upgrade to Version 6.1.0 of the Global Deterministic Prediction System (GDPS) at the Canadian Meteorological Centre
-
+#### Upgrade to Version 6.1.0 of the Global Deterministic Prediction System (GDPS) at the Canadian Meteorological Centre
 On Tuesday September 18th 2018, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada will upgrade the Global Deterministic Prediction System (GDPS) to version 6.1.0.
 The changes included in this upgrade are summarized as follows:
 
@@ -360,8 +331,7 @@ Notes:
 
 ## Wednesday November 1, 2017
 
-### Major Upgrade to Version 6.0.0 of the Global Deterministic Prediction System (GDPS) at the Canadian Meteorological Centre
-
+#### Major Upgrade to Version 6.0.0 of the Global Deterministic Prediction System (GDPS) at the Canadian Meteorological Centre
 On Wednesday November 1st 2017, starting with the 1200 UTC run, the Meteorological Service of Canada's Canadian Meteorological Centre (CMC) will upgrade the Global Deterministic Prediction System (GDPS) to version 6.0.0.
 The changes included in this upgrade are summarized as follows:
 
@@ -379,8 +349,7 @@ Notes:
 
 ## Tuesday December 15, 2015
 
-### Major Upgrade to Version 5.0.0 of the Global Deterministic Prediction System (GDPS) at the Canadian Meteorological Centre
-
+#### Major Upgrade to Version 5.0.0 of the Global Deterministic Prediction System (GDPS) at the Canadian Meteorological Centre
 On Tuesday December 15th 2015, starting with the 1200 UTC run, the Meteorological Service of Canada's Canadian Meteorological Centre (CMC) will upgrade the Global Deterministic Prediction System (GDPS) to version 5.0.0.
 The changes included in this upgrade are summarized as follows:
 
@@ -407,8 +376,7 @@ Notes:
 
 ## Tuesday November 18th 2014
 
-### Major Upgrade to the Global Deterministic Prediction System (GDPS) version 4.0.0 at the Canadian Meteorological Centre
-
+#### Major Upgrade to the Global Deterministic Prediction System (GDPS) version 4.0.0 at the Canadian Meteorological Centre
 On Tuesday November 18th 2014, starting with the 1200 UTC run the Meteorological Service of Canada's Canadian Meteorological Centre (CMC) will upgrade the Global Deterministic Prediction System (GDPS) to version 4.0.0.
 Summary of the major changes included in this upgrade:
 
@@ -432,8 +400,7 @@ Notes:
 
 ## Tuesday May 6th 2014
 
-### Addition of IASI observations from METOP-B/1 to the operational data of the GDPS
-
+#### Addition of IASI observations from METOP-B/1 to the operational data of the GDPS
 On April 30th, 2014, starting with the 0600 UTC trial-field run of the Global Deterministic Prediction System (GDPS), the Canadian Meteorological Centre (CMC) of Environment Canada added radiance observations from the IASI instrument aboard the METOP-B/1 satellite to the operational data assimilation system. IASI is the last of the instruments on-board the METOP-B/1 satellite to be included in the operational data assimilation systems.
 
 Motivation for the incorporation of IASI observations from METOP-B/1 in the operational data of the GDPS:
@@ -447,8 +414,7 @@ You can also access the GDPS products page by [clicking here](readme_gdps.md).
 
 ## Thursday November 7 2013
 
-### Additional satellite data (CSR, ATOVS, polar winds) added to the GDPS assimilation systems and various other adjustments
-
+#### Additional satellite data (CSR, ATOVS, polar winds) added to the GDPS assimilation systems and various other adjustments
 On Thursday November 7 2013, additional satellite data was added to the operational data assimilation system of the Global Deterministic Prediction System (GDPS). Changes include the following: additional CSR (Clear Sky Radiance) radiances from MeteoSat10, additional ATOVS radiances from Metop-B and additional AVHRR polar winds from Metop-B.
 
 Along with the addition of satellite data, there were also other adjustments made to the systems. There was an update of the spectroscopic coefficient files used by the RTTOV radiative transfer model for computing the simulated observations (the 6-hour "P"rognosis portion of the Observations-Prognosis (O-P) of the AMSUB and MHS instruments onboard all satellites. These new coefficients labelled as "Newstyle" do not separate out water vapor transmittances into line absorption and continuum absorption. The impact on the results are neutral.
@@ -457,12 +423,10 @@ As a result of all of the above changes installed in this implementation, the GD
 
 ## Monday August 12 2013
 
-### Adjustments made so that scribe global matrices now available about 30 minutes earlier.
-
+#### Adjustments made so that scribe global matrices now available about 30 minutes earlier.
 ## Wednesday February 13, 2013
 
-### Major Upgrade to the Global Deterministic Prediction System (GDPS) version 3.0.0 at the Canadian Meteorological Centre
-
+#### Major Upgrade to the Global Deterministic Prediction System (GDPS) version 3.0.0 at the Canadian Meteorological Centre
 On Wednesday February 13 2013, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) will implement version 3.0.0 of the Global Deterministic Prediction System (GDPS).
 
 This major upgrade includes a new version to the GEM model, important changes to the 4D-Var data assimilation scheme and to some of the model's physics schemes.
@@ -483,8 +447,7 @@ Notes:
 
 ## Wednesday November 16, 2011
 
-### Improvements to the Global Deterministic Prediction System (GDPS v 2.2.0) of the Canadian Meteorological Centre
-
+#### Improvements to the Global Deterministic Prediction System (GDPS v 2.2.0) of the Canadian Meteorological Centre
 Starting on November 16 2011 at 06 UTC, the Canadian Meteorological Centre (CMC) will implement changes to the global and regional data assimilation systems by incorporating additional satellite data and by introducing a higher quality analysis of the sea surface temperature.
 
 Here is an overview of changes involving global data assimilation system:

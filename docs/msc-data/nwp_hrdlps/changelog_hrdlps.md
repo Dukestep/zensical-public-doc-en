@@ -4,14 +4,12 @@
 
 ## Thursday May 1, 2025
 
-### The High Resolution Deterministic Land Surface Prediction System (HRDLPS) is declared operational at the Canadian Meteorological Centre
-
+#### The High Resolution Deterministic Land Surface Prediction System (HRDLPS) is declared operational at the Canadian Meteorological Centre
 Effective May 1st, 2025, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada declared operational the High Resolution Deterministic Land Surface Prediction System (HRDLPS, v2.2.1)
 
 ## Tuesday June 11, 2024
 
-### Upgrade to Version 2.2.0 of the High Resolution Deterministic Land Surface Prediction System (HRDLPS) at the Canadian Meteorological Centre
-
+#### Upgrade to Version 2.2.0 of the High Resolution Deterministic Land Surface Prediction System (HRDLPS) at the Canadian Meteorological Centre
 On Tuesday June 11, 2024, starting with the 1200 UTC run, the Meteorological Service of Canada's Canadian Meteorological Centre (CMC) will upgrade the High Resolution Deterministic Land Surface Prediction System (HRDLPS) to v2.2.0
 
 Significant changes:
@@ -27,14 +25,12 @@ The technical specifications document for HRDLPS 2.2.0 is available [at this lin
 
 ## Tuesday June 28, 2022
 
-### Upgrade to Version 2.1.0 of the HRDLPS adapted to the New High Performance Computing Infrastructure.
-
+#### Upgrade to Version 2.1.0 of the HRDLPS adapted to the New High Performance Computing Infrastructure.
 See details [at this link](../changelog_multisystems.md).
 
 ## Wednesday December 1st, 2021
 
-### Upgrade to Version 2.0.0 of the High Resolution Deterministic Land Surface Prediction System (HRDLPS) at the Canadian Meteorological Centre
-
+#### Upgrade to Version 2.0.0 of the High Resolution Deterministic Land Surface Prediction System (HRDLPS) at the Canadian Meteorological Centre
 Effective Wednesday, December 1st, 2021, the Canadian Meteorological Centre (CMC) will update the High Resolution Deterministic Land Surface Prediction System (HRDLPS) to v2.0.0.
 
 

@@ -4,14 +4,12 @@
 
 ## Tuesday April 14, 2026
 
-### Upgrade to Version 1.8.0 of the REWPS adapted to the New High Performance Computing Infrastructure.
-
+#### Upgrade to Version 1.8.0 of the REWPS adapted to the New High Performance Computing Infrastructure.
 See details [at this link](../changelog_multisystems.md)
 
 ## Tuesday June 11, 2024
 
-### Upgrade to Version 1.7.0 of the Regional Ensemble Wave Prediction System (REWPS) at the Canadian Meteorological Centre
-
+#### Upgrade to Version 1.7.0 of the Regional Ensemble Wave Prediction System (REWPS) at the Canadian Meteorological Centre
 On Tuesday June 11, 2024, starting with the 1200 UTC run, the Meteorological Service of Canada's Canadian Meteorological Centre (CMC) will upgrade the Regional Ensemble Wave Prediction System (REWPS) to v1.7.0
 
 Significant changes:
@@ -31,14 +29,12 @@ The technical specifications document for REWPS 1.7.0 is available [at this link
 
 ## Tuesday June 28, 2022
 
-### Upgrade to Version 1.6.0 of the REWPS adapted to the New High Performance Computing Infrastructure.
-
+#### Upgrade to Version 1.6.0 of the REWPS adapted to the New High Performance Computing Infrastructure.
 See details [at this link](../changelog_multisystems.md).
 
 ## Wednesday December 1st, 2021
 
-### Upgrade to Version 1.5.0 of the Regional Ensemble Wave Prediction System (REWPS) at the Canadian Meteorological Centre
-
+#### Upgrade to Version 1.5.0 of the Regional Ensemble Wave Prediction System (REWPS) at the Canadian Meteorological Centre
 On Wednesday December 1st, 2021, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) will upgrade the Regional Ensemble Wave Prediction System (REWPS) to version 1.5.0.
 
 The changes included in this upgrade are summarized as follows:
@@ -53,14 +49,12 @@ Associated Notes:
 
 ## Tuesday January 21, 2020
 
-### Upgrade to Version 1.4.0 of the REWPS adapted to the New High Performance Computing Infrastructure.
-
+#### Upgrade to Version 1.4.0 of the REWPS adapted to the New High Performance Computing Infrastructure.
 See details [at this link](../changelog_multisystems.md)
 
 ## Monday March 4, 2019
 
-### Upgrades to the Regional Ensemble Wave Prediction System (REWPS) at the Canadian Meteorological Centre (CMC)
-
+#### Upgrades to the Regional Ensemble Wave Prediction System (REWPS) at the Canadian Meteorological Centre (CMC)
 Effective March 4, 2019, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada will update the Regional Ensemble Wave Prediction System (REWPS) to v1.2.0.
 
 REWPS v1.2.0 is different from the previous operational systems in that the ice analysis used as input for both has been replaced by an ice forecast provided by the [Water Cycle Prediction System (WCPS v2.0.0)](../nwp_wcps/changelog_wcps.md), which was declared operational on March 4, 2019.
@@ -71,8 +65,7 @@ The technical specifications document for REWPS 1.2.0 is available [at this link
 
 ## Wednesday April 4, 2018
 
-### The new Regional Ensemble Wave Prediction System (REWPS) is declared operational at the Canadian Meteorological Centre (CMC)
-
+#### The new Regional Ensemble Wave Prediction System (REWPS) is declared operational at the Canadian Meteorological Centre (CMC)
 Effective April 4, 2018, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada declared operational the new Regional Ensemble Wave Prediction System (REWPS v1.0.0).
 
 A copy of the official note announcing the implementation of these changes is available [at this link](https://dd.meteo.gc.ca/doc/genots/2018/04/03/NOCN03_CWAO_032022___00001).

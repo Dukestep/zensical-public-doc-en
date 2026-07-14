@@ -4,14 +4,12 @@
 
 ## Tuesday April 14, 2026
 
-### Upgrade to Version 2.4.0 of the CIOPS-Eat and CIOPS-West, respectively adapted to the New High Performance Computing Infrastructure.
-
+#### Upgrade to Version 2.4.0 of the CIOPS-Eat and CIOPS-West, respectively adapted to the New High Performance Computing Infrastructure.
 See details [at this link](../changelog_multisystems.md)
 
 ## Tuesday June 11, 2024
 
-### Upgrade of the Coastal Ice and Ocean Prediction System East (CIOPS-East) and West (CIOPS-West) at the Canadian Meteorological Centre
-
+#### Upgrade of the Coastal Ice and Ocean Prediction System East (CIOPS-East) and West (CIOPS-West) at the Canadian Meteorological Centre
 On Tuesday June 11, 2024, starting with the 1200 UTC, the Canadian Meteorological Centre (CMC) will upgrade the Coastal Ice and Ocean Prediction System East (CIOPS-East) to version 2.3.0 and the Coastal Ice and Ocean Prediction System West (CIOPS-West) to version 2.3.0. 
 
 **Significant changes in CIOPS-East**:
@@ -42,14 +40,12 @@ A brief summary of the innovations included in this upgrade of CIOPS-West and th
 
 ## Tuesday June 28, 2022
 
-### Upgrade to Version 2.1.0 of the CIOPS adapted to the New High Performance Computing Infrastructure.
-
+#### Upgrade to Version 2.1.0 of the CIOPS adapted to the New High Performance Computing Infrastructure.
 See details [at this link](../changelog_multisystems.md)
 
 ## Wednesday December 1st, 2021
 
-### Upgrade to Version 2.0.0 of the Coastal Ice and Ocean Prediction System (CIOPS) at the Canadian Meteorological Centre
-
+#### Upgrade to Version 2.0.0 of the Coastal Ice and Ocean Prediction System (CIOPS) at the Canadian Meteorological Centre
 On Wednesday December 1st, 2021, the Canadian Meteorological Centre (CMC) will upgrade the Coastal Ice and Ocean Prediction System (CIOPS) East and West to version 2.0.0. Starting with this upgrade, experimental CIOPS East and CIOPS West will obtain operationnal status.
 
 The major changes of CIOPS-East in this upgrade can be summarized as follow:

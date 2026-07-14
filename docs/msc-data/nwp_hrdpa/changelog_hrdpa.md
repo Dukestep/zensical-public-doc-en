@@ -4,14 +4,12 @@
 
 ## Tuesday April 14, 2026
 
-### Upgrade to Version 6.1.0 of the HRDPA adapted to the New High Performance Computing Infrastructure.
-
+#### Upgrade to Version 6.1.0 of the HRDPA adapted to the New High Performance Computing Infrastructure.
 See details [at this link](../changelog_multisystems.md)
 
 ## Wednesday September 11, 2024
 
-### Temporary removal of the Fire Weather network observations (OMNRF) from the Regional Deterministic Precipitation Analysis System (HRDPA) assimilation at the Canadian Meteorological Centre (CMC)
-
+#### Temporary removal of the Fire Weather network observations (OMNRF) from the Regional Deterministic Precipitation Analysis System (HRDPA) assimilation at the Canadian Meteorological Centre (CMC)
 Starting on September 11, 2024, Fire Weather network observations from the Ontario Ministry of Natural Resources and Forestry (OMNRF) have been temporarily removed from the set of observations assimilated into the High Resolution Deterministic Precipitation Analysis (HRDPA). This update is effective at 06UTC for the final and at 12UTC for the preliminary analyses.
 
 This update was required to prevent the influence of some erroneous observations from the OMNRF network on the final HRDPA analysis over certain regions in Southern Ontario – particularly in the Kingston-Ottawa and Huron-Erie regions. This has a minor impact on system performance, since in most cases, the gaps are properly filled by observations from the other networks, particularly the synoptic gauges, as well as the radar and satellite QPEs.
@@ -20,8 +18,7 @@ An investigation is in progress to identify the problematic stations and exclude
 
 ## Tuesday June 11, 2024
 
-### Upgrade to Version 6.0.0 of the High Resolution Deterministic Precipitation Analysis (HRDPA) at the Canadian Meteorological Centre
-
+#### Upgrade to Version 6.0.0 of the High Resolution Deterministic Precipitation Analysis (HRDPA) at the Canadian Meteorological Centre
 On Tuesday June 11, 2024, starting with the 1200 UTC run, the Meteorological Service of Canada's Canadian Meteorological Centre (CMC) will upgrade the High Resolution Deterministic Precipitation Analysis (HRDPA) to v6.0.0.
 
 Significant changes:
@@ -36,8 +33,7 @@ The technical specifications document for HRDPA 6.0.0 is available [at this link
 
 ## Wednesday May 3, 2023
 
-### HRDPA update following the replacement of GOES-17 by GOES-18
-
+#### HRDPA update following the replacement of GOES-17 by GOES-18
 Since January 4, 2023 at 18Z, the GOES-18 satellite has taken over from GOES-17 as the operational western satellite. Within the operational HRDPA system, GOES satellite observations are used to perform some of the post-processing of radar precipitation estimates. In particular, GOES data are used to create a cloud mask to clean up the radar data.
 
 Since the GOES-17 satellite disappeared on January 4, the HRDPA system has relied on the NT field of the HRDPS forecast model to build the cloud mask. This contingency solution allowed post-processing of the radar precipitation estimates, but with less reliability than with GOES data.
@@ -46,14 +42,12 @@ To further optimize the post-processing of the radar precipitation estimates, HR
 
 ## Tuesday June 28, 2022
 
-### Upgrade to Version 5.2.0 of the HRDPA adapted to the New High Performance Computing Infrastructure.
-
+#### Upgrade to Version 5.2.0 of the HRDPA adapted to the New High Performance Computing Infrastructure.
 See details [at this link](../changelog_multisystems.md).
 
 ## Wednesday December 1st, 2021
 
-### Upgrade to version 5.1.0 of the High Resolution Deterministic Precipitation Analysis System (CaPA-HRDPA) at the Canadian Meteorological Centre (CMC)
-
+#### Upgrade to version 5.1.0 of the High Resolution Deterministic Precipitation Analysis System (CaPA-HRDPA) at the Canadian Meteorological Centre (CMC)
 On Wednesday, December 1st, 2021, the Canadian Meteorological Centre (CMC) will upgrade its High Resolution Deterministic Precipitation Analysis system (CaPA-HRDPA (2.5km)) to version 5.1.0.
 
 The changes included in this upgrade are summarized as follows :
@@ -73,14 +67,12 @@ The technical specifications document for HRDPA v5.1.0 is available [at this lin
 
 ## Tuesday January 21, 2020
 
-### Upgrade to Version 4.7.0 of the CaPA-HRDPA adapted to the New High Performance Computing Infrastructure.
-
+#### Upgrade to Version 4.7.0 of the CaPA-HRDPA adapted to the New High Performance Computing Infrastructure.
 See details [at this link](../changelog_multisystems.md)
 
 ## Wednesday July 3, 2019
 
-### Upgrade to version 4.6.0 of the High Resolution Deterministic Precipitation Analysis system (CaPA-HRDPA) at the Canadian Meteorological Centre (CMC)
-
+#### Upgrade to version 4.6.0 of the High Resolution Deterministic Precipitation Analysis system (CaPA-HRDPA) at the Canadian Meteorological Centre (CMC)
 On Wednesday July 3rd 2019, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) will upgrade the High Resolution Deterministic Precipication Analysis system (CaPA-HRDPA (2.5km)) to version 4.6.0.
 
 Changes are summarized as follows:
@@ -92,8 +84,7 @@ A copy of the official note announcing the implementation of these changes [is a
 
 ## Tuesday September 18, 2018
 
-### Upgrade to version 4.5.0 of the High Resolution Deterministic Precipitation Analysis System (CaPA-HRDPA) at the Canadian Meteorological Centre (CMC)
-
+#### Upgrade to version 4.5.0 of the High Resolution Deterministic Precipitation Analysis System (CaPA-HRDPA) at the Canadian Meteorological Centre (CMC)
 On Tuesday, September 18, 2018, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) will upgrade its Regional Deterministic Precipitation Analysis system (CaPA-HRDPA (2.5km)) to version 4.5.0.
 
 The changes included in this upgrade are summarized as follows:
@@ -114,8 +105,7 @@ Technical note with more details on these changes is available at this link:
 
 ## Friday March 2, 2018
 
-### Implementation of the High Resolution Deterministic Precipitation Analysis System (CaPA-HRDPA Version 4.1.0) at the Canadian Meteorological Centre (CMC)
-
+#### Implementation of the High Resolution Deterministic Precipitation Analysis System (CaPA-HRDPA Version 4.1.0) at the Canadian Meteorological Centre (CMC)
 On Friday, March 2nd 2018, starting with the 1200 UTC run, the Meteorological Service of Canada's Canadian Meteorological Centre (CMC) will upgrade the Regional Deterministic Precipitation Analysis System by adding a new configuration of higher resolution analyses (CaPA-HRDPA). These new analyses at 2.5km horizontal resolution are in addition to those analyses already produced in operational mode at 15km resolution since 2011, and at 10km resolution since October 2012.
 
 A copy of the official note announcing the implementation of these changes [is available at this link](http://dd.meteo.gc.ca/doc/genots/2018/03/02/NOCN03_CWAO_022008___00002).

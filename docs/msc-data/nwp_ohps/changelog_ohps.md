@@ -4,8 +4,7 @@
 
 ## Tuesday June 11, 2024
 
-### Upgrade to Version 3.4.0 of the Operational Hydrodynamic Prediction System (OHPS) at the Canadian Meteorological Centre
-
+#### Upgrade to Version 3.4.0 of the Operational Hydrodynamic Prediction System (OHPS) at the Canadian Meteorological Centre
 On Tuesday June 11, 2024, starting with the 1200 UTC run, the Meteorological Service of Canada's Canadian Meteorological Centre (CMC) will upgrade the Operational Hydrodynamic Prediction System (OHPS) to v3.4.0
 
 Significant changes:
@@ -24,16 +23,14 @@ A technical note with more details on this change [at this link](https://collabo
 
 ## Wednesday September 20, 2023
 
-### Operational Hydrodynamic Prediction System (OHPS) 3.3.0 is declared operational at the Canadian Meteorological Centre
-
+#### Operational Hydrodynamic Prediction System (OHPS) 3.3.0 is declared operational at the Canadian Meteorological Centre
 Effective September 20, 2023, the Canadian Meteorological Centre (CMC) of Environment and Climate Change Canada declares the Operational Hydrodynamic Prediction System (OHPS v3.3.0) as operational, following its period of experimental status since 2013.
 
 A copy of the official note announcing the implementation of these changes is available [at this link](https://dd.weather.gc.ca/doc/genots/2023/09/19/NOCN03_CWAO_191340___27844).
 
 ## Thrusday August 3, 2023
 
-### Upgrade to Version 3.3.0 of the Operational Hydrodynamic Prediction System (OHPS)
-
+#### Upgrade to Version 3.3.0 of the Operational Hydrodynamic Prediction System (OHPS)
 Effective August 3, 2023, the Canadian Meteorological Centre (CMC) of Environment and Climate Change Canada updates the Operational Hydrodynamic Prediction system (OHPS) to version v3.3.0.
 
 To prepare for the request of OHPS's operational status, the following two scientific changes are implemented in this version:
@@ -47,14 +44,12 @@ The updated dependency diagram is available [at this link](https://collaboration
 
 ## Tuesday June 28, 2022
 
-### Upgrade to Version 3.1.0 of the OHPS adapted to the New High Performance Computing Infrastructure.
-
+#### Upgrade to Version 3.1.0 of the OHPS adapted to the New High Performance Computing Infrastructure.
 See details [at this link](../changelog_multisystems.md).
 
 ## Wednesday December 1st, 2021
 
-### Upgrade to Version 3.0.0 of the Operational Hydrodynamic Prediction system (OHPS) at the Canadian Meteorological Centre
-
+#### Upgrade to Version 3.0.0 of the Operational Hydrodynamic Prediction system (OHPS) at the Canadian Meteorological Centre
 Effective Wednesday, December 1st, 2021, the Canadian Meteorological Centre (CMC) will update the Operational Hydrodynamic Prediction system (OHPS) to v3.0.0.
 
 The modifications to OHPS v3.0.0 compared with the previous operational version are as follows:
@@ -69,6 +64,5 @@ The official note announcing this implementation is available [at this location]
 
 ## Monday May 13, 2013
 
-### The Canadian Meteorological Centre (CMC) implements version 1.0.0 of the Operational Hydrodynamic Prediction System (OHPS)
-
+#### The Canadian Meteorological Centre (CMC) implements version 1.0.0 of the Operational Hydrodynamic Prediction System (OHPS)
 On Monday May 13 2013, CMC implemented the Operational Hydrodynamic Prediction System (OHPS) in order to produce a daily analysis of the portion of the St-Lawrence river between Montreal and Trois-Rivieres. Please consult the OHPS page in the CMC product guide [here](https://collaboration.cmc.ec.gc.ca/cmc/CMOI/product_guide/submenus/shop_e.html) for more information.

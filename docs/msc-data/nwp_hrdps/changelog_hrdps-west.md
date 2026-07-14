@@ -4,14 +4,12 @@
 
 ## Tuesday April 14, 2026
 
-### Upgrade to Version 1.6.0 of the HRDPS-West adapted to the New High Performance Computing Infrastructure.
-
+#### Upgrade to Version 1.6.0 of the HRDPS-West adapted to the New High Performance Computing Infrastructure.
 See details [at this link](../changelog_multisystems.md)
 
 ## Tuesday June 11, 2024
 
-### Upgrade to Version 1.5.0 of the High Resolution Deterministic Prediction System West (HRDPS-West) at the Canadian Meteorological Centre
-
+#### Upgrade to Version 1.5.0 of the High Resolution Deterministic Prediction System West (HRDPS-West) at the Canadian Meteorological Centre
 On Tuesday June 11st, 2024, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) will upgrade the High Resolution Deterministic Prediction System West (HRDPS-West) to version 1.5.0.
 
 Significant change:
@@ -33,14 +31,12 @@ The technical specifications document for HRDPS-West 1.5.0 is available [at this
 
 ## Tuesday June 28, 2022
 
-### Upgrade to Version 1.4.0 of the HRDPS-W adapted to the New High Performance Computing Infrastructure.
-
+#### Upgrade to Version 1.4.0 of the HRDPS-W adapted to the New High Performance Computing Infrastructure.
 See details [at this link](../changelog_multisystems.md).
 
 ## Wednesday December 1st, 2021
 
-### Upgrade to Version 1.3.0 of the High Resolution Deterministic Prediction System West (HRDPS-W) at the Canadian Meteorological Centre
-
+#### Upgrade to Version 1.3.0 of the High Resolution Deterministic Prediction System West (HRDPS-W) at the Canadian Meteorological Centre
 On Wednesday December 1st, 2021, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) will upgrade the High Resolution Deterministic Prediction System West (HRDPS-W) to version 1.3.0.
 
 The changes included in this upgrade are summarized as follows :

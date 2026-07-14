@@ -4,14 +4,12 @@
 
 ## Tuesday April 14, 2026
 
-### Upgrade to Version 1.8.0 of the RESPS adapted to the New High Performance Computing Infrastructure.
-
+#### Upgrade to Version 1.8.0 of the RESPS adapted to the New High Performance Computing Infrastructure.
 See details [at this link](../changelog_multisystems.md)
 
 ## Tuesday June 11, 2024
 
-### Upgrade to Version 1.7.0 of Regional Ensemble Storm-surge Prediction System (RESPS) at the Canadian Meteorological Centre
-
+#### Upgrade to Version 1.7.0 of Regional Ensemble Storm-surge Prediction System (RESPS) at the Canadian Meteorological Centre
 On Tuesday June 11, 2024, starting with the 1200 UTC, the Meteorological Service of Canada's Canadian Meteorological Centre (CMC) will upgrade the Regional Ensemble Storm-surge Prediction System (RESPS) to v1.7.0
 
 Significant change:
@@ -28,14 +26,12 @@ A technical note with more details on this change [at this link](https://collabo
 
 ## Tuesday June 28, 2022
 
-### Upgrade to Version 1.6.0 of the RESPS adapted to the New High Performance Computing Infrastructure.
-
+#### Upgrade to Version 1.6.0 of the RESPS adapted to the New High Performance Computing Infrastructure.
 See details [at this link](../changelog_multisystems.md).
 
 ## Wednesday December 1st, 2021
 
-### Upgrade to Version 1.5.0 of the RESPS.
-
+#### Upgrade to Version 1.5.0 of the RESPS.
 On Wednesday December 1st, 2021, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) will upgrade the Regional Ensemble Storm-surge Prediction System (RESPS) to version 1.5.0 and change the status from experimental to operational.
 
 The changes included in this upgrade are summarized as follows:
@@ -51,18 +47,15 @@ Associated Notes:
 
 ## Tuesday November 24, 2020
 
-### Update to 1.4.0: Include total water level forecasts based on perturbed tidal forcing, extend forecast range to 16 days
-
+#### Update to 1.4.0: Include total water level forecasts based on perturbed tidal forcing, extend forecast range to 16 days
 ## Tuesday January 21, 2020
 
-### Upgrade to Version 1.3.0 of the RESPS adapted to the New High Performance Computing Infrastructure.
-
+#### Upgrade to Version 1.3.0 of the RESPS adapted to the New High Performance Computing Infrastructure.
 See details [at this link](../changelog_multisystems.md)
 
 ## Wednesday July 3, 2019
 
-### Upgrade to Version 1.2.0 of the Regional Ensemble Storm-surge Prediction System (RESPS) at the Canadian Meteorological Centre (CMC)
-
+#### Upgrade to Version 1.2.0 of the Regional Ensemble Storm-surge Prediction System (RESPS) at the Canadian Meteorological Centre (CMC)
 Effective Wednesday July 3rd, 2019, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada will update the Regional Ensemble Storm-surge Prediction System (RESPS) to v1.2.0.
 
 The modifications to RESPS v1.2.0 compared with the previous operational version are as follows:

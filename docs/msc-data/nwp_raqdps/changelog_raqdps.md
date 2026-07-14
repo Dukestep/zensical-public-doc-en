@@ -4,14 +4,12 @@
 
 ## Tuesday April 14, 2026
 
-### Upgrade to Version 25.1.0 of the RAQDPS adapted to the New High Performance Computing Infrastructure.
-
+#### Upgrade to Version 25.1.0 of the RAQDPS adapted to the New High Performance Computing Infrastructure.
 See details [at this link](../changelog_multisystems.md)
 
 ## Tuesday June 11, 2024
 
-### Upgrade to Version 25 of the Regional Air Quality Deterministic Prediction System (RAQDPS) 
-
+#### Upgrade to Version 25 of the Regional Air Quality Deterministic Prediction System (RAQDPS) 
 On Tuesday June 11, 2024, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) will upgrade the Regional Air Quality Deterministic Prediction System (RAQDPS) from version 24 to version 25.
 
 Significant change:
@@ -34,14 +32,12 @@ A technical note with more details on this change [is available at this link](ht
 
 ## Tuesday June 28, 2022
 
-### Upgrade to Version 24 of the RAQDPS adapted to the New High Performance Computing Infrastructure.
-
+#### Upgrade to Version 24 of the RAQDPS adapted to the New High Performance Computing Infrastructure.
 See details [at this link](../changelog_multisystems.md).
 
 ## Wednesday December 1st, 2021
 
-### Upgrade to the Regional Air Quality Deterministic Prediction System (RAQDPS) 
-
+#### Upgrade to the Regional Air Quality Deterministic Prediction System (RAQDPS) 
 On Wednesday December 1st, 2021, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) will upgrade the Regional Air Quality Deterministic Prediction System (RAQDPS) from version 22 to version 23.
 
 The changes included in this upgrade are summarized as follows:
@@ -67,14 +63,12 @@ A technical note with more details on this change [is available at this link](ht
 
 ## Tuesday January 21, 2020
 
-### Upgrade to Version 22.0.0 of the RAQDPS adapted to the New High Performance Computing Infrastructure.
-
+#### Upgrade to Version 22.0.0 of the RAQDPS adapted to the New High Performance Computing Infrastructure.
 See details [at this link](../changelog_multisystems.md)
 
 ## Wednesday July 3, 2019
 
-### Upgrade to the Regional Air Quality Deterministic Prediction System (RAQDPS) and FireWork Prediction System
-
+#### Upgrade to the Regional Air Quality Deterministic Prediction System (RAQDPS) and FireWork Prediction System
 On Wednesday July 3rd, 2019, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) will upgrade the Regional Air Quality Deterministic Prediction System (RAQDPS), and it's companion system, FireWork, from version 20 to version 21.
 
 The changes included in this upgrade are summarized as follows:
@@ -92,8 +86,7 @@ A technical note for FireWork with more details on this change will be available
 
 ## Tuesday September 18, 2018
 
-### Upgrade to the Regional Air Quality Deterministic Prediction System (RAQDPS) and FireWork Prediction System
-
+#### Upgrade to the Regional Air Quality Deterministic Prediction System (RAQDPS) and FireWork Prediction System
 On Tuesday, September 18, 2018, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) will upgrade the Regional Air Quality Deterministic Prediction System (RAQDPS), and it's companion system, FireWork, from version 19 to version 20.
 
 The changes included in this upgrade are summarized as follows:
@@ -109,8 +102,7 @@ A technical note with more details on this change is available [at this link](ht
 
 ## Wednesday September 7, 2016
 
-### Major Upgrade to the Regional Air Quality Deterministic Prediction System (RAQDPS)
-
+#### Major Upgrade to the Regional Air Quality Deterministic Prediction System (RAQDPS)
 On Wednesday, September 7th, 2016, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) will upgrade the Regional Air Quality Deterministic Prediction System (RAQDPS) from version 015 to version 016.
 
 The changes included in this upgrade are summarized as follows:
@@ -131,8 +123,7 @@ A technical note with more details on these changes will be forthcoming on this 
 
 ## Thursday April 7th, 2016
 
-### Major Upgrade to the Regional Air Quality Deterministic Prediction System (RAQDPS)
-
+#### Major Upgrade to the Regional Air Quality Deterministic Prediction System (RAQDPS)
 On Thursday April 7th, 2016, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) will upgrade the Regional Air Quality Deterministic Prediction System (RAQDPS) from version 013 (previously 1.5.4) to version 015. This update includes the following changes:
 
 * Slight change to the model grid size, though horizontal grid spacing (10 km) and grid orientation remain unchanged.
@@ -149,8 +140,7 @@ A technical note with more details on these changes will be forthcoming on this 
 
 ## Thursday June 11, 2015
 
-### Upgrade to the Regional Air Quality Deterministic Prediction System (RAQDPS) at the Canadian Meteorological Centre (CMC)
-
+#### Upgrade to the Regional Air Quality Deterministic Prediction System (RAQDPS) at the Canadian Meteorological Centre (CMC)
 On Thursday, June 11 2015, the Canadian Meteorological Centre implemented a new emissions data set for the operational Regional Air Quality Deterministic Prediction System (RAQDPS). The new emissions set is based on the 2010 Canadian Inventory/2011 USA Inventory, updating from the 2006 Canadian Inventory/2005 USA Inventory.
 
 A copy of the official note announcing the implementation of these changes is available [at this link](https://dd.meteo.gc.ca/doc/genots/2015/06/10/NOCN03_CWAO_101245___00612).
@@ -159,8 +149,7 @@ More technical/scientific details about this system is available [at this link](
 
 ## Tuesday November 18th 2014
 
-### Minor Upgrade to the Regional Air Quality Deterministic Prediction System (RAQDPS) version 1.5.3 at the Canadian Meteorological Centre
-
+#### Minor Upgrade to the Regional Air Quality Deterministic Prediction System (RAQDPS) version 1.5.3 at the Canadian Meteorological Centre
 On Tuesday November 18th 2014, starting with the 1200 UTC run the Meteorological Service of Canada's Canadian Meteorological Centre (CMC) will upgrade the Regional Air Quality Deterministic Prediction System (RAQDPS). The version of the system is changed from 1.5.2 to 1.5.3. The update include the following changes:
 
 1. The system now feeds from the Regional Deterministic Prediction System (RDPS) version 4.0.0
@@ -169,8 +158,7 @@ On Tuesday November 18th 2014, starting with the 1200 UTC run the Meteorological
 
 ## Tuesday February 26, 2013
 
-### Update to the Regional Air Quality Deterministic Prediction System (RAQDPS - version 1.5.1) at the Canadian Meteorological Centre
-
+#### Update to the Regional Air Quality Deterministic Prediction System (RAQDPS - version 1.5.1) at the Canadian Meteorological Centre
 On Tuesday, February 26, 2013, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) will implement version 1.5.1 of the Regional Air Quality Deterministic Prediction System (RAQDPS). This version contains three bug fixes in the chemistry component which bring significant improvements to the operational air quality forecast system.
 
 During the summer of 2012, three bugs were discovered in the RAQDPS, all of which had been present since operational implementation in 2009. The bugs mainly impacted wet removal of chemical species by convective precipitation (both rain-out and below-cloud scavenging); and vertical mixing particularly in stable atmospheric conditions.
@@ -189,8 +177,7 @@ A copy of the technical note with more details on this change is available [at t
 
 ## Wednesday October 3 2012
 
-### The Canadian Meteorological Centre Upgrades the Regional Air Quality Deterministic Prediction System (RAQDPS) to version 1.5
-
+#### The Canadian Meteorological Centre Upgrades the Regional Air Quality Deterministic Prediction System (RAQDPS) to version 1.5
 On Wednesday October 3 2012, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) will implement version 1.5.0 of the Regional Air Quality Deterministic Prediction System (RAQDPS). This version of RAQDPS replaces version 1.4.6 which was also formerly known as GEM-MACH15 which had been in service since November 2009.
 
 Improvements to the air quality forecast system are provided as a result of changes in grid resolution (from 15 to 10 km) and to the vertical grid spacing, an updated version of the GEM model, and an improved set of emissions files.
@@ -205,8 +192,7 @@ A technical note with details on changes including version 1.5.0 and 1.5.1 is av
 
 ## Thursday December 22, 2011
 
-### The Canadian Meteorological Centre implements a correction for GEM-MACH15
-
+#### The Canadian Meteorological Centre implements a correction for GEM-MACH15
 Starting with the 12 UTC run of December 22 2011, an updated binary was installed in the GEM-MACH15 system to better process humidity and cloud information in the very upper levels of the model's atmosphere.
 
 With this correction the GEM-MACH15 system is now versiuon 1.4.5.

@@ -655,9 +655,11 @@ Water, ocean and ice
 
 * [REPS 1.0.0](nwp_reps/changelog_reps.md#thursday-september-22-2011)
 
-## Wednesday October 20, 2010
+## 2010
 
-### A new limited area version of the regional forecast system becomes operational at the Canadian Meteorological Centre.
+### Wednesday October 20, 2010
+
+#### A new limited area version of the regional forecast system becomes operational at the Canadian Meteorological Centre.
 
 Starting on October 20 2010 with the 12 UTC run the Canadian GEM regional forecast system will be modified to incorporate a limited area version of the gem model referred to as REG-LAM3D. Changes to the analyses will also be provided to the model.
 
@@ -674,9 +676,9 @@ Additional information is available in the [official announcement available here
 Users wishing more technical information can access a technical note [by clicking here](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/Reglam3d_technote_e_20101019.pdf).
 
 
-## Tuesday March 2, 2010
+### Tuesday March 2, 2010
 
-### Update to the emissions data set for the GEM-MACH15 air quality model at the Canadian Meteorological Centre
+#### Update to the emissions data set for the GEM-MACH15 air quality model at the Canadian Meteorological Centre
 
 On March 02 2010 starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) implemented a new emissions data set for the operational air quality forecast model GEM-MACH15 (Global Environmental Multi-scale model - Modelling Air quality and CHemistry).
 
@@ -687,9 +689,11 @@ Additional information is available in the [official announcement available here
 Users wishing more technical information can access a technical note [by clicking here](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/technote_gemmach15_emissions_20100308_en.pdf).
 
 
-## Thursday December 3, 2009
+## 2009
 
-### CMC Updates Data Assimilation Systems with ATOVS Data
+### Thursday December 3, 2009
+
+#### CMC Updates Data Assimilation Systems with ATOVS Data
 
 On December 3 2009, the Canadian Meteorological Centre (CMC) will update its data assimilation systems with additional ATOVS data. These are the AMSUA and MHS data from the METOP and NOAA-19 polar orbiting satellites. These new data will now be made available to the analysis of the GEM-15km and GEM-global models, as well as the ensemble prediction models. This update is needed in order to maintain or improve the current level of assimilated data as new or replacement satellites are launched by the operational satellite programmes of NOAA and EUMETSAT.
 
@@ -708,9 +712,9 @@ This change was announced in the [official announcement available here](https://
 For specific questions concerning this implementation, please write to production-info(at)cmc.ec.gc.ca
 
 
-## Wednesday November 18, 2009
+### Wednesday November 18, 2009
 
-### GEM-MACH15 Air Quality Forecast Model to replace CHRONOS at the Canadian Meteorological Centre
+#### GEM-MACH15 Air Quality Forecast Model to replace CHRONOS at the Canadian Meteorological Centre
 
 On November 18 2009 starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) will implement GEM-MACH15, a 15-km configuration of the new on-line operational air quality forecast model called GEM-MACH (Global Environmental Multi-scale model - Modelling Air quality and CHemistry). GEM-MACH15 replaces CHRONOS which has been in service since 1999. the new model, which features a more sophisticated representation of chemical processes and an improved set of emissions, will immediately provide improvements to the air quality forecast system, while enabling more significant advancements in the years to come.
 
@@ -725,9 +729,9 @@ Additional information is available in the [official announcement available here
 Users wishing more technical information can access a technical note [by clicking here](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/technote_gemmach15_20091118_en.pdf).
 
 
-## Monday June 22, 2009
+### Monday June 22, 2009
 
-### Upgrades to CMC's Ensemble Assimilation and Ensemble Forecast Systems
+#### Upgrades to CMC's Ensemble Assimilation and Ensemble Forecast Systems
 
 On Monday June 22, 2009 the Canadian Meteorological Centre (CMC) will implement major changes to its ensemble assimilation (EnKF) system and minor changes to its ensemble prediction system (EPS). EnKF changes will begin with its 0600 UTC run and EPS changes will begin with its 1200 UTC run.
 
@@ -752,7 +756,7 @@ Additional information is available in the [official announcement available here
 Users wishing more technical information can access a technical note [by clicking here](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/technote_ens_20090618_en.pdf).
 
 
-### Extension into the Middle Atmosphere of the global and regional forecast systems of the Canadian Meteorological Centre
+#### Extension into the Middle Atmosphere of the global and regional forecast systems of the Canadian Meteorological Centre
 
 On Monday June 22nd starting with the 0600 UTC surface analysis run, the Canadian Meteorological Centre (CMC) will make important changes to the global and regional systems leading to improvements in the forecasts, especially at lead times of 3 to 6 days in the global forecast system.
 
@@ -789,9 +793,9 @@ More detailed technical information on changes to the global system is available
 More detailed technical information on changes to the regional system is available [by clicking here](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/technote_regstrato_20090618_en.pdf).
 
 
-## Wednesday June 10, 2009
+### Wednesday June 10, 2009
 
-### Implementation of the 0600 UTC and 1800 UTC Regional Prediction System
+#### Implementation of the 0600 UTC and 1800 UTC Regional Prediction System
 
 The transmission between 20h15 and 20h30 UTC on June 10th 2009, of scribe matrices files produced from outputs of the 1800 UTC run of the Gem-Regional model, makes official the implementation of the 0600 UTC and 1800 UTC runs of the Regional Prediction System. Doubling the frequency of the production of short-term forecasts from the Gem-Regional model seeks to address the needs expressed by customers of the Meteorological Service of Canada, among others those of civil aviation.
 
@@ -802,9 +806,9 @@ It should be noted that these runs are integrated to 54 hours to ensure their co
 Additional information is available in the [official announcement available here](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/genot_20090612_en_fr.pdf).
 
 
-## Tuesday March 31, 2009
+### Tuesday March 31, 2009
 
-### Improvements to the assimilation system of the Canadian Meteorological Centre
+#### Improvements to the assimilation system of the Canadian Meteorological Centre
 
 Starting on March 31 2009 the Canadian Meteorological Centre will update its data assimilation systems with additional satellite data. These are the GPSRO from the METOP and GRACE satellites, MODIS direct broadcast winds and the ocean surface winds from the ASCAT instrument on-board the METOP satellite. These new data will now be made available to the analysis of the GEM-15km and GEM-global models, as well as to the ensemble Kalman-filter system. This update is needed in order to maintain or improve the current level of assimilated data as new or replacement satellites are launched by the operational satellite programs of NOAA and EUMETSAT.
 
@@ -813,9 +817,9 @@ Preliminary tests have shown the net impact on model performances as small for f
 Additional information on these changes is available in the [official announcement available here](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/genot_20090327_en_fr.pdf).
 
 
-## Wednesday March 12, 2009
+### Wednesday March 12, 2009
 
-### Improvements to the global and regional data assimilation systems and to the regional forecast system of the Canadian Meteorological Centre. (Originally scheduled for March 11 2009).
+#### Improvements to the global and regional data assimilation systems and to the regional forecast system of the Canadian Meteorological Centre. (Originally scheduled for March 11 2009).
 
 Starting on March 12 at 0600 UTC, the Canadian Meteorological Centre will implement changes to incorporate new data into the global and regional data assimilation systems. Furthermore, the GEM model of regional data assimilation and forecast system will be improved by using a new radiative transfer scheme and by extending its uniform-resolution core grid to better cover the arctic regions.
 
@@ -836,9 +840,9 @@ Users wanting more technical information on changes relating to the addition of 
 Users wanting more technical information on changes that apply to the regional model can [click here to access the technical document](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/technote_RegRadIPY_20090312_en.pdf).
 
 
-## Wednesday March 4th, 2009
+### Wednesday March 4th, 2009
 
-### Public forecasts extending to include days 6 and 7
+#### Public forecasts extending to include days 6 and 7
 
 Starting on Wednesday March 4 2009 at 1700 UTC the public forecasts which currently cover days 1 to 5 will be extended to include days 6 and 7. This improvement will entail modifications to the production of the scribe matrices and to scribe itself.
 
@@ -851,9 +855,25 @@ For more information, please consult the [official announcement](https://collabo
 Users wishing more technical information can access [this technical document](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/technote_20090225_Verif_J6-7_en.pdf).
 
 
-## Wednesday May 28th, 2008
+## 2008
 
-### Improvements to the global, regional and ensemble assimilation systems of the canadian meteorological centre
+
+#### CMC reduces from 24h to 12h the lag time in initial conditions of its automated seasonal forecast system
+
+Description of the system:
+2-tier system
+Persisted SST anomaly with no ocean model
+Sea-ice relaxed toward climatology
+4 models GEMCLIM + SEF+ GCM2 + GCM3
+40 members; 10 members each model
+12 h lags initial conditions
+12 seasons; 0 and 1 lead time
+Hindcasts 1969-2004
+
+
+### Wednesday May 28th, 2008
+
+#### Improvements to the global, regional and ensemble assimilation systems of the canadian meteorological centre
 
 Starting on May 28 at 12 UTC, the Canadian Meteorological Centre's global, regional and ensemble assimilation systems will have the following changes applied to their data assimilation systems:
 
@@ -873,9 +893,9 @@ For more information, please consult the [official announcement](https://collabo
 Users wishing more technical information can access [this technical document](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/technote_20080523_ajoutdonnees_e.pdf).
 
 
-## Tuesday March 11th, 2008
+### Tuesday March 11th, 2008
 
-### Improvements to the AQHI forecast program
+#### Improvements to the AQHI forecast program
 
 On Tuesday March 11, 2008 several improvements were made to the processing system that supports the national Air Quality Health Index (AQHI) pilot project.
 
@@ -886,24 +906,18 @@ On Tuesday March 11, 2008 several improvements were made to the processing syste
 3. Code was put in place for the addition of the city of Montreal as an official pilot forecast site. However, public dissemination of the product for Montreal has not yet begun.
 
 
-## 2008
-
-### CMC reduces from 24h to 12h the lag time in initial conditions of its automated seasonal forecast system
-
-Description of the system:
-2-tier system
-Persisted SST anomaly with no ocean model
-Sea-ice relaxed toward climatology
-4 models GEMCLIM + SEF+ GCM2 + GCM3
-40 members; 10 members each model
-12 h lags initial conditions
-12 seasons; 0 and 1 lead time
-Hindcasts 1969-2004
+## 2007
 
 
-## Thursday November 22nd, 2007
+#### CMC's automated seasonal forecast system now includes four model types and additional members
 
-### Extension of the National AQHI Pilot Project
+The CMC automated seasonal forecast system now uses a total of 40 members from 4 different types of models: 10 members-GEMCLIM model, 10 members-GCM3 model, 10 members-SEF model and 10 members-GCM2 model.
+The system produces a forecast with zero month lead time and a forecast with one month lead time
+
+
+### Thursday November 22nd, 2007
+
+#### Extension of the National AQHI Pilot Project
 On Thursday November 22, 2007 the Air Quality Health Index (AQHI) Pilot project was officially extended to 14 communities in British Columbia. These communities include 4 sites in the Metro Vancouver region, Central Fraser Valley, Eastern Fraser Valley, South, Central, and North Okanagan, Kamloops, Prince George, Quesnel, Nanaimo/Parksville and Victoria/Saanich.
 
 The national AQHI Pilot project was officially launched July 9, 2007 as a joint effort involving Environment Canada, Health Canada, as well as various regional, municipal, and local health authorities. The 14 new sites join the city of Toronto which was the first community to participate in the program. More communities will join the program in the coming months.
@@ -913,9 +927,9 @@ The AQHI is the first health-based index that combines the quality of air with k
 For more information, please consult the following web-site:
 
 
-## Tuesday July 10th, 2007
+### Tuesday July 10th, 2007
 
-### Major improvements to the Ensemble Prediction System (EPS)
+#### Major improvements to the Ensemble Prediction System (EPS)
 On Tuesday July 10 2007, starting with the 12 UTC run the Canadian Meteorological Centre (CMC) will implement an upgraded ensemble prediction system (EPS).
 
 Changes to the ensemble analysis component of the system include a better simulation of the model error and the capacity to use observations valid at at different times in the data assimilation window.
@@ -927,18 +941,18 @@ Due to the increased resolution and greater number of members of the system, the
 Further details on this implementation are available in the [official announcement](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/genot_20070707_e_f.pdf).
 
 
-## Monday July 9th, 2007
+### Monday July 9th, 2007
 
-### Launch of the AQHI National Pilot Project
+#### Launch of the AQHI National Pilot Project
 
 On Monday July 9, 2007 the national Air Quality Health Index (AQHI) pilot project was officially launched as a joint effort involving Environment Canada, Health Canada, as well as various regional, municipal, and local health authorities. The first community to participate in the program is the city of Toronto. Other communities will join the program in the coming months.
 
 The new AQHI is the first health-based index that combines the quality of air with known health effects. The AQHI takes into account how the level of exposure to multiple pollutants, even at low levels of exposure, can affect your health. Observations of AQHI for a particular community are available every hour, with 2-day forecasts being issued twice daily.
 
 
-## Wednesday July 4, 2007
+### Wednesday July 4, 2007
 
-### Major changes to regional forecast system
+#### Major changes to regional forecast system
 
 On Wednesday July 4, 2007, at 12 UTC, the Canadian Meteorological Centre will implement major changes to the operational regional forecast system.
 
@@ -953,17 +967,13 @@ Further details on this implementation are available in the [official announceme
 Users wishing more technical information can access [this technical document](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/technote_20070704_regFGAT58L_e.pdf).
 
 
-## 2007
-
-### CMC's automated seasonal forecast system now includes four model types and additional members
-
-The CMC automated seasonal forecast system now uses a total of 40 members from 4 different types of models: 10 members-GEMCLIM model, 10 members-GCM3 model, 10 members-SEF model and 10 members-GCM2 model.
-The system produces a forecast with zero month lead time and a forecast with one month lead time
 
 
-## Tuesday October 31, 2006
+## 2006
 
-### Major changes to global forecast system
+### Tuesday October 31, 2006
+
+#### Major changes to global forecast system
 
 On Tuesday, October 31, 2006, at 12 UTC, the Canadian Meteorological Centre will implement major changes to the operational global forecast system using the Global Environmental Multiscale (GEM) model.
 
@@ -977,10 +987,12 @@ Further details on this implementation are available in the [official announceme
 
 Users wishing more technical information can access [this technical document](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/technote_20061024_mesoglobal_e.pdf).
 
+## 2005
 
-## Tuesday December 13th, 2005
 
-### Major changes to the Ensemble Prediction System (EPS)
+### Tuesday December 13th, 2005
+
+#### Major changes to the Ensemble Prediction System (EPS)
 
 Some new types of observations will start being used by the Ensemble Kalman filter (EnKF) data-assimilation system which itself will also benefit from some structural improvements.
 
@@ -989,43 +1001,43 @@ The ensemble of forecast models has been revised to arrive at a better simulatio
 Further details about this implementation are available in the [official announcement note](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/genot_20051213_e.html).
 
 
-## Wednesday December 7th, 2005
+### Wednesday December 7th, 2005
 
-### Assimilation of new satellite data
+#### Assimilation of new satellite data
 
 On Wednesday December 7th 2005, the Canadian Meteorological Centre will update its Assimilation System by including the data from the NOAA-18 and METEODAT-8 satellites recently put into orbit. For the moment only the global and regional GEM models will benefit from this update. The impact on forecasts has been evaluated as being neutral, as expected for such updates.
 
 Further details about this implementation are available in the [official announcement note](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/genot_20051207_e.html).
 
 
-## Thursday July 21st, 2005
+### Thursday July 21st, 2005
 
-### Modifications to the Canadian Wave model
+#### Modifications to the Canadian Wave model
 
 On Thursday July 21st 2005, the Canadian Meteorological Centre will implement modifications to the Wave Forecast System over the Northern domains of the Atlantic and Pacific Oceans. This implementation will also introduce 4 new windows of wave forecast to cover the following domains in the Great Lakes : Ontario, Erie, Huron and Superior.
 
 Further details about this implementation are available in the [official announcement note](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/genot_20050721_wam_e.html).
 
 
-## Wednesday July 6th, 2005
+### Wednesday July 6th, 2005
 
-### Improvements to Chronos air quality forecast
+#### Improvements to Chronos air quality forecast
 
 On July 6th 2005 the Canadian Meteorological Centre will implement new version of the Chronos air quality forecasting model. Anthrogenic emissions of 2000-2001 will replace the 1995 emissions. The processing of the emission inventory was done using SMOKE (Sparse Matrix Operator Kernel Emissions) instead of CEPS (Canadian Emissions Processing System). The biogenic emissions have also undergone significant modifications using BELD3 vegetation categories instead of USGS (U.S. Geological Survey) and upgrading the associated emissions rates to BEIS3 instead of BEIS2. In brief more vegetation types are now used with updated emissions rates.
 
 Further details about this implementation are available in the [official announcement note](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/genot_20050706_chronos_e.html).
 
 
-### Improvements to the quantity of precipitation forecast in summer situations for the Regional GEM model
+#### Improvements to the quantity of precipitation forecast in summer situations for the Regional GEM model
 
 On July 6th 2005 the Canadian Meteorological Centre will implement a minor change to the regional forecasting system to improve the quantity of precipitation forecast in summer situations. In addition to this change, a new analysis of sea surface temperature will be introduced featuring higher resolution and fed with more data.
 
 Further details about this implementation are available in the [official announcement note](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/genot_20050627_KF_GEMreg_e.html).
 
 
-## Tuesday March 15th, 2005
+### Tuesday March 15th, 2005
 
-### 4D-Var: a major improvement to the Canadian global data assimilation system
+#### 4D-Var: a major improvement to the Canadian global data assimilation system
 
 On Tuesday, March 15th 2005, the 3D-Var (3-Dimensional Variational) data assimilation system for the global forecasting suite will be extended to a 4D-Var scheme. This extension to include time as the fourth dimension of the analysis system implies that the analysis is no longer a simple snapshot of the atmospheric conditions at the time of the analysis (like in the 3D-Var which does this for the primary synoptic hours). Instead, the 4D-Var system provides a time evolution of the atmospheric conditions during the assimilation time window (for the current implementation, this window was chosen to maintain coherence with the 3D-Var, that is 6 hours centered on the main synoptic hours). The 4D-Var analysis is done by using the GEM forecast model itself as part of the assimilation process, and by using observations that are well distributed during the analysis time window. The 4D-Var then computes the best fit between these observations and the model forecasts. The resulting analyses show a much improved dynamical consistency and are accompanied by a significant improvement in the global system performance.
 
@@ -1040,36 +1052,47 @@ Two published articles are also available.
 The original [technical document that was made available at the time of the 2005 implementation is still available by clicking here](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/technote_20050315_4D-Var_e.pdf). These documents on [objective](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/Objective_verifications_of_4dvar.pdf) and [subjective](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/Verifications_subjectives_du_4Dvar_e.pdf) verification are also still available.
 
 
-## Thursday January 13th, 2005
+### Thursday January 13th, 2005
 
-### Improvement to the surface temperature forecasts from the GEM regional model
+#### Improvement to the surface temperature forecasts from the GEM regional model
 
 On Thursday January 13, 2005, at 12 UTC, the Canadian Meteorological Centre will implement a minor change to the regional model forecast system in order to improve nocturnal surface temperature forecasts. It has been noted that the operational GEM regional model forecasts excessively cold nocturnal surface temperatures, especially during winter, under clear skies and in weak low-level circulation regimes. This problem has been noted more systematically in mountainous regions as well as in the Arctic. The change aims to correct this problem.
 
 Further details about this implementation are available in the [official announcement note](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/genot_20050113_tt_sfc_GEMreg_e.html).
 
 
-## Wednesday January 12th, 2005
+### Wednesday January 12th, 2005
 
-### Implementation of the Ensemble Kalman Filter data assimilation method in CMC's Ensemble Prediction System
+#### Implementation of the Ensemble Kalman Filter data assimilation method in CMC's Ensemble Prediction System
 
 As of Wednesday January 12 2005 at 00 UTC, the Canadian Meteorological Centre implemented a major change to the data assimilation of the Ensemble Prediction System. The Optimal Interpolation technique was replaced by an analysis cycle based on the Ensemble Kalman Filter (EnKF). The model configuration of the 16 members used to produce the 10 day forecasts remains unchanged. The first forecasts using the new assimilation technique were produced in the 00Z run of 13 January 2005.
 
 You will find details about this implementation inside the [official announcement note](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/genot_20050112_enkf_e.html). A more detailed technical document on the Kalman Filter [is available by clicking here](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/technote_20050112_Kalman_Filter_e.pdf).
 
 
-## Tuesday September 21st 2004
+## 2004
 
-### New observations incorporated in the regional and global data assimilation systems at CMC
+
+#### CMC replaces the SEF model with the GEMCLIM model in its automated seasonal forecast system
+
+The CMC has replaced its SEF model with the GEMCLIM model.
+GEMCLIM (RPN/CMC) + GCM2(CCCma)
+From 4 to 12 seasons; still 0 lead time
+Hindcast extended: 1969-2004
+
+
+### Tuesday September 21st 2004
+
+#### New observations incorporated in the regional and global data assimilation systems at CMC
 
 As of Tuesday September 21 2004 at 1200 UTC new observations will be incorporated in the regional and global 3D-VAR (3-Dimensional VARiational) data assimilation system. First, IR radiance data from the 6.7 micron channel from the GOES-12 (East) satellite will be incorporated, in addition to the GOES-10 (West) data which is already used. Also, data from the AMSUA instrument onboard the NASA AQUA satellite will also be assimilated. This will complement the AMSUA data already used for the NOAA-15 and NOAA-16 satellites and will partly compensate for the loss of the AMSUA instrument for NOAA-17 which occurred in late October 2003. There are also some changes to the ATOVS (AMSUA and AMSUB) thinning process and the variational quality control will also be applied to ATOVS data. A third change is the incorporation of satellite winds in the Polar Regions obtained from the MODIS instrument onboard the NASA AQUA and TERRA satellites. Modifications to the data selection aiming at increasing the number of satellite winds from the GOES-P satellite are also included. Finally, data from selected USA wind profilers will also be assimilated.
 
 You will find details about this implementation inside the [official announcement note](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/genot_20040921_new_data_e.html). A more detailed [technical document](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/technote_20040921_new_data_e.pdf) is also available.
 
 
-## Tuesday May 18 2004
+### Tuesday May 18 2004
 
-### Implementation of the 15km GEM regional model and of improvements to the regional data assimilation system
+#### Implementation of the 15km GEM regional model and of improvements to the regional data assimilation system
 
 CMC will implement major changes to the operational regional forecast system on Tuesday May 18 2004, at 12 UTC. The horizontal resolution of the GEM model will increase from .22 degree (about 24 km) to 0.1375 degree (about 15 km) in the uniform resolution portion of the grid. The number of vertical levels will increase from 28 to 58, the top of the model remaining at 10 HPa. The model's physics package will be improved. The Kain-Fritsch scheme will replace the Fritsch-Chappell scheme for deep convection while a new shallow convection scheme, based on a Kuo scheme closure, will complement the more selective deep convection scheme. As well, the package features a new sub grid scale orographic parameterization (gravity wave drag and a blocking term).
 
@@ -1078,28 +1101,25 @@ Changes will also be made to the regional data assimilation system. It will use 
 You will find details about this implementation inside the [official announcement note](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/genot_20040518_GEM_reg_15km_e.html). Also a more detailed [technical document](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/technote_20040518_GEM_reg_15km_e.pdf) is available.
 
 
-## 2004
 
-### CMC replaces the SEF model with the GEMCLIM model in its automated seasonal forecast system
-
-The CMC has replaced its SEF model with the GEMCLIM model.
-GEMCLIM (RPN/CMC) + GCM2(CCCma)
-From 4 to 12 seasons; still 0 lead time
-Hindcast extended: 1969-2004
+## 2003
 
 
-## Thrusday June 19 2003
+### Thrusday June 19 2003
 
-### Improvements to the global data assimilation system
+#### Improvements to the global data assimilation system
 
 As of Thursday June 19, 2003 at 1200 UTC the 3D-VAR (3-Dimensional VARiational) data assimilation system will now make use of satellite radiance data from the AMSU/B satellite instrument in addition to the data from the AMSU/A instrument which are currently assimilated. The AMSU instruments are part of the ATOVS sounder on-board the NOAA-15, NOAA-16 and NOAA-17 satellites. As well, the assimilation of IR radiance data from the 6.7 micron channel on the GOES-W will be introduced. Since AMSU/B and GOES-IR data are sensitive to both temperature and moisture, the addition of the new data has a large impact on the moisture analyses that are used by the numerical models. It is expected that the use of these new data will result in significant improvements in moisture analyses and some modest improvement in the model performance. You will find details about this implementation inside the [official announcement note](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/genot_20040619_amsub_radiancesGoesW_global_e.htm).
 
 Due to time constraints imposed by the conversion to the new IBM supercomputer, the regional data assimilation and forecast system will not make use of these new datasets. The regional system will continue to use the same dataset as it currently does. There will however be some impact on the regional system due to the use of the global analyses at the beginning of the regional spin-up cycle. Work is underway to incorporate the AMSU/B-GOES data in the regional system, but this modification will not be implemented until the new supercomputer is operational.
 
 
-## Febuary, March and April 2002
+## 2002
 
-### Minor changes to the operational system in February, March and April 2002:
+
+### Febuary, March and April 2002
+
+#### Minor changes to the operational system in February, March and April 2002:
 
 __19 Febuary 2002__: a correction was made in the regional and global assimilation system to the thinning of SATWINDS data in order to ensure a better treatment of the data near the edges of the selection boxes. As well, a correction to the Humsat system was implemented. This corrected a bug which in certain cases was causing a erroneous evalution of the value of the cloud fraction during daytime.
 
@@ -1107,10 +1127,12 @@ __27 March 2002__: the thinning process of aircraft data was improved in the dat
 
 __24 avril 2002__: a modification was made to the calculation of the geopotential in pressure coordinates in the GEM regional model. Since 11 January 2001 the geopotential was computed using a cubic interpolation of the model fields in eta coordinates. Recently, it was clearly demonstrated that this method caused a degradation of the geopotential near and above 250 hPa level. Consequently, the previous more precise method was re-introduced which is a linear interpolation done after the recomputing of the geopotential. The meteorological impact of this problem is fairly limited. However, the problem had a negative effect on the monthly verification scores of the geopotential near and above 250 hPa level.
 
+## 2001
 
-## Tuesday, December 11, 2001, 12Z
 
-### Implementation of a major change to the analysis and of an improved global GEM model
+### Tuesday, December 11, 2001, 12Z
+
+#### Implementation of a major change to the analysis and of an improved global GEM model
 
 CMC Operations will implement a major change to the global and regional assimilation systems Tuesday 11 December 2001 at 12UTC. As well modifications will be implemented to the GEM global model in order to improve the treatment of winds over the mountains. The most important change to the assimilation scheme is that temperature and surface pressure will now be directly assimilated thus replacing geopotential height which will now be a diagnosed variable. Also, assimilated radiosonde levels will pass from 16 to 27 levels. Additional datasets will be assimilated. These are dropsondes, temperature data from AMDAR and ACARS, five additional TOVS channels below 500 hPa and satwinds from GOES 8 and 10. The new assimilation scheme will also include a full 3-D VAR quality control module in addition to a background check for the detection of gross errors, thus replacing the OI quality control package. All the above changes are common to both global and regional assimilation systems.
 
@@ -1119,9 +1141,9 @@ Changes in the GEM global model include a numerical correction to the existing g
 You will find the official announcement on this change [here](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/e_11dec2001_anal_tt_ps.htm). A [detailed document](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/e_anal_tt_ps_11dec01.pdf) (PDF Version) describes all the changes and their significant positive impacts on the global and regional analysis and forecast systems.
 
 
-## Tuesday, September 11, 2001, 12Z
+### Tuesday, September 11, 2001, 12Z
 
-### Implementation of the ISBA surface scheme in the GEM regional model
+#### Implementation of the ISBA surface scheme in the GEM regional model
 
 CMC Operations implemented a change to the regional forecast system Tuesday 11 September 2001 at 12UTC. A new surface modeling scheme known as ISBA (Interactions, Surface, Biosphere, Atmosphere) replaced the so-called "force-restore" module. The ISBA scheme improves the treatment of surface processes by taking into account the surface fluxes of heat, moisture, and momentum over the various surfaces (land, water, sea ice, and glaciers). The fluxes calculated over these four land types are combined over each grid tile according to their respective weights. These fluxes are then used as a lower boundary for the vertical diffusion. The "force-restore" scheme considered only one land type for each model grid title.
 
@@ -1129,99 +1151,108 @@ You will find detailed information on this change and its impact in the [officia
 
 
 
-## Thursday, June 7, 2001, 06Z
+### Thursday, June 7, 2001, 06Z
 
-### Implementation of ATOVS level 1B data in the of global and regional analysis system
+#### Implementation of ATOVS level 1B data in the of global and regional analysis system
 
 CMC Operations implemented a change to the global and regional data assimilation and forecast systems Thursday June 7 2001 at 0600 UTC. The ATOVS-1B data have replaced the TOVS-1D data which were received via the GTS (Global Telecommunication System). The new ATOVS data are now collected directly from a NESDIS server via the internet. As well note that the ATOVS data are obtained from the NOAA-15 and NOAA-16 satellites. The new raw ATOVS-1B data are calibrated at CMC. The new dataset is significantly larger and amounts to approximately 670,000 observations per 24 hours. The impact of the introduction of the ATOVS-1B data was studied in the last few months. The results suggest a general improvement in forecast quality especially in the Southern Hemisphere.
 
 
-## Thursday, January 11, 2001, 12Z
+### Thursday, January 11, 2001, 12Z
 
-### Improvements to the regional analysis: new "eta" coordinates and addition of TOVS and ACARS/AMDAR data
+#### Improvements to the regional analysis: new "eta" coordinates and addition of TOVS and ACARS/AMDAR data
 
 CMC Operations will implement changes to the regional data assimilation and forecast systems Thursday January 11 2000 at 1200 UTC. We will introduce in the regional analysis system the modifications which were made to the global system last June 2000 (analysis on eta model coordinates) and in last September 2000 (addition of TOVS and ACARS/AMDAR data). The 3D-VAR (3-Dimensional VARiational) data assimilation will then be performed on the model coordinates and, as well, will make use of automated aircraft observations, that is ACARS and AMDAR data, in addition to the AIREP data which are currently assimilated. We are also incorporating satellite radiances from NOAA-14 TOVS and NOAA-15 ATOVS instead of the NOAA-14 SATEM data (temperature profiles derived from radiances). You will find detailed information on this change in the official note. As well, technical notes are available on the assimation of TOVS and ACARS/AMDARS data.
 
 
-## Wednesday, September 27, 2000, 12Z
+## 2000
 
-### Improvements to the global analysis: addition of TOVS and ACARS/AMDAR data
+
+### Wednesday, September 27, 2000, 12Z
+
+#### Improvements to the global analysis: addition of TOVS and ACARS/AMDAR data
 CMC Operations will implement changes to the global data assimilation and forecast systems Wednesday September 27 2000 at 1200 UTC. The 3D-VAR (3-Dimensional VARiational) data assimilation will now make use of automated aircraft observations, that is ACARS and AMDAR data, in addition to the AIREP data which are currently assimilated. We are also incorporating satellite radiances from NOAA-14 TOVS and NOAA-15 ATOVS instead of the NOAA-14 SATEM data (temperature profiles derived from radiances). You will find detailed information on this change in the [official note](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/e_11jan2001_analreg_eta_tovs_acars.htm). As well, technical notes are available on the assimation of [TOVS](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/e_1_passe_par_atovs_acars2.htm) and [ACARS/AMDARS](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/acars_amdar_e.html) data. Note that the regional assimilation and forecast system remains unchanged.
 
 
-## Wednesday, June 14 2000, 12Z
+### Wednesday, June 14 2000, 12Z
 
-### Implementation of a new global analysis on "eta" coordinates
+#### Implementation of a new global analysis on "eta" coordinates
 
 CMC Operations will implement changes to the global data assimilation and forecast systems Wednesday 14 June 2000 at the 12Z run. The new global analysis on "eta" coordinates will be implemented. The 3D-Var data assimilation will be performed directly on the GEM model 28 eta vertical levels rather than on the current 16 standard pressure levels. At the same time, a new version of the GEM model in the global configuration will also be implemented. The main impact of this last change is to increase the level of activity in the model. You will find more information in the [official note](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/e_14juin2000_anal_eta.htm). The regional assimilation and forecast system remains unchanged.
 
 
-## Wednesday, October 14 1998, 12Z
+## 1998
 
-### Implementation of a new global forecast model
+### Wednesday, October 14 1998, 12Z
+
+#### Implementation of a new global forecast model
 
 CMC Operations will implement the global uniform grid version of the GEM model Wednesday October 14th at the 12Z run. The GEM model in global configuration will replace the T199 version of the global SEF spectral model which is currently used to produce the medium and long range forecasts at CMC. The new model, which has a latitude-longitude resolution of 0.9°, will be also used in the global data assimilation system to generate the trial fields for the global analyses. The [official note](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/e_14octobre1998_GEMglobal.htm) (GENOT) describes the main differences between GEM global and the spectral SEF model and summarizes the results of the objective and subjective evaluations of the parallel run which has been in place during the past 5 months. The article from [Côté et al. (1997)](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/E_GEM_t10.pdf) (PDF Version) gives additional details on the GEM model.
 
 With this implementation, CMC now has a unified forecasting system in which a single model (GEM) is used in different configurations (global, regional, local). After running a barotropic model since the 1960s CMC implemented the first version of the spectral hemispheric T20L5 model in 1976. Fifteen years later, in 1991, the global version of the spectral SEF model (T79L21) was implemented. The model's horizontal resolution was increased to T119 in 1993, then to T199 (100km) in 1995. Note that the SEF model will continue to be used for the monthly and seasonal forecasts as well as in the ensemble forecasting system.
 
 
-## Tuesday, September 15 1998, 12Z
+### Tuesday, September 15 1998, 12Z
 
-### Implementation of the GEM, regional 24 km model.
+#### Implementation of the GEM, regional 24 km model.
 
 CMC Operations will implement a new version of the GEM regional model on Tuesday, September 15 1998 at the 12Z run. The main changes affect the horizontal resolution of the model grid, which is increased from 35 km to 24 km, and the parametrization of the physical processes. For more information, please consult the [official note](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/e_01sep1998_gem24km.htm) (GENOT).
 
 
-## Wednesday, March 11, 1998, 12Z
+### Wednesday, March 11, 1998, 12Z
 
-### Implementation of the new snow depth analysis.
+#### Implementation of the new snow depth analysis.
 
 CMC Operations will implement a new snow depth analysis on Wednesday, March 11, 1998, 12Z. This new analysis will have, among other things, an improved temporal and spatial resolution and will take into acount intermediate synoptic observations. In addition, we have significantly improved the analysis algorithm. For more information, please consult the [official note](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/genot_snowan.htm) (GENOT) or the [detailed documentation](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/e_snow_article.pdf) (PDF Version) about impacts of this new analysis.
 
 
-## Thursday, January 22, 1998, 00Z
+### Thursday, January 22, 1998, 00Z
 
-### Improvement to the «force-restore» scheme of GEM.
+#### Improvement to the «force-restore» scheme of GEM.
 
 CMC Operations implemented a modification to the GEM model on Thursday January 22nd 1998 at 00Z. This modification is an improvement to the «force-restore» scheme which allows to calculate the model surface temperature and humidity. These modifications will improve the surface temperature and dew point forecast during the winter season. An [official note](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/e_22jan98_g_forcerestore.htm) (GENOT) announcing this modification summarizes the results of the objective and subjective evaluations of the parallel run.
 
 
-## Wednesday, September 24, 1997, 12Z
+## 1997
 
-### Reintroduction of the regional data assimilation system at CMC
+### Wednesday, September 24, 1997, 12Z
+
+#### Reintroduction of the regional data assimilation system at CMC
 
 CMC Operations will reintroduce the regional data assimilation system (12 hour spin-up) on Wednesday September 24 1997 at 12Z. This system had been turned off when the GEM model replaced the RFE model last February. The 3D-VAR (3-dimensional variational) data assimilation system was adapted to the regional system which uses the GEM model to produce the 6 hour trial fields needed by the analysis. The [official note](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/e_24septembre1997_g_analreg.htm) announcing this modification summarizes also the results of the parallel run.
 
 
-## Wednesday, June 18th 1997 at 12Z
+### Wednesday, June 18th 1997 at 12Z
 
-### 3D-VAR, the new data assimilation system at CMC was implemented
+#### 3D-VAR, the new data assimilation system at CMC was implemented
 
 CMC Operations has implemented a new data assimilation system on Wednesday June 18th 1997 at 12Z. The 3D-VAR (3-dimensional variational) data assimilation system has replaced the operational OI (optimum interpolation) scheme that has been used at CMC since the last 20 years. The [official note](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/e_18juin1997_g_3dvar.htm) announcing this modification summarizes also the results of the parallel run. A detailed documentation on this new analysis is in preparation. In the meantime, you can consult the images from a [Powerpoint presentation](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/3dvar_scmo/sld001.htm) prepared by Pierre Koclas for the CMOS conference which was held in Saskaton in early June.
 
 
-## Tuesday June 10th 1997 at 12Z
+### Tuesday June 10th 1997 at 12Z
 
-### Modification to the analysis feeding GEM regional implemented
+#### Modification to the analysis feeding GEM regional implemented
 
 CMC Operations implemented a modification of the regional forecast system on Tuesday June 10th 1997 at 12Z. The GEM regional model is now fed by the 21 level global analysis in sigma coordinates. Since the introduction of GEM, last February 24th, the model was being fed by the 16 level pressure global analysis. An [official note](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/e_10juin1997_g_analsigma.htm) announcing this modification summarizes the results of the objective and subjective evaluations of the parallel run.
 
 
-## Monday 24 February 1997 at 12Z
+### Monday 24 February 1997 at 12Z
 
-### The new GEM regional model was implemented
+#### The new GEM regional model was implemented
 
 The new GEM regional model was implemented On Monday 24 February 1997 at 12Z CMC Operations implemented a new regional forecast model: the GEM (Global Environmental Multiscale) model. This new model replaces the operational RFE model that has been used to produce short range forecasts at CMC since April 22 1986. An [official note](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/e_24fevrier1997_g_GEM.htm) announcing the implementation of GEM describes the differences between GEM and RFE and summarizes the results of the objective and subjective evaluations of the parallel run which has run during the last few months. The article by [Côté et al. (1997)](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/op_systems/doc_opchanges/E_GEM_t10.pdf) (PDF Version) describes the development and the characteristics of the GEM model and offers, as well, a more detailed discussion of the parallel run evaluation.
 
 
 ## 1996
 
-### The Statistical Canonical Correlation Analysis (CCA) is now used for forecasts of month 4-12 over Canada
+
+#### The Statistical Canonical Correlation Analysis (CCA) is now used for forecasts of month 4-12 over Canada
 
 
 ## 1995
 
-### CMC introduces its first automated seasonal forecast based on a ensemble atmospheric dynamical prediction system
+
+#### CMC introduces its first automated seasonal forecast based on a ensemble atmospheric dynamical prediction system
 
 This new system includes
 - A 2-tier approach

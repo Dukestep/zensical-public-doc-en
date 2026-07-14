@@ -4,8 +4,7 @@
 
 ## Tuesday June 11, 2024
 
-### Upgrade to Version 3.5.0 of the Deterministic Hydrological Prediction System (DHPS) at the Canadian Meteorological Centre
-
+#### Upgrade to Version 3.5.0 of the Deterministic Hydrological Prediction System (DHPS) at the Canadian Meteorological Centre
 On Tuesday June 11, 2024, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) will upgrade the Deterministic Hydrological Prediction System (DHPS) to version 3.5.0.
 
 Significant changes:
@@ -25,8 +24,7 @@ The technical specifications document for DHPS 3.5.0 is available [at this link]
 
 ## Wednesday June 21, 2023
 
-### Upgrade to Version 3.4.0 of the Deterministic Hydrological Prediction System (DHPS) at the Canadian Meteorological Centre
-
+#### Upgrade to Version 3.4.0 of the Deterministic Hydrological Prediction System (DHPS) at the Canadian Meteorological Centre
 Significant changes :  
 
 * Addition of 3 new watersheds (Columbia River, Skeena River, Bay of Fundy) and extension of the Yukon River watershed
@@ -43,14 +41,12 @@ The technical specifications document for DHPS 3.4.0 is available [at this link]
 
 ## Tuesday June 28, 2022
 
-### Upgrade to Version 3.2.0 of the DHPS adapted to the New High Performance Computing Infrastructure.
-
+#### Upgrade to Version 3.2.0 of the DHPS adapted to the New High Performance Computing Infrastructure.
 See details [at this link](../changelog_multisystems.md)
 
 ## Wednesday December 1st, 2021
 
-### Upgrade to Version 3.1.0 of the Deterministic Hydrological Prediction System (DHPS) at the Canadian Meteorological Centre
-
+#### Upgrade to Version 3.1.0 of the Deterministic Hydrological Prediction System (DHPS) at the Canadian Meteorological Centre
 Effective Wednesday, December 1st, 2021, the Canadian Meteorological Centre (CMC) will update the Deterministic Hydrological Prediction System (DHPS) to v3.1.0.
 
 The official note announcing this implementation is available [at this location](https://dd.meteo.gc.ca/doc/genots/2021/11/26/NOCN03_CWAO_262118___50159).

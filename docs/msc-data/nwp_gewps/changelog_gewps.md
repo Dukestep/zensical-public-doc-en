@@ -4,14 +4,12 @@
 
 ## Tuesday April 14, 2026
 
-### Upgrade to Version 1.4.0 of the GEWPS adapted to the New High Performance Computing Infrastructure.
-
+#### Upgrade to Version 1.4.0 of the GEWPS adapted to the New High Performance Computing Infrastructure.
 See details [at this link](../changelog_multisystems.md)
 
-# Tuesday June 11, 2024
+## Tuesday June 11, 2024
 
-### Upgrade to Version 1.3.0 of the GEWPS.
-
+#### Upgrade to Version 1.3.0 of the GEWPS.
 On Tuesday June 11, 2024, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) will upgrade the Global Ensemble Wave Prediction System (GEWPS) to version 1.3.0.
 
 Significant change:
@@ -29,14 +27,12 @@ The technical specifications document for GEWPS 1.3.0 is available [at this link
 
 ## Tuesday June 28, 2022
 
-### Upgrade to Version 1.2.0 of the GEWPS adapted to the New High Performance Computing Infrastructure.
-
+#### Upgrade to Version 1.2.0 of the GEWPS adapted to the New High Performance Computing Infrastructure.
 See details [at this link](../changelog_multisystems.md)
 
 ## Wednesday December 1st, 2021
 
-### Upgrade to Version 1.1.0 of the GEWPS.
-
+#### Upgrade to Version 1.1.0 of the GEWPS.
 On Wednesday December 1st, 2021, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) will upgrade the Global Ensemble Wave Prediction System (GEWPS) to version 1.1.0 and change the status from experimental to operational.
 
 The changes included in this upgrade are summarized as follows:
@@ -53,8 +49,7 @@ Associated Notes:
 
 ## Tuesday November 17, 2020
 
-### Experimental implementation of the Global Ensemble Wave Prediction System (GEWPS) Version 1.0.0 at the Canadian Meteorological Centre (CMC)
-
+#### Experimental implementation of the Global Ensemble Wave Prediction System (GEWPS) Version 1.0.0 at the Canadian Meteorological Centre (CMC)
 Effective Tuesday November 17th, 2020, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada installed the Global Ensemble Wave Prediction System (GEWPS) v1.0.0 with experimental status.
 
 For more information, please consult the technical specifications document for GEWPS v1.0.0 available [at this link](https://collaboration.cmc.ec.gc.ca/cmc/CMOI/product_guide/docs/tech_specifications/tech_specifications_GEWPS_1.0.0_e.pdf).

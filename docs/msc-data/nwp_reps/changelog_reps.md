@@ -4,14 +4,12 @@
 
 ## Tuesday April 14, 2026
 
-### Upgrade to Version 5.1.0 of the REPS adapted to the New High Performance Computing Infrastructure.
-
+#### Upgrade to Version 5.1.0 of the REPS adapted to the New High Performance Computing Infrastructure.
 See details [at this link](../changelog_multisystems.md)
 
 ## Tuesday June 11, 2024
 
-### Upgrade to Version 5.0.0 of the Regional Ensemble Prediction System (REPS) at the Canadian Meteorological Centre
-
+#### Upgrade to Version 5.0.0 of the Regional Ensemble Prediction System (REPS) at the Canadian Meteorological Centre
 On Tuesday June 11, 2024, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) will upgrade the Regional Ensemble Prediction System (REPS) to version 5.0.0.
 
 Significant changes:
@@ -33,14 +31,12 @@ The technical specifications document for REPS 5.0.0 is available [at this link]
 
 ## Tuesday June 28, 2022
 
-### Upgrade to Version 4.1.0 of the REPS adapted to the New High Performance Computing Infrastructure.
-
+#### Upgrade to Version 4.1.0 of the REPS adapted to the New High Performance Computing Infrastructure.
 See details [at this link](../changelog_multisystems.md).
 
 ## Wednesday December 1st, 2021
 
-### Upgrade to Version 4.0.0 of the Regional Ensemble Prediction System (REPS) at the Canadian Meteorological Centre
-
+#### Upgrade to Version 4.0.0 of the Regional Ensemble Prediction System (REPS) at the Canadian Meteorological Centre
 On Wednesday December 1st, 2021, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) will upgrade the Regional Ensemble Prediction System (REPS) to version 4.0.0.
 
 
@@ -55,14 +51,12 @@ Associated Notes:
 
 ## Tuesday January 21, 2020
 
-### Upgrade to Version 3.1.0 of the REPS adapted to the New High Performance Computing Infrastructure.
-
+#### Upgrade to Version 3.1.0 of the REPS adapted to the New High Performance Computing Infrastructure.
 See details [at this link](../changelog_multisystems.md)
 
 ## Wednesday July 3, 2019
 
-### Upgrade to Version 3.0.0 of the Regional Ensemble Prediction System (REPS) at the Canadian Meteorological Centre
-
+#### Upgrade to Version 3.0.0 of the Regional Ensemble Prediction System (REPS) at the Canadian Meteorological Centre
 On Wednesday, July 3rd, 2019, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada will upgrade the Regional Ensemble Prediction System (REPS) to version 3.0.0.
 The changes included in this upgrade are summarized as follows:
 
@@ -84,8 +78,7 @@ The technical specifications document for REPS 3.0.0 [is available at this link]
 
 ## Tuesday September 18, 2018
 
-### Upgrade to Version 2.4.0 of the Regional Ensemble Prediction System (REPS) at the Canadian Meteorological Centre
-
+#### Upgrade to Version 2.4.0 of the Regional Ensemble Prediction System (REPS) at the Canadian Meteorological Centre
 On Tuesday, September 18, 2018, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada will upgrade the Regional Ensemble Prediction System (REPS) to version 2.4.0.
 The changes included in this upgrade are summarized as follows:
 
@@ -100,8 +93,7 @@ A technical note with more details on this change [is available at this link](ht
 
 ## Tuesday December 15, 2015
 
-### Upgrade to Version 2.2.0 of the Regional Ensemble Prediction System (REPS) at the Canadian Meteorological Centre
-
+#### Upgrade to Version 2.2.0 of the Regional Ensemble Prediction System (REPS) at the Canadian Meteorological Centre
 On Tuesday December 15th 2015, starting with the 1200 UTC run, the Meteorological Service of Canada's Canadian Meteorological Centre (CMC) will upgrade the Regional Ensemble Prediction System (REPS) to version 2.2.0.
 The only change to REPS is that it is now piloted by GEPS 4.1.1 (see [here](../nwp_geps/changelog_geps.md) for further details), rather than by the previous GEPS 4.0.0.
 
@@ -110,8 +102,7 @@ The technical specifications document of the REPS 2.2.0 [is available at this li
 
 ## Wednesday December 4th 2013
 
-### Major Upgrade to the Regional Ensemble Prediction System (REPS) version 2.0.1 at the Canadian Meteorological Centre
-
+#### Major Upgrade to the Regional Ensemble Prediction System (REPS) version 2.0.1 at the Canadian Meteorological Centre
 On Wednesday December 4th 2013, starting with the 1200 UTC run the Meteorological Service of Canada's Canadian Meteorological Centre (CMC) will upgrade the Regional Ensemble Prediction System (REPS) to version 2.0.1.
 
 In this upgrade, important changes were made to the model dynamic used into the REPS 2.0.1. The new REPS includes a more recent version (from version 4.2.1. to 4.5.1) of the global environmental multi-scale (GEM), model. The horizontal grid spacing for the new system is reduced from 0.3 degre (33 km) to 0.1375 degre (15 km). The time step is reduced from 15 minutes to 7.5 minutes. The number of vertical levels of the new system is increased from 28 to 48 levels.

@@ -11,8 +11,7 @@ status: deprecated
 
 ## Tuesday June 11, 2024
 
-### The Regional Air Quality Deterministic Prediction System FireWork (RAQSPS-FW) is merged with The Regional Air Quality Deterministic Prediction System (RAQDPS)
-
+#### The Regional Air Quality Deterministic Prediction System FireWork (RAQSPS-FW) is merged with The Regional Air Quality Deterministic Prediction System (RAQDPS)
 On Tuesday June 11, 2024, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) will stop running a separate system forecasting air quality forecasting with near-real-time wildfire emissions. The Regional Air Quality Deterministic Prediction System (RAQDPS) will now include forest fire contributions, starting with version 25 of this system.
 
 All documentation regarding Regional Air Quality Deterministic Prediction System (RAQDPS) version 25 [can be found here](../nwp_raqdps/changelog_raqdps.md#tuesday-june-11-2024).
@@ -20,14 +19,12 @@ All documentation regarding Regional Air Quality Deterministic Prediction System
 
 ## Tuesday June 28, 2022
 
-### Upgrade to Version 24 of the RAQDPS-FW adapted to the New High Performance Computing Infrastructure.
-
+#### Upgrade to Version 24 of the RAQDPS-FW adapted to the New High Performance Computing Infrastructure.
 See details [at this link](../changelog_multisystems.md).
 
 ## Wednesday December 1st, 2021
 
-### Upgrade to the Regional Air Quality Deterministic Prediction System FireWork (RAQSPS-FW) 
-
+#### Upgrade to the Regional Air Quality Deterministic Prediction System FireWork (RAQSPS-FW) 
 On Wednesday December 1st, 2021, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) will upgrade the Regional Air Quality Deterministic Prediction System with Near-Real-Time Wildfire Emissions Firework (RAQDPS-FW) from version 22 to version 23.
 
 The changes included in this upgrade are summarized as follows:
@@ -67,14 +64,12 @@ A technical note with more details is available [at this link](http://collaborat
 
 ## Tuesday January 21, 2020
 
-### Upgrade FireWork version adapted to the New High Performance Computing Infrastructure.
-
+#### Upgrade FireWork version adapted to the New High Performance Computing Infrastructure.
 See details [at this link](../changelog_multisystems.md)
 
 ## Wednesday July 3, 2019
 
-### Upgrade to the Regional Air Quality Deterministic Prediction System FireWork (RAQSPS-FW) 
-
+#### Upgrade to the Regional Air Quality Deterministic Prediction System FireWork (RAQSPS-FW) 
 On Wednesday July 3rd, 2019, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) will upgrade the Regional Air Quality Deterministic Prediction System Firework (RAQDPS-FW) from version 20 to version 21.
 
 The changes included in this upgrade are summarized as follows:
@@ -99,8 +94,7 @@ A technical note with more details is available [at this link](https://collabora
 
 ## Tuesday September 18, 2018
 
-### Upgrade to the Regional Air Quality Deterministic Prediction System FireWork 
-
+#### Upgrade to the Regional Air Quality Deterministic Prediction System FireWork 
 On Tuesday, September 18, 2018, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) will upgrade the Regional Air Quality Deterministic Prediction System FireWork, from version 19 to version 20.
 
 The changes included in this upgrade are summarized as follows:
@@ -116,8 +110,7 @@ A technical note with more details on this change is available [at this link](ht
 
 ## Tuesday April 3, 2018
 
-### Installation of the FireWork Prediction System for the Summer Wildfire Season of 2018
-
+#### Installation of the FireWork Prediction System for the Summer Wildfire Season of 2018
 On Tuesday April 3, 2018, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) will begin execution of the FireWork prediction system for the summer period of 2018. FireWork is a seasonal modelling system based on the Regional Air Quality Deterministic Prediction System (RAQDPS) which incorporates additional emissions from wildfire events over North America.
 
 For further information, please consult the official note announcing the implementation of FireWork for Summer 2018 [at this link](https://dd.meteo.gc.ca/doc/genots/2018/04/03/NOCN03_CWAO_031838___00001).
@@ -126,8 +119,7 @@ A technical note with more details on this system is available [at this link](ht
 
 ## Wednesday July 3, 2019
 
-### Upgrade to the FireWork Prediction System
-
+#### Upgrade to the FireWork Prediction System
 On Wednesday July 3rd, 2019, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) will upgrade the Regional Air Quality Deterministic Prediction System (RAQDPS), and it's companion system, FireWork, from version 20 to version 21.
 
 The changes included in this upgrade are summarized as follows:
@@ -141,8 +133,7 @@ A technical note for FireWork with more details on this change will be available
 
 ## Tuesday September 18, 2018
 
-### Upgrade to the FireWork Prediction System
-
+#### Upgrade to the FireWork Prediction System
 On Tuesday, September 18, 2018, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) will upgrade the Regional Air Quality Deterministic Prediction System (RAQDPS), and it's companion system, FireWork, from version 19 to version 20.
 
 The changes included in this upgrade are summarized as follows:
@@ -155,8 +146,7 @@ A copy of the official note announcing the implementation of these changes is av
 
 ## Wednesday September 7, 2016
 
-### Major Upgrade to the FireWork Prediction System
-
+#### Major Upgrade to the FireWork Prediction System
 On Wednesday, September 7th, 2016, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) will upgrade the FireWork prediction system. FireWork is a seasonal modelling system based on the Regional Air Quality Deterministic Prediction System (RAQDPS) which incorporates near-real-time biomass burning emissions over North America. It executes during the wildfire season which normally ends towards the end of October.
 
 The changes included in this upgrade are equivalent to those described above for [RAQDPS016](../nwp_raqdps/changelog_raqdps.md).
@@ -165,8 +155,7 @@ For further information, please consult the official note announcing the impleme
 
 ## Thursday April 14th, 2016
 
-### Installation of the FireWork Prediction System for the Summer Season of 2016
-
+#### Installation of the FireWork Prediction System for the Summer Season of 2016
 On Thursday April 14th, 2016, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) will begin execution of the FireWork prediction system for the summer period of 2016. FireWork is a seasonal modelling system based on the Regional Air Quality Deterministic Prediction System (RAQDPS) which incorporates additional emissions from wildfire events over North America.
 
 For further information, please consult the official note announcing the implementation of FireWork for summer 2016 [at this link](https://dd.meteo.gc.ca/doc/genots/2016/04/13/NOCN03_CWAO_131900___00844).

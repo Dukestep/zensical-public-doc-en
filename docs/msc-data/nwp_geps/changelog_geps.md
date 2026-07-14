@@ -4,14 +4,12 @@
 
 ## Tuesday April 14, 2026
 
-### Upgrade to Version 8.1.0 of the GEPS adapted to the New High Performance Computing Infrastructure.
-
+#### Upgrade to Version 8.1.0 of the GEPS adapted to the New High Performance Computing Infrastructure.
 See details [at this link](../changelog_multisystems.md)
 
-### Monday May 26th, 2025
+## Monday May 26th, 2025
 
-### Addition of ATMS and CrIS observations from the NOAA-21 satellite in the GEPS
-
+#### Addition of ATMS and CrIS observations from the NOAA-21 satellite in the GEPS
 On Monday May 26th, 2025, starting with the 0600 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 8.0.0 of the Global Ensemble Prediction System (GEPS).
 
 Only the data assimilation component was modified to add the following satellite observation sources:
@@ -20,8 +18,7 @@ Only the data assimilation component was modified to add the following satellite
 
 ## Wednesday April 2, 2025
 
-### Technical update of atmospheric data assimilation systems
-
+#### Technical update of atmospheric data assimilation systems
 On Wednesday April 2nd, 2025, starting with the 0600 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 8.0.0 of the Global Ensemble Prediction System (GEPS).
 
 Only the data assimilation component was modified:
@@ -31,8 +28,7 @@ Only the data assimilation component was modified:
 
 ## Wednesday October 23, 2024
 
-#### Addition of new satellite observation sources in the GEPS
-
+##### Addition of new satellite observation sources in the GEPS
 On Wednesday October 23rd, 2024, starting with the 0600 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 8.0.0 of the Global Ensemble Prediction System (GEPS).
 
 Only the data assimilation component was modified to add the following satellite observation sources:
@@ -41,8 +37,7 @@ Only the data assimilation component was modified to add the following satellite
 
 ## Tuesday June 11, 2024
 
-#### Upgrade to Version 8.0.0 of the Global Ensemble Prediction System (GEPS) at the Canadian Meteorological Centre
-
+##### Upgrade to Version 8.0.0 of the Global Ensemble Prediction System (GEPS) at the Canadian Meteorological Centre
 On Tuesday June 11, 2024 starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) will upgrade the Global Ensemble Prediction System (GEPS) to version 8.0.0.
 
 Significant changes:
@@ -62,8 +57,7 @@ The technical specifications document for GEPS v8.0.0 is available [at this link
 
 ## Thursday September 14, 2023
 
-### Addition of commercial GNSS-RO observations from PlanetIQ in the GEPS
-
+#### Addition of commercial GNSS-RO observations from PlanetIQ in the GEPS
 On Thursday September 14th, 2023, starting with the 0000 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 7.1.1 of the Global Ensemble Prediction System (GEPS).
 
 Only the data assimilation component was modified to include the following observations:
@@ -72,8 +66,7 @@ Addition of commercial GNSS-RO (Global Navigation Satellite System Radio Occulta
 
 ## Wednesday July 5, 2023
 
-### Addition of commercial GNSS-RO observations from Spire in the GEPS
-
+#### Addition of commercial GNSS-RO observations from Spire in the GEPS
 On Wednesday July 5th, 2023, starting with the 0000 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 7.1.1 of the Global Ensemble Prediction System (GEPS).
 
 Only the data assimilation component was modified to include the following observations:
@@ -82,8 +75,7 @@ Addition of commercial GNSS-RO (Global Navigation Satellite System Radio Occulta
 
 ## Wednesday March 8, 2023
 
-### Correction to the quality control of snow depth observations from Canadian automatic stations in the GEPS
-
+#### Correction to the quality control of snow depth observations from Canadian automatic stations in the GEPS
 On Wednesday March 8th, 2023, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 7.1.1 of the Global Ensemble Prediction System (GEPS).
 
 A modification to the quality control of snow depth observations from Canadian automatic stations used in the snow analysis has been installed in the GEPS.
@@ -94,8 +86,7 @@ The official note announcing the implementation of these changes is available [a
 
 ## Wednesday February 15, 2023
 
-### Addition of GPSRO observations from the Sentinel-6A satellite in the GEPS
-
+#### Addition of GPSRO observations from the Sentinel-6A satellite in the GEPS
 On Wednesday February 15th, 2023, starting with the 0000 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 7.1.0 of the Global Ensemble Prediction System (GEPS).
 
 Only the data assimilation component was modified to include the following observations:
@@ -104,8 +95,7 @@ Addition of GPSRO (Global Positioning System Radio Occultation) observations fro
 
 ## Wednesday January 4, 2023
 
-### Replacement of Atmospheric Motion wind Vectors from GOES-17 by those from GOES-18 in the GEPS
-
+#### Replacement of Atmospheric Motion wind Vectors from GOES-17 by those from GOES-18 in the GEPS
 On Wednesday January 4th, 2023, starting with the 1800 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update of version 7.1.0 of the Global Ensemble Prediction System (GEPS).
 
 Only the data assimilation component was modified to include the following observations:
@@ -114,8 +104,7 @@ Replacement of Atmospheric Motion wind Vectors (AMV) from GOES-17 by those from 
 
 ## Thursday November 3, 2022
 
-### Addition of surface observations received from ships in BUFR format in the GEPS
-
+#### Addition of surface observations received from ships in BUFR format in the GEPS
 On Thursday November 3rd, 2022, starting with the 0600 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update of version 7.1.0 of the Global Ensemble Prediction System (GEPS).
 
 Only the data assimilation component was modified to include the following observations:
@@ -125,14 +114,12 @@ Addition of surface observations received from ships in BUFR (Binary Universal F
 
 ## Tuesday June 28, 2022
 
-### Upgrade to Version 7.1.0 of the GEPS adapted to the New High Performance Computing Infrastructure.
-
+#### Upgrade to Version 7.1.0 of the GEPS adapted to the New High Performance Computing Infrastructure.
 See details [at this link](../changelog_multisystems.md)
 
 ## Wednesday February 16, 2022
 
-#### Addition of GPSRO observations from the GRACE-C and GRACE-D satellites in the GEPS
-
+##### Addition of GPSRO observations from the GRACE-C and GRACE-D satellites in the GEPS
 On Wednesday February 16th, 2022, starting with the 0000 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 7.0.0 of the Global Ensemble Prediction System (GEPS).
 
 Only the data assimilation component was modified to include the following observations:
@@ -141,8 +128,7 @@ Addition of GPSRO (Global Positioning System Radio Occultation) observations fro
 
 ## Wednesday December 1st, 2021
 
-#### Upgrade to Version 7.0.0 of the Global Ensemble Prediction System (GEPS) at the Canadian Meteorological Centre
-
+##### Upgrade to Version 7.0.0 of the Global Ensemble Prediction System (GEPS) at the Canadian Meteorological Centre
 On Wednesday December 1st, 2021 starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) will upgrade the Global Ensemble Prediction System (GEPS) to version 7.0.0.
 
 A brief summary of the innovations included in this upgrade and their impact on performance can be found [in this document](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/fact_sheets/factsheet_geps-700_e.pdf).
@@ -156,8 +142,7 @@ The technical specifications document for GEPS v7.0.0 is available [at this link
 
 ## Tuesday January 26th, 2021
 
-### Replacement of satellite radiance observations
-
+#### Replacement of satellite radiance observations
 On Tuesday January 26th, 2021, starting with the 0600 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 6.1.0 of the Global Ensemble Prediction System (GEPS).
 
 Only the data assimilation component was modified to substitute the following observations:
@@ -166,8 +151,7 @@ Only the data assimilation component was modified to substitute the following ob
 
 ## Tuesday December 8th, 2020
 
-### Addition of satellite radiance observations
-
+#### Addition of satellite radiance observations
 On Tuesday December 8th, 2020, starting with the 0600 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 6.1.0 of the Global Ensemble Prediction System (GEPS).
 
 Only the data assimilation component was modified to include the following observations to its 4DEnVar analysis, whereas the EnKF analysis remained unchanged:
@@ -178,8 +162,7 @@ Only the data assimilation component was modified to include the following obser
 
 ## Friday June 26th, 2020
 
-### Addition of GPSRO observations from the COSMIC-II satellites
-
+#### Addition of GPSRO observations from the COSMIC-II satellites
 On Friday June 26th, 2020, starting with the 0000 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 6.1.0 of the Global Ensemble Prediction System (GEPS).
 
 Only the data assimilation component was modified to include the following observations:
@@ -188,8 +171,7 @@ Addition of GPSRO (Global Positioning System Radio Occultation) observations fro
 
 ## Wednesday April 29th, 2020
 
-### Addition of GPSRO observations from the PAZ and the KOMPSAT-5 satellites
-
+#### Addition of GPSRO observations from the PAZ and the KOMPSAT-5 satellites
 On Wednesday April 29th, 2020, starting with the 0000 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 6.1.0 of the Global Ensemble Prediction System (GEPS).
 
 Only the data assimilation component was modified to include the following observations:
@@ -198,8 +180,7 @@ Addition of GPSRO (Global Positioning System Radio Occultation) observations fro
 
 ## Tuesday April 28th, 2020
 
-### Addition of AMV observations from the MetOp-3/C satellite
-
+#### Addition of AMV observations from the MetOp-3/C satellite
 On Tuesday April 28th, 2020, starting with the 0600 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) proceeded with an update to version 6.1.0 of the Global Ensemble Prediction System (GEPS).
 
 Only the data assimilation component was modified to include the following observations:
@@ -208,14 +189,12 @@ Addition of AMV (Atmospheric Motion Vector) observations from the MetOp-3/C sate
 
 ## Tuesday January 21, 2020
 
-### Upgrade to Version 6.1.0 of the GEPS adapted to the New High Performance Computing Infrastructure.
-
+#### Upgrade to Version 6.1.0 of the GEPS adapted to the New High Performance Computing Infrastructure.
 See details [at this link](../changelog_multisystems.md)
 
 ## Tuesday July 23, 2019
 
-### Additional observations data in the Global Ensemble Prediction System (GEPS) at the Canadian Meteorological Centre
-
+#### Additional observations data in the Global Ensemble Prediction System (GEPS) at the Canadian Meteorological Centre
 On Tuesday July 23rd 2019, starting with the 0600 UTC run, the Meteorological Service of Canada's Canadian Meteorological Centre (CMC) proceeded with an update of its Global Ensemble Prediction System (GEPS).
 
 The data assimilation component of the GEPS system was modified to use additional observations in seven observations families. All these families were already used, this upgrade mainly increase the data assimilation systems robustness.
@@ -226,8 +205,7 @@ The details of these changes can be consulted in the copy of the official note a
 
 ## Wednesday July 3, 2019
 
-#### Upgrade to Version 6.0.0 of the Global Ensemble Prediction System (GEPS) at the Canadian Meteorological Centre
-
+##### Upgrade to Version 6.0.0 of the Global Ensemble Prediction System (GEPS) at the Canadian Meteorological Centre
 On Wednesday July 3rd 2019, starting with the 1200 UTC run, the Meteorological Service of Canada's Canadian Meteorological Centre (CMC) will upgrade the Global Ensemble Prediction System (GEPS) to version 6.0.0.
 
 The changes included in this upgrade are summarized as follows:
@@ -252,8 +230,7 @@ The technical specifications document of the GEPS 6.0.0 [is available at this li
 
 ## Tuesday September 18, 2018
 
-#### Upgrade to Version 5.0.0 of the Global Ensemble Prediction System (GEPS) at the Canadian Meteorological Centre
-
+##### Upgrade to Version 5.0.0 of the Global Ensemble Prediction System (GEPS) at the Canadian Meteorological Centre
 On Tuesday September 18th 2018, starting with the 1200 UTC run, the Meteorological Service of Canada's Canadian Meteorological Centre (CMC) will upgrade the Global Ensemble Prediction System (GEPS) to version 5.0.0.
 
 The changes included in this upgrade are summarized as follows:
@@ -284,8 +261,7 @@ The technical specifications document of the GEPS 5.0.0 [is available at this li
 
 ## Tuesday December 15, 2015
 
-#### Upgrade to Version 4.1.1 of the Global Ensemble Prediction System (GEPS) at the Canadian Meteorological Centre
-
+##### Upgrade to Version 4.1.1 of the Global Ensemble Prediction System (GEPS) at the Canadian Meteorological Centre
 On Tuesday December 15th 2015, starting with the 1200 UTC run, the Meteorological Service of Canada's Canadian Meteorological Centre (CMC) will upgrade the Global Ensemble Prediction System (GEPS) to version 4.1.1.
 
 The changes included in this upgrade are summarized as follows:
@@ -307,8 +283,7 @@ The technical specifications document of the GEPS 4.1.1 [is available at this li
 
 ## Tuesday November 18th 2014
 
-#### Major Upgrade to the Global Ensemble Prediction System (GEPS) version 4.0.0 at the Canadian Meteorological Centre
-
+##### Major Upgrade to the Global Ensemble Prediction System (GEPS) version 4.0.0 at the Canadian Meteorological Centre
 On Tuesday November 18th 2014, starting with the 1200 UTC run the Meteorological Service of Canada's Canadian Meteorological Centre (CMC) will upgrade the Global Ensemble Prediction System (GEPS) to version 4.0.0.
 
 Summary of the major changes included in this upgrade:
@@ -328,8 +303,7 @@ A technical note on the improvements made to the reforecast system [is available
 
 ## Wednesday December 4th 2013
 
-#### Major Upgrade to the Global Ensemble Prediction System (GEPS) version 3.1.0 at the Canadian Meteorological Centre
-
+##### Major Upgrade to the Global Ensemble Prediction System (GEPS) version 3.1.0 at the Canadian Meteorological Centre
 On Wednesday December 4th 2013, starting with the 1200 UTC run the Meteorological Service of Canada's Canadian Meteorological Centre (CMC) will upgrade the Global Ensemble Prediction System (GEPS) to version 3.1.0.
 
 This new version of GEPS will use a newer version of the GEM model (from 4.4.1 to 4.4.5). This change purely technical resulting in no difference in the forecasts in GEPS but allows easier system maintenance and greater consistency with other prediction systems at CMC.
@@ -349,8 +323,7 @@ A technical note with many more details on this change [is also available at thi
 
 ## Wednesday February 13, 2013
 
-#### Major upgrade to the Global Ensemble Prediction System (GEPS) version 3.0.0 at the Canadian Meteorological Centre
-
+##### Major upgrade to the Global Ensemble Prediction System (GEPS) version 3.0.0 at the Canadian Meteorological Centre
 On Wednesday February 13th 2013, starting with the 1200 UTC run the Meteorological Service of Canada's Canadian Meteorological Centre (CMC) will upgrade the Global Ensemble Prediction System (GEPS) to version 3.0.0.
 
 In this upgrade, major changes are brought to both the assimilation (Ensemble Kalman Filter or ENKF) and forecast components of the system. The ENKF is used to supply initial conditions to the GEPS, while the forecast component provides forecasts out to 16 days using the Canadian Global Environmental Multi-scale model (GEM). Those forecasts are shared with North American Ensemble Forecast System (NAEFS) partners, hence changes to our system will have an impact on the NAEFS forecasts.

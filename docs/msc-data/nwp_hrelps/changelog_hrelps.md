@@ -4,14 +4,12 @@
 
 ## Thursday May 1, 2025
 
-### The High Resolution Ensemble Land Surface Prediction System (HRELPS) is declared operational at the Canadian Meteorological Centre
-
+#### The High Resolution Ensemble Land Surface Prediction System (HRELPS) is declared operational at the Canadian Meteorological Centre
 Effective May 1st, 2025, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada declared operational the High Resolution Ensemble Land Surface Prediction System (HRELPS, v1.2.2)
 
 ## Tuesday June 11, 2024
 
-### Upgrade to Version 1.2.0 of the High Resolution Ensemble Land Surface Prediction System (HRELPS) at the Canadian Meteorological Centre
-
+#### Upgrade to Version 1.2.0 of the High Resolution Ensemble Land Surface Prediction System (HRELPS) at the Canadian Meteorological Centre
 On Tuesday June 11, 2024, starting with the 1200 UTC run, the Meteorological Service of Canada's Canadian Meteorological Centre (CMC) will upgrade the High Resolution Ensemble Land Surface Prediction System (HRELPS) to v1.2.0
 
 Significant changes:
