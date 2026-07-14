@@ -40,7 +40,7 @@ On Tuesday June 28 2018, starting with the 1200 UTC run, the Meteorological Serv
 
 The changes included in this upgrade are summarized as follows:
 
-* __Introduction of two-way coupling with an ice-ocean model__. In the CAPS-1.1.0 forecast system, surface conditions evolve through coupling with an Ice-ocean model. This Ice-ocean model is also used in [RIOPS](/../../nwp_riops/changelog_riops.md).
+* __Introduction of two-way coupling with an ice-ocean model__. In the CAPS-1.1.0 forecast system, surface conditions evolve through coupling with an Ice-ocean model. This Ice-ocean model is also used in [RIOPS](../nwp_riops/changelog_riops.md).
 
 A short technical specification documentation of this system is available [at this link](https://collaboration.cmc.ec.gc.ca/cmc/CMOI/product_guide/docs/tech_specifications/CAPS-100_factsheet.pdf).
 

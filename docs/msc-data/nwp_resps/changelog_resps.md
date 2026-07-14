@@ -67,7 +67,7 @@ Effective Wednesday July 3rd, 2019, the Canadian Meteorological Centre (CMC) of 
 
 The modifications to RESPS v1.2.0 compared with the previous operational version are as follows:
 
-* [GEPS v6.0.0](/../nwp_geps/changelog_geps.md) replaces v5.0.0 as the pilot system.
+* [GEPS v6.0.0](../nwp_geps/changelog_geps.md) replaces v5.0.0 as the pilot system.
 
 For more information, please consult the technical specifications document for RESPS v1.2.0 available [at this link](https://collaboration.cmc.ec.gc.ca/cmc/CMOI/product_guide/docs/tech_specifications/tech_specifications_RESPS_1.2.0_e.pdf).
 

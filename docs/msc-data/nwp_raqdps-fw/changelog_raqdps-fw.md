@@ -105,7 +105,7 @@ On Tuesday, September 18, 2018, starting with the 1200 UTC run, the Canadian Met
 
 The changes included in this upgrade are summarized as follows:
 
-* The meteorological analyses and pilot model are now linked to [RDPS v6.0.0](/../nwp_rdps/changelog_rdps.md#tuesday-september-18-2018) rather than RDPS v5.1.0.
+* The meteorological analyses and pilot model are now linked to [RDPS v6.0.0](../nwp_rdps/changelog_rdps.md#tuesday-september-18-2018) rather than RDPS v5.1.0.
 * Adoption of the RDPS v6.0.0 configuration, including recycling of key physics variables and the incremental analysis update (IAU) based meteorological initialization.
 * Implementation of a new version of the RAQDPS model code (v2.3.1), to improve processing speed and provide increased robustness, as well as improve chemistry (gas-phase dry deposition over snow-covered surfaces and sea-ice).
 * Introduction of a new set of input emissions files based on more recent national emissions inventories.
@@ -159,7 +159,7 @@ A copy of the official note announcing the implementation of these changes is av
 
 On Wednesday, September 7th, 2016, starting with the 1200 UTC run, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada (MSC) will upgrade the FireWork prediction system. FireWork is a seasonal modelling system based on the Regional Air Quality Deterministic Prediction System (RAQDPS) which incorporates near-real-time biomass burning emissions over North America. It executes during the wildfire season which normally ends towards the end of October.
 
-The changes included in this upgrade are equivalent to those described above for [RAQDPS016](/../nwp_raqdps/changelog_raqdps.md).
+The changes included in this upgrade are equivalent to those described above for [RAQDPS016](../nwp_raqdps/changelog_raqdps.md).
 
 For further information, please consult the official note announcing the implementation of these changes available [at this link](https://dd.meteo.gc.ca/doc/genots/2016/09/02/NOCN03_CWAO_022112___00754).
 

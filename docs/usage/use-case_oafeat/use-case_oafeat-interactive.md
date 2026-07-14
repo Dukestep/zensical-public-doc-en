@@ -282,9 +282,9 @@ def choose_station(station):
 graph = interact(choose_station, station=stations)
 ```
 
-
-    interactive(children=(Dropdown(description='station', options=('08GA010', '08GA030', '08GA077', '08GA079', '08…
-
+```text
+interactive(children=(Dropdown(description='station', options=('08GA010', '08GA030', '08GA077', '08GA079', '08…
+```
 
 A similar dropdown widget can be used to select which hydrometric monitoring station data to show in the interactive data table.
 
@@ -320,9 +320,9 @@ def choose_station_table(station):
 table = interact(choose_station_table, station=stations)
 ```
 
-
-    interactive(children=(Dropdown(description='station', options=('08GA010', '08GA030', '08GA077', '08GA079', '08…
-
+```text
+interactive(children=(Dropdown(description='station', options=('08GA010', '08GA030', '08GA077', '08GA079', '08…
+```
 
 Finally, an interactive map can be created with [ipyleaflet](https://ipyleaflet.readthedocs.io/) to display the most recent water level daily mean of all the hydrometric monitoring stations located within 100 km of Chilliwack for the selected three months period.
 
@@ -389,13 +389,13 @@ for station in stations:
 display(m)
 ```
 
+```text
+HTML(value='<h4>Most recent daily mean water level for the time period ending the 2018-08-31</h4>')
+```
 
-    HTML(value='<h4>Most recent daily mean water level for the time period ending the 2018-08-31</h4>')
-
-
-
-    Map(center=[49.34332084655762, -121.958943], controls=(ZoomControl(options=['position', 'zoom_in_text', 'zoom_…
-
+```text
+Map(center=[49.34332084655762, -121.958943], controls=(ZoomControl(options=['position', 'zoom_in_text', 'zoom_…
+```
 
 ## Conclusion
 

@@ -63,7 +63,7 @@ See details [at this link](../changelog_multisystems.md)
 
 Effective March 4, 2019, the Canadian Meteorological Centre (CMC) of the Meteorological Service of Canada will update the Regional Ensemble Wave Prediction System (REWPS) to v1.2.0.
 
-REWPS v1.2.0 is different from the previous operational systems in that the ice analysis used as input for both has been replaced by an ice forecast provided by the [Water Cycle Prediction System (WCPS v2.0.0)](/../nwp_wcps/changelog_wcps.md), which was declared operational on March 4, 2019.
+REWPS v1.2.0 is different from the previous operational systems in that the ice analysis used as input for both has been replaced by an ice forecast provided by the [Water Cycle Prediction System (WCPS v2.0.0)](../nwp_wcps/changelog_wcps.md), which was declared operational on March 4, 2019.
 
 A copy of the official note announcing the implementation of these changes is available [at this link](https://dd.meteo.gc.ca/doc/genots/2019/03/05/NOCN03_CWAO_051918___12705).
 

@@ -50,7 +50,7 @@ Effective Wednesday July 3rd, 2019, the Canadian Meteorological Centre (CMC) of 
 
 The modifications to RDSPS v1.6.0 compared with the previous operational version are as follows:
 
-* [GDPS v7.0.0](/../nwp_gdps/changelog_gdps.md) replaces v6.0.0 as the pilot system.
+* [GDPS v7.0.0](../nwp_gdps/changelog_gdps.md) replaces v6.0.0 as the pilot system.
 For more information, please consult the technical specifications document for RDSPS v1.6.0 available [at this link](https://collaboration.cmc.ec.gc.ca/cmc/CMOI/product_guide/docs/tech_specifications/tech_specifications_RDSPS_1.6.0_e.pdf).
 
 A technical note with more details on this change is available [at this link](https://collaboration.cmc.ec.gc.ca/cmc/CMOI/product_guide/docs/tech_notes/technote_rdsps-160_e.pdf).

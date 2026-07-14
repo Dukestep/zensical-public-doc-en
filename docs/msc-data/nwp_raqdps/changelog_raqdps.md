@@ -79,7 +79,7 @@ On Wednesday July 3rd, 2019, starting with the 1200 UTC run, the Canadian Meteor
 
 The changes included in this upgrade are summarized as follows:
 
-* The RAQDPS is now piloted by [RDPS v7.0.0](/../nwp_rdps/changelog_rdps.md#wednesday-july-3-2019), rather than RDPS v6.0.0.
+* The RAQDPS is now piloted by [RDPS v7.0.0](../nwp_rdps/changelog_rdps.md#wednesday-july-3-2019), rather than RDPS v6.0.0.
 * Upgrade from GEM v4.8-LTS.16 to GEM v5.0.0.  For more informations on GEM-5, please consult [this document](https://collaboration.cmc.ec.gc.ca/cmc/CMOI/product_guide/docs/tech_notes/GEM5_paper_submitted_JAMES_20190614.pdf).
 * Improvements to chemistry processing.
 A copy of the official note announcing the implementation of these changes in RAQDPS is available [at this link](https://dd.meteo.gc.ca/doc/genots/2019/06/28/NOCN03_CWAO_281933___34219).
@@ -98,7 +98,7 @@ On Tuesday, September 18, 2018, starting with the 1200 UTC run, the Canadian Met
 
 The changes included in this upgrade are summarized as follows:
 
-* The meteorological analyses and pilot model are now linked to [RDPS v6.0.0](/../nwp_rdps/changelog_rdps.md#tuesday-september-18-2018) rather than RDPS v5.1.0.
+* The meteorological analyses and pilot model are now linked to [RDPS v6.0.0](../nwp_rdps/changelog_rdps.md#tuesday-september-18-2018) rather than RDPS v5.1.0.
 * Adoption of the RDPS v6.0.0 configuration, including recycling of key physics variables and the incremental analysis update (IAU) based meteorological initialization.
 * Implementation of a new version of the RAQDPS model code (v2.3.1), to improve processing speed and provide increased robustness, as well as improve chemistry (gas-phase dry deposition over snow-covered surfaces and sea-ice).
 * Introduction of a new set of input emissions files based on more recent national emissions inventories.
@@ -119,7 +119,7 @@ The changes included in this upgrade are summarized as follows:
 
 * The meteorological analyses and pilot model are now linked to RDPS 5.0.0 rather than RDPS 4.2.0.
 
-* The grid is rotated to correspond to the new RDPS 5.0.0 grid (see [description of changes](/../nwp_rdps/changelog_rdps.md#wednesday-september-7-2016)).
+* The grid is rotated to correspond to the new RDPS 5.0.0 grid (see [description of changes](../nwp_rdps/changelog_rdps.md#wednesday-september-7-2016)).
 
 * An important change is made to the use of the Monin-Obukov parameter.
 
@@ -195,7 +195,7 @@ On Wednesday October 3 2012, starting with the 1200 UTC run, the Canadian Meteor
 
 Improvements to the air quality forecast system are provided as a result of changes in grid resolution (from 15 to 10 km) and to the vertical grid spacing, an updated version of the GEM model, and an improved set of emissions files.
 
-Please note that this update is made necessary as a result of major upgrades to the Regional Deterministic Prediction System (RDPS) which provides initial and lateral boundary conditions to the RAQDPS. For details on the RDPS upgrade please refer to the information [at this link](/../nwp_rdps/changelog_rdps.md).
+Please note that this update is made necessary as a result of major upgrades to the Regional Deterministic Prediction System (RDPS) which provides initial and lateral boundary conditions to the RAQDPS. For details on the RDPS upgrade please refer to the information [at this link](../nwp_rdps/changelog_rdps.md).
 
 Products from this system are expected to be available a few minutes later than they were previously, due to the slightly longer execution time caused by the model's higher resolution.
 
