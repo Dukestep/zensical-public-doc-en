@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Global Deterministic Storm Surge Prediction System (GDSPS) data in NetCDF format
 
 This page describes the [Global Deterministic Storm Surge Prediction System](readme_gdsps.md) data available in NetCDF format.

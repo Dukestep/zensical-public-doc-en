@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronology of changes to the Global Ice and Ocean Prediction System (GIOPS)
 
 ## Tuesday April 14, 2026

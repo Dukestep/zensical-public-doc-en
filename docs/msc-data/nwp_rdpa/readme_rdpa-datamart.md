@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Regional Deterministic Precipitation Analysis (RDPA - CaPA) data in GRIB2 format
 
 This page describes the [Regional Deterministic Precipitation Analysis (RDPA)](readme_rdpa.md) data based on the Canadian Precipitation Analysis (CaPA) system. 

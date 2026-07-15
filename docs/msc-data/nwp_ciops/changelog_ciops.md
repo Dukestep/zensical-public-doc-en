@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronology of changes to the Coastal Ice and Ocean Prediction System (CIOPS)
 
 ## Tuesday April 14, 2026

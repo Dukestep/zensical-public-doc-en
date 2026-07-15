@@ -1,5 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
 # OGC API
 The Open Geospatial Consortium (OGC) API standards are a set of specifications developed by the OGC to facilitate the interoperable exchange of geospatial data and services over the web. These standards are designed to enable seamless integration and sharing of geospatial information across different systems, applications, and organizations. The following documentation will go over the basics of the OGC API - Features and OGC API - Coverages standards and provide examples of how to query GeoMet-OGC-API using these standards.
 

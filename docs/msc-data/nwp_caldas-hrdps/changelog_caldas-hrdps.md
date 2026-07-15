@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronology of changes to the Canadian Land Data Assimilation System in the High Resolution Prediction System (HRDPS)
 
 ## Tuesday June 11, 2024

@@ -1,5 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
 # Datasets by theme
 
 **[Meteorological Service of Canada (MSC) open data](../msc-data/index.md)** is a valuable resource available to the private sector, academia and the general public. It encompasses a wide range of meteorological, climatological, hydrological and environmental data. By adopting open and common standards, these services offer fast, free access to thousands of datasets and products, both real-time and archived. This data can be easily integrated into users' specific applications and decision support systems.

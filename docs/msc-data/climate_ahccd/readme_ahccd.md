@@ -4,9 +4,6 @@ tags:
   - Archived
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
-
 # Data and products of the Adjusted and Homogenized Canadian Climate Data (AHCCD) 
 
 The data consist of monthly, seasonal and annual means of homogenized daily maximum, minimum and mean surface air temperatures for more than 330 locations in Canada; monthly, seasonal and annual totals of adjusted daily rainfall, snowfall and total precipitation for more than 460 locations; homogenized monthly, seasonal and annual means of hourly surface wind speed at more than 110 locations; monthly, seasonal and annual means of hourly station and sea level pressure adjusted for more than 630 locations. The data are given for the entire period of observation. Please refer to the papers below for detailed information regarding the procedures for homogenization and adjustment. 

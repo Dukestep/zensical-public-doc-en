@@ -1,6 +1,3 @@
-
-![ECCC logo](../../img_eccc-logo.png)
-
 # Radar imagery
 
 This page describes the Dual Polarized Quantitative Precipitation Estimation (DPQPE) data in GeoTIFF format available on the MSC Datamart.

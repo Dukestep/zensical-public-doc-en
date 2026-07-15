@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronology of changes to the High Resolution Ensemble Land Surface Prediction System (HRELPS)
 
 ## Thursday May 1, 2025

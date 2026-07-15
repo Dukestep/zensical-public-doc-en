@@ -1,5 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
 # Changes to the Operational Services of the Canadian Meteorological Centre (CMC)
 
 ## Tuesday April 14, 2026

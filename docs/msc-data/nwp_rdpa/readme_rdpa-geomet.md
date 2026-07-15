@@ -1,6 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
-
 # Regional Deterministic Precipitation Analysis data available on MSC GeoMet
 
 MSC GeoMet provides access to several Regional Deterministic Precipitation Analysis (RDPA) layers. Users can build mobile apps, create interactive web maps, and display and animate RDPA layers in desktop software.

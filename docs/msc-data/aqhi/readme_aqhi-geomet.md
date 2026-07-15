@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # AQHI data available on MSC GeoMet
 
 MSC GeoMet provides access to data produced by the Air Quality Health Index (AQHI) model. Users can build mobile apps, create interactive web maps, and display layers in desktop software.

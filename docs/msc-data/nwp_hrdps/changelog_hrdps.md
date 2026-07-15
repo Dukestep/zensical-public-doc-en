@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronology of changes to the High Resolution Deterministic Prediction System (HRDPS)
 
 ## Tuesday April 14, 2026

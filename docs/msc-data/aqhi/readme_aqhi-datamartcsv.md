@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Observation and forecast data generated in CSV format for the Air Quality Health Index (AQHI) program
 
 This page describes the observation and forecast data available in CSV format for the [Air Quality Health Index AQHI](readme_aqhi.md) that are also available on the [Environment and Climate Change Canada website](https://meteo.gc.ca/airquality/pages/index_e.html). 

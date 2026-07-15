@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronology of changes to the Ensemble Hydrological Prediction System (EHPS)
 
 ## Tuesday June 11, 2024

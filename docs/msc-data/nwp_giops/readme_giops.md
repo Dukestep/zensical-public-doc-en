@@ -5,8 +5,6 @@ tags:
   - Ice-Ocean
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Data and Products of the Global Ice-Ocean Prediction System (GIOPS)
 
 The Global Ice-Ocean Prediction System (GIOPS) produces global sea ice and ocean analyses and 10 day forecasts daily. This product contains time-mean sea ice and ocean forecast fields interpolated to two grids. One of the grids is a 0.2° resolution regular latitude-longitude grid covering the global ocean (north of 80° S). The other grid is in north-polar stereographic projection with a 5-km spacing at the standard parallel 60° N and covers the Arctic Ocean and the neighbouring sub-polar seas. Data is available for 50 depths. The data files are in netCDF format and comply with the Climate and Forecast Conventions. 

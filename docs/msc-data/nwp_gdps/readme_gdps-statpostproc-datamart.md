@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Global Deterministic Prediction System (GDPS) data statistically post-processed
 
 Statistical post-processing of forecasts from numerical weather and environmental models, including the Global Deterministic Prediction System (GDPS), helps reduce systematic biases and error variance in raw forecasts. This is achieved by establishing optimized statistical relationships between observations recorded at stations and numerical model outputs at nearby grid points.

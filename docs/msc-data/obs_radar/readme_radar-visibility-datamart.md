@@ -1,6 +1,3 @@
-
-![ECCC logo](../../img_eccc-logo.png)
-
 # Canadian weather radar visibility products
 
 Wind turbines can contaminate weather radar data which can compromise Environment and Climate Change Canada’s (ECCC) ability to provide quality weather forecasts and warnings to Canadians.

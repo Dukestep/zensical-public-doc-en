@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Scribe nowcasting matrices
 
 The [scribe nowcasting matrices](readme_nowcasting.md) are updated every hour and contain a consistent set of observed and forecasted weather elements for the short term and for a number of forecast points generally corresponding to observation stations. 

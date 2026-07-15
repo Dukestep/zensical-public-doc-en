@@ -5,8 +5,6 @@ tags:
   - Radar
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Data and products for weather radar observations
 
 This page describes the data and products available for Environment and Climate Change Canada's weather radar network. The network is comprised of 32 sites concentrated in the most populated parts of Canada, and provides radar coverage to more than 95 per cent of Canadians. The network’s primary purpose is the early detection of developing thunderstorms and high impact weather, as well the tracking of precipitation.

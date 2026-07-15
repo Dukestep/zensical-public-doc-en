@@ -5,8 +5,6 @@ tags:
   - Arctic
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Data and Products of the experimental Canadian Arctic Prediction System (CAPS)
 
 The Canadian Arctic Prediction System (CAPS) is an experimental coupled atmosphere-ocean-ice prediction system based on a limited-area configuration (LAM) of the Global Environmental Multiscale (GEM) model, coupled with the Nucleus of European Modeling of the Ocean (NEMO) and the Community ICe Code (CICE). It covers the entire Arctic basin with a horizontal grid resolution of approximately 3 km. The system CAPS is driven by ECCC's [Global Deterministic Prediction System (GDPS)](../nwp_gdps/readme_gdps.md), which provides initial and lateral boundary conditions for atmospheric fields. Initial hydrometeorological fields are recycled from the 12-hour forecast of the previous CAPS integration. In addition, the GDPS is used to force the ocean-ice model outside the coupled regions. Initial conditions for ocean-ice fields are taken from the [Regional Ocean-Ice Prediction System (RIOPS)](../nwp_riops/readme_riops.md). Ocean boundary conditions in the North Atlantic and North Pacific come from the GDPS. The system CAPS runs twice a day and is initialized at 00 and 12 UTC, respectively, with a 48-hour integration.

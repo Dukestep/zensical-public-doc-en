@@ -4,8 +4,6 @@ tags:
   - Deterministic
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Data and Products of the Regional Air Quality Deterministic Prediction System 
 
 The Regional Air Quality Deterministic Prediction System (RAQDPS) takes into account physical and chemical processes to produce deterministic forecasts of the concentration of chemical species of interest to air quality. These chemical constituents include gases such as O3, SO2, NO, and NO2, in addition to fine particles PM2.5 (diameter of 2.5 micrometers or less) and coarse particles PM10 (diameter of 10 micrometers or less). The PM2.5 and PM10 now include the contribution of wildfire emissions as well as anthropogenic and biogenic emission sources. The forecasts are available for the present up to 72 hours in the future twice a day (run 00 UTC and 12 UTC). The geographic domain of the RAQDPS covers most of North America with a horizontal resolution of 10km.

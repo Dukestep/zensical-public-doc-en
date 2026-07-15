@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronology of changes to the Regional Deterministic Precipitation Analysis system (CaPA-RDPA)
 
 ## Wednesday September 11, 2024

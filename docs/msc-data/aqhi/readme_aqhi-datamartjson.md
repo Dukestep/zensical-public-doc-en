@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Air Quality Health Index (AQHI) observation and forecast data in GeoJSON format
 
 This page describes the the observation and forecast data available in GeoJSON format for the [Air Quality Health Index AQHI](readme_aqhi.md).

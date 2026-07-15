@@ -1,6 +1,3 @@
-
-![ECCC logo](../../img_eccc-logo.png)
-
 # NetCDF data for the Operation Hydrodynamic Prediction System (OHPS)
 
 This page describes analyses and forecasts data of the [Operation Hydrodynamic Prediction System](./readme_ohps.md) available in NetCDF format.

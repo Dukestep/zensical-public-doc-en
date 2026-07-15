@@ -1,5 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
 # WMO Information System (WIS2)
 
 The WMO Information System 2.0 (WIS2) is the framework for WMO data sharing in the 21st century for all WMO domains and disciplines. It supports the WMO Unified Data Policy, the Global Basic Observing Network (GBON) and makes international, regional, and national data sharing simple, effective, and inexpensive. The idea that no Member should be left behind and the objective of lowering the barrier to adoption has been at the core of WIS 2.0 development. These objectives inspire the principles underpinning the WIS 2.0 technical framework, such as adopting open standards and Web technologies to facilitate sharing of increasing variety and volume of real-time data.

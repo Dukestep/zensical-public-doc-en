@@ -3,8 +3,6 @@ tags:
   - Observation
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Data and Products of the vertical profiles' observation
 
 This page describes the observed data containing all levels received from actual sounding.

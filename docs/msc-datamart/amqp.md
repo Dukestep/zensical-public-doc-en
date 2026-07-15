@@ -1,6 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
-
 # Advanced Message Queuing Protocol
 
 ## About

@@ -1,6 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
-
 # Aviation Package (4-panel)
 
 These prognostic charts for 6, 12, 18 and 24 hours (at 0000 and 1200) are produced by the regional run of the Global Environmental Multiscale (GEM) model. Forecasts are packaged as 4-panel charts as depicted below.

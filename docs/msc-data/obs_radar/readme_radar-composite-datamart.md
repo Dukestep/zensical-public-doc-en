@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # North American radar composite
 
 This mosaic is calculated over the North American domain with a horizontal spatial resolution of 1 km. This mosaic therefore includes all the Canadian and American radars available in the network and which can reach a maximum of 200 contributing radars.

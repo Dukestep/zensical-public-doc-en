@@ -1,6 +1,3 @@
-
-![ECCC logo](../../img_eccc-logo.png)
-
 # Hail radar product MESH (Maximum Expected Size of Hail)
 
 The product MESH is for Maximum Estimated Size of Hail and is determined as follows: The volume of radar reflectivity at a given pixel location is integrated in the vertical from the lowest elevation scan up to the height of the -20oC temperature level. The temperature level is determined from the [High-Resolution Deterministic Prediction System (HRDPS)](../nwp_hrdps/readme_hrdps.md). The weighted reflectivity is processed through several intermediary steps and an empirical relation is used to estimate the maximum hail sizes. The resulting hail size estimates are displayed as a 2-dimensional field or PPI (Plan Position Indicator). The unit of the MESH product is in millimeters.

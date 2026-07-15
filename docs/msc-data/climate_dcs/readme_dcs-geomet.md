@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # DCS data available on MSC GeoMet
 
 MSC GeoMet-Climate provides access to data and products of statistically downscaled climate scenarios datasets (DCS). Users can build mobile apps, create interactive web maps, and display and animate climate data layers in desktop software.

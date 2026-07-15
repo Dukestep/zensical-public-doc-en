@@ -1,5 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
 # Snowstorms :material-weather-snowy-heavy:
 
 This page presents a list of relevant Meteorological Service of Canada datasets under the theme of snowstorms, in order to guide users to the appropriate datasets. This list is not exhaustive, but provides an overview of the layers that can be used under this theme. The main data layers for this theme are the snow quantity variables. However, a number of other relevant layers can also provide additional information on the subject, such as wind factors, winter precipitation types or temperature, to name but a few.

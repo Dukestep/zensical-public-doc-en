@@ -5,8 +5,6 @@ tags:
   - Wave Prediction
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Data and Products of the Global Ensemble Wave Prediction System (GEWPS)
 
 The Global Ensemble Wave Prediction System (GEWPS) uses the third generation spectral wave model WaveWatch III® (WW3) to arrive at probabilistic predictions of wave elements from the current day out to 16 days into the future. The probabilistic predictions are based on 20 ensemble members and a control member that are forced by the 10 meters winds from the [Global Ensemble Prediction System (GEPS)](../nwp_geps/readme_geps.md). The GEPS forecast is a coupled atmosphere-ice-ocean model, its sea ice forecast is used by the GEWPS to dampen or suppress wave growth in areas covered respectively with 25% to 75% and more than 75% ice.

@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronology of changes to the Regional Deterministic Air Quality Analysis (RDAQA)
 
 ## Tuesday April 14, 2026

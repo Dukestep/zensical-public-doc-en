@@ -1,6 +1,3 @@
-
-![ECCC logo](../../img_eccc-logo.png)
-
 # High Resolution Deterministic Land Surface Prediction System (HRDLPS) data in NetCDF format
 
 This page describes the [High Resolution Deterministic Land Surface Prediction System](./readme_hrdlps.md) data available in NetCDF format on the MSC Datamart.

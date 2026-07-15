@@ -2,8 +2,6 @@
 title: MSC Open Data
 ---
 
-![ECCC logo](img_eccc-logo.png)
-
 # Meteorological Service of Canada Open Data User Documentation
 
 !!! abstract ""

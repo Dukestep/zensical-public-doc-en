@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Lightning density data
 
 This page describes the [lightning](readme_lightning.md) data available in GeoTIFF format via the MSC Datamart.

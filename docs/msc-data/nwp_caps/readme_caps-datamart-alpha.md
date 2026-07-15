@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Experimental Canadian Arctic Prediction System (CAPS) Data in GRIB2 Format
 
 This page describes the data of the [Canadian Arctic Prediction System (CAPS)](readme_caps.md) available on the MSC testing data repository DD-Alpha.

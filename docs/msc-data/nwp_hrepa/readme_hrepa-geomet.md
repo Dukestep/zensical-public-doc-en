@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # HREPA data available on MSC GeoMet
 
 MSC GeoMet provides access to data produced by the High Resolution Ensemble Precipitation Analysis (HREPA). Users can build mobile apps, create interactive web maps, and display and animate weather radar layers in desktop software.

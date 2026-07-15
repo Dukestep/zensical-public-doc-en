@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronology of changes to the Deterministic Hydrological Prediction System (DHPS)
 
 ## Tuesday June 11, 2024

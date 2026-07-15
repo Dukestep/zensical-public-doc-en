@@ -4,8 +4,6 @@ tags:
   - Real-time
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Weather warning data and products in the Common Alerting Protocol (CAP) format
 
 Environment and Climate Change Canada issues weather alerts about weather related hazards in order to notify those in affected areas so that they can take steps to protect themselves and their property from harm. Alerts are classified depending on the severity and timing of the subject event and include: warnings, watches, advisories and statements. Warnings are usually issued six to 24 hours in advance, although some severe weather (such as thunderstorms and tornadoes) can occur rapidly, with less than a half hours’ notice.

@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # REWPS data available on MSC GeoMet
 
 MSC GeoMet provides access to data produced by the Regional Ensemble Wave Prediction System (REWPS) model. Users can build mobile apps, create interactive web maps, and display and animate REWPS data using MSC GeoMet's various services.

@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Data of the marine weather forecasts
 
 This page describes the data of the [marine weather](readme_marine-weather.md) forecasts available on the MSC Datamart.

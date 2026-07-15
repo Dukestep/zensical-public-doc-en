@@ -1,6 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
-
 # Use of wget for the MSC Datamart data
 
 Before using 'wget', users should consider using the [AMQPS data retrieval service](amqp.md) and review the [service usage policy](../usage-policy/index.md).

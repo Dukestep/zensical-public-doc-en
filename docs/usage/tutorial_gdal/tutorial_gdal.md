@@ -1,6 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)  
-
-
 # GDAL command line tutorial with weather data
 
 ## Introduction

@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # High Resolution Deterministic Precipitation Analysis (HRDPA) Data in GRIB2 Format
 
 This page describes the [High Resolution Deterministic Precipitation Analysis](./readme_hrdpa-datamart.md) data available in GRIB2 format.

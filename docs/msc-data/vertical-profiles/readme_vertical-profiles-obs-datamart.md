@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Vertical profiles observation data in CSV format
 
 This page describes the [vertical profiles data of observations](readme_vertical-profiles-obs.md) available on the MSC Datamart. The observation data (ObsTephi) contain all levels data received from actual sounding.

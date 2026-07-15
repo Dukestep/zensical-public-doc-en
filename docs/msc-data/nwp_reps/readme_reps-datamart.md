@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Regional Ensemble Prediction System (REPS) Data in GRIB2 Format
 
 This page describes [Regional Ensemble Prediction System](readme_reps.md) data available in GRIB2 format.

@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Data of the Regional Deterministic Prediction System vertical profiles 
 
 This page describes the vertical profiles (ProgTephi) produced by the Regional Deterministic Prediction System (RDPS) at 10km resolution.

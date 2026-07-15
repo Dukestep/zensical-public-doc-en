@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Weather radar data available on MSC GeoMet
 
 MSC GeoMet provides access to several popular North American weather radar composite and extrapolation layers. Users can build mobile apps, create interactive web maps, and display and animate weather radar layers in desktop software.

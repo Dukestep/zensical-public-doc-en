@@ -4,8 +4,6 @@ tags:
   - Real-time
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Satellite observation data and products
 
 This page describes data and products from weather satellites operated by NOAA (National Oceanic and Atmospheric Administration). The instruments aboard these satellites provide observations of the Earth's surface at a generally high temporal and spatial resolution. These observations of atmospheric humidity, cloud cover, surface temperature, lightning occurrence and many other characteristics enable us to monitor and forecast weather conditions across the globe.

@@ -3,8 +3,6 @@ tags:
   - Climate
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Data and products of the statistically downscaled climate indices
 
 High-resolution statistically downscaled climate indices based on model projections from 24 global climate models (GCMs) that participated in the Coupled Model Intercomparison Project Phase 5 (CMIP5) are available. The climate indices are grouped into temperature-related, precipitation-related and agroclimatic categories.

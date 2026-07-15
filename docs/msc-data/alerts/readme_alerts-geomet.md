@@ -1,6 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
-
 # Weather alerts data available on MSC GeoMet
 
 MSC GeoMet provides access to the weather alerts layer. Users can build mobile apps, create interactive web maps, and display and animate MSC data in desktop software.

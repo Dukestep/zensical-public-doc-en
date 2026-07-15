@@ -4,8 +4,6 @@ tags:
   - Regional
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Data and products of statistically downscaled climate scenarios datasets based on an ensemble of global climate model projections from the Coupled Model Intercomparison Project Phase 5 (CMIP5)  
 
 The Statistically downscaled climate scenarios dataset provides projected changes in temperature and precipitation, with respect to the reference period of 1986-2005, for three emission scenarios, RCP2.6, RCP4.5, RCP8.5, at a 10km resolution. Downscaled data are based on global climate model projections from the Coupled Model Intercomparison Project Phase 5 (CMIP5). The median projected changes across the downscaled multi-model ensemble are shown.

@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # High Resolution Deterministic Prediction System (HRDPS) data
 
 The operational [High Resolution Deterministic Prediction System (HRDPS)](readme_hrdps.md) is a series of nested grids for Limited Area Forecasts (LAM). The main grid has a horizontal resolution of 2.5 km over a pan-Canadian region. The HRDPS pilot model is a component of the [Global Deterministic Prediction System (GDPS)](../nwp_gdps/readme_gdps.md) at 10km horizontal resolution. The fields of the HRDPS dataset are available four times a day. 48-hour forecasts are produced for the pan-Canadian domain.

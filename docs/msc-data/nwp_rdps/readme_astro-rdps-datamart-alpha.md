@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Astronomy products based on the Regional Deterministic Prediction System (RDPS) in GRIB2 format
 
 This page describes [seeing](https://meteo.gc.ca/astro/seeing_e.html) and [transparency](https://meteo.gc.ca/astro/transparence_e.html) prediction data. Seing is used in astronomy to describe the state of atmospheric turbulence while transparency refers to the clarity of the sky and is measured as the ability to observe stars according to their brightness or magnitude. 

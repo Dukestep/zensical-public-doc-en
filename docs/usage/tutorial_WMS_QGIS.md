@@ -1,5 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
 # Tutorial: display, interact and animate WMS layers in QGIS
 
 Usage examples of [MSC GeoMet](../msc-geomet/index.md) geospatial web services in the [free and open source QGIS desktop software](https://qgis.org):

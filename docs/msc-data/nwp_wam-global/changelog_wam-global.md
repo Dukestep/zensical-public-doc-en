@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronology of changes to the WAM-Global wave prediction system
 
 ## Tuesday September 18, 2018

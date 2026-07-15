@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Hurricane prediction data available on MSC GeoMet
 
 MSC GeoMet provides access to several hurricane prediction layers. Users can build mobile apps, create interactive web maps, and display and animate hurricane prediction layers in desktop software.

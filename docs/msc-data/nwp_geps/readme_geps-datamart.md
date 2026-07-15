@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Global Ensemble Prediction System (GEPS) Data in GRIB2 Format
 
 This page describes the [Global Ensemble Prediction System](readme_geps.md) data available in GRIB2 format.

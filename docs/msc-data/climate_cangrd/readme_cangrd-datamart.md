@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Canadian Gridded Temperature and Precipitation Anomalies (CANGRD) in GeoTIFF format
 
 The CANGRD is based on the Adjusted and Homogenized Canadian Climate Data (AHCCD) for historical climate observations from 1948 for all of Canada, and from 1900 for southern Canada, until the end of the previous calendar year. The monthly, seasonal and annual mean daily maximum and minimum temperature anomalies are computed at each observing station and for each year by subtracting the relevant baseline average (defined as average over 1961-1990 reference period) from the relevant monthly, seasonal, and annual values. The monthly, seasonal and annual total precipitation anomalies are computed similarly. Additionally, the precipitation anomalies are then normalized by dividing by the mean reference period and expressed in percentage to produce normalized precipitation departures.

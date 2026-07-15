@@ -3,8 +3,6 @@ hide:
     - navigation
 ---
 
-![ECCC logo](../img_eccc-logo.png)
-
 # MSC Open Data FAQ
 
 !!! question

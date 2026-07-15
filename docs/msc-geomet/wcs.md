@@ -1,5 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
 # Web Coverage Service (WCS)
 
 The [OGC Web Coverage Service](https://www.opengeospatial.org/standards/wcs) requests enable a client to retrieve coverage information from a geospatial data for a given area of interest. WCS requests are made over the internet (HTTP) and give the user more flexibility when requesting information about the coverage of a layer compared with the more traditional way of downloading of flat files. The Web Coverage Service allows for several different types of requests, each of which are described in further detail below.

@@ -4,8 +4,6 @@ tags:
   - Viewer
 ---
 
-![ECCC logo](../img_eccc-logo.png)
-
 # MSC AniMet
 
 MSC AniMet is a simple tool enabling users to interact with MSC Open Data weather, climate, water and environmental data and create custom weather animations for any area in the world. The resulting animations can be downloaded and shared with a permalink.

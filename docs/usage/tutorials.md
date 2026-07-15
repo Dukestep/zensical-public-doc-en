@@ -1,6 +1,4 @@
-![ECCC logo](../img_eccc-logo.png)
-
-# Tutorials
+# Explore tutorials
 
 !!! tip "Access tutorials"
     This page presents the available tutorials grouped by data-access standard: WMS, WCS, OGC API &ndash; Features, and raw data (including GRIB2), see links below:

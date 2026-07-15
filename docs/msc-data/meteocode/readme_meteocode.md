@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Terrestrial Scribe matrix meteocode data
 
 The meteocode is a standard used by the Scribe system to describe the elements of time.

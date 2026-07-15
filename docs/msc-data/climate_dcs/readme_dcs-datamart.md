@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Climate scenarios datasets based on an ensemble of global climate model projections from the Coupled Model Intercomparison Project Phase 5 (CMIP5) in NetCDF format
 
 Statistically downscaled multi-model ensembles of modelled output and projected changes are available for historical simulations and three emission scenarios, RCP2.6, RCP4.5, RCP8.5, at a 10km resolution.  Projected changes are expressed as anomalies with respect to the reference period of 1986-2005.

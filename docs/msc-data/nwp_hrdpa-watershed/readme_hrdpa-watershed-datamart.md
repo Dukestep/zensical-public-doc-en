@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # High Resolution Deterministic Precipitation Analysis (HRDPA) average watershed precipitation data in Esri Shapefile Format
 
 Data for over 1900 watersheds is available. In order to reduce the number of files on the MSC Datamart, it has been necessary to group these watersheds by drainage basin:

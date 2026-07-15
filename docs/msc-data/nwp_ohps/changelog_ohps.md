@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronology of changes to the Operational Hydrodynamic Prediction system (OHPS)
 
 ## Tuesday June 11, 2024

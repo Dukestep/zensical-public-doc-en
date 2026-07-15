@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Data of the binary bulletins 
 
 This page describes the data of the binary [bulletins](readme_bulletins.md).

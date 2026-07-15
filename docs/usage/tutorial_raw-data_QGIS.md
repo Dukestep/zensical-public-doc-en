@@ -1,5 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
 # Tutorial: adding raw geospatial file in QGIS
 
 [QGIS](https://qgis.org) is a Geographic Information System (GIS) software that allows the visualization and manipulation of vector (Shapefile, GeoJSON, GeoPackage, etc) and raster (GRIB2, GeoTIFF, NetCDF, etc) geospatial data. To add a raw geospatial file in QGIS:

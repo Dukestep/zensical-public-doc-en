@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Historical observations data available on MSC GeoMet
 
 GeoMet-OGC-API provides access to climate data (normals, daily, monthly, hourly, and stations). With this data, users can build mobile apps, create interactive web maps, and display and animate climate data layers in desktop software.

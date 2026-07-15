@@ -1,6 +1,3 @@
-
-![ECCC logo](../../img_eccc-logo.png)
-
 # The Canadian Land Data Assimilation System in the National Surface and River Prediction System (CaLDAS-NSRPS) data in NetCDF format
 
 This page describes the [The Canadian Land Data Assimilation System](./readme_caldas-nsrps.md) data available in NetCDF format on the MSC Datamart.

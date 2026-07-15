@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronology of changes to the  Regional Ice Prediction System (RIPS)
 
 ## Thursday September 17, 2015

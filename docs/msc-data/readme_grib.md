@@ -1,5 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
 # Use of GRIB2 data format
 
 ## On the GRIB format

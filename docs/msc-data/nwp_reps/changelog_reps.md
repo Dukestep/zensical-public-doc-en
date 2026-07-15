@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronology of changes to the Regional Ensemble Prediction System (REPS)
 
 ## Tuesday April 14, 2026

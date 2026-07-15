@@ -1,6 +1,3 @@
-
-![ECCC logo](../../img_eccc-logo.png)
-
 # Surface precipitation type product (SPTP)
 
 This product is a 1km resolution composite over the North American domain, which, for areas with radar coverage, can distinguish the occurrence, type and intensity of precipitation. This product uses two 1km radar composites as input: a North American composite cleaned using dual polarization technology, another particle classification radar composite (precipitation) and surface temperature from the 2.5km [High Resolution Deterministic Prediction System (HRDPS)](../nwp_hrdps/readme_hrdps.md) for Canada and the [Global Deterministic Prediction System (GDPS)](../nwp_gdps/readme_gdps.md) for the USA. The SPTP product is produced every 6 minutes.

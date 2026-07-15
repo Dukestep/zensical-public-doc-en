@@ -4,8 +4,6 @@ tags:
   - Ensemble
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Data and Products of the Global Ensemble Prediction System (GEPS)
 
 The Global Ensemble Prediction System (GEPS) carries out physics calculations to arrive at probabilistic predictions of atmospheric elements from the current day out to 16 days into the future (up to 39 days twice a week on Mondays and Thursdays at 00UTC for calculating forecast anomalies). The GEPS produces different outlooks (scenarios) to estimate the forecast uncertainties due to the nonlinear (chaotic) behaviour of the atmosphere. The probabilistic predictions are based on an ensemble of 20 scenarios that differ in their initial conditions, their physics parameters which are randomly perturbed by a Stochastic Parameter Perturbation (SPP) method, and the stochastic perturbations (kinetic energy). A control member that is not perturbed is also available. Weather elements include temperature, precipitation, cloud cover, wind speed and direction, humidity and others. This product contains raw numerical results of these calculations. Geographical coverage is global. Data is available on some fifteen vertical levels on a global latitude-longitude uniform grid with 0.5 degree horizontal resolution (about 39km). Predictions are performed twice a day.

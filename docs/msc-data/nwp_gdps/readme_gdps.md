@@ -4,9 +4,6 @@ tags:
   - Deterministic
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
-
 # Data and Products of the Global Deterministic Prediction System
 
 The Global Deterministic Prediction System (GDPS) is a coupled atmosphere (GEM), ocean and sea ice (NEMO-CICE) deterministic numerical weather prediction model where the __GEM-predicted large-scale temperature and horizontal wind components are spectrally nudged toward the [Global Environmental eMuLator (GEML)](readme_gdps-geml-datamart.md) predictions, ECCC's data-driven artificial intelligence (AI)-based weather model__. Forecasts are carried out twice a day for 10 days lead time. The geographical coverage is global at 15 km horizontal resolution. Data is available on some thirty vertical levels and interpolated on a global latitude-longitude uniform grid with 0.15 degree horizontal resolution. Variables availability in number and time frequency is a function of forecast lead time.

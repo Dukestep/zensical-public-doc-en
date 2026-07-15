@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Experimental High Resolution Deterministic Prediction System (HRDPS) 1 km West data
 
 In the summer of 2017 British Columbia was experiencing severe wildfire.  To provide more detailed weather information and pilot the air quality models, HRDPS 1 km west domain was implemented in operations in **experimental mode** on 31 July 2018. 

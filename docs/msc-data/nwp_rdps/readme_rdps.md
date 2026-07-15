@@ -4,8 +4,6 @@ tags:
   - Deterministic
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Data and products of the Regional Deterministic Prediction System
 
 The Regional Deterministic Prediction System (RDPS) carries out physics calculations to arrive at deterministic predictions of atmospheric elements from the current day out to 84 hours into the future. Atmospheric elements include temperature, precipitation, cloud cover, wind speed and direction, humidity and others. This product contains raw numerical results of these calculations. Geographical coverage includes Canada and the United States. Data is available at horizontal resolution of about 10 km up to 33 vertical levels. Predictions are performed four times a day.

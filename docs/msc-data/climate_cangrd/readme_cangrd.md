@@ -4,8 +4,6 @@ tags:
   - Archived
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Data and products of the Canadian Gridded Temperature and Precipitation Anomalies (CANGRD)  
 
 CANGRD is a set of Canadian gridded annual, seasonal, and monthly temperature and precipitation anomalies, which were interpolated from stations in the Adjusted and Homogenized Canadian Climate Data (AHCCD); it is used to produce the Climate Trends and Variations Bulletin (CTVB).

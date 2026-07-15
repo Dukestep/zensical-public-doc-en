@@ -3,8 +3,6 @@ tags:
   - Climate
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Data and products of the Standardized Precipitation Evapotranspiration Index (SPEI)  
 
 Standardized Precipitation Evapotranspiration Index (SPEI) calculated using global climate model projections from the Coupled Model Intercomparison Project Phase 5 (CMIP5) are provided. SPEI is a multiscalar index frequently used to quantify drought and is based on a climate water balance.

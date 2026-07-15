@@ -4,8 +4,6 @@ tags:
   - Archived
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Data and products of the climate data (normals, daily, hourly, monthly)
 
 __Climate normals__

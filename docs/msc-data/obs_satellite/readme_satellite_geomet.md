@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # GOES satellite data available on MSC GeoMet
 
 MSC GeoMet provides access to the weather satellites layers. Users can build mobile apps, create interactive web maps, and display and animate weather satellites layers in desktop software.

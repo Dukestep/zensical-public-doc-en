@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # GDSPS data available on MSC GeoMet
 
 MSC GeoMet provides access to data produced by the Global Deterministic Storm Surge Prediction System (GDSPS) model. Users can build mobile apps, create interactive web maps, and display and animate weather radar layers in desktop software.

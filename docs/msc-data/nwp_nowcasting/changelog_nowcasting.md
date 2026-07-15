@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronology of changes to the Integrated Nowcasting System (INCS)
 
 ## Tuesday April 14, 2026

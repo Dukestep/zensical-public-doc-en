@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Extrapolated North American radar composite
 
 This product is the Radar Extrapolation Composite at 1 km resolution over the North American domain. It uses only the 6-minute high-resolution (1 km) radar composite (the one displayed on the different government public platforms) as input.

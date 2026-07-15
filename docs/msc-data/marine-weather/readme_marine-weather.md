@@ -5,8 +5,6 @@ tags:
   - Marine
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Data and products of the marine weather forecasts 
 
 This page describes the data and products of the marine weather, issued by Environment and Climate Change Canada (ECCC). This enables mariners to make informed decisions about marine weather conditions that may impact their safety, security or operations. EC also provides marine forecasts in order to meet Canada’s treaty obligations under the International Maritime Organization’s Safety Of Life At Sea (SOLAS) Convention. 

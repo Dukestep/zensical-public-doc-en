@@ -4,8 +4,6 @@ tags:
   - Regional
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Data and products of the Statistically downscaled climate scenarios from CMIP6 global climate models (CanDCS-U6)  
 
 Environment and Climate Change Canada’s (ECCC) Climate Research Division (CRD) and the Pacific Climate Impacts Consortium (PCIC) previously produced statistically downscaled climate scenarios based on simulations from climate models that participated in the Coupled Model Intercomparison Project phase 5 (CMIP5) in 2015. ECCC and PCIC have now updated the CMIP5-based downscaled scenarios with two new sets of downscaled scenarios based on the next generation of climate projections from the Coupled Model Intercomparison Project phase 6 (CMIP6). The scenarios are named Canadian Downscaled Climate Scenarios–Univariate method from CMIP6 (CanDCS-U6) and Canadian Downscaled Climate Scenarios–Multivariate method from CMIP6 (CanDCS-M6).

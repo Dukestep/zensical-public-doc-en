@@ -4,8 +4,6 @@ tags:
   - Global
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Data and products of the climate scenarios datasets based on an ensemble of global climate model projections from the Coupled Model Intercomparison Project Phase 6 (CMIP6)  
 
 Multi-model ensembles for a suite of variables based on projections from Coupled Model Intercomparison Project Phase 6 (CMIP6) global climate models (GCMs) are available for 1850-2100 on a common 1x1 degree global grid.

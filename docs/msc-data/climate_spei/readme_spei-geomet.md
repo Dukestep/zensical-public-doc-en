@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # SPEI data available on MSC GeoMet
 
 MSC GeoMet-Climate provides access to data and products of the Standardized Precipitation Evapotranspiration Index (SPEI). Users can build mobile apps, create interactive web maps, and display and animate climate data layers in desktop software.

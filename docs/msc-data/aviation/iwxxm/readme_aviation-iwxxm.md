@@ -5,8 +5,6 @@ tags:
 ---
 
 
-![ECCC logo](../../../img_eccc-logo.png)
-
 # Aviation meteorological data in IWXXM format
 
 The World Meteorological Organization (WMO), under the sponsorship of the [International Civil Aviation Organization (ICAO)](https://www.icao.int/), created the ICAO Meteorological Information Exchange Model ([IWXXM](https://community.wmo.int/iwxxm)) data format to report aviation meteorological information in eXtensible Markup Language (XML) and more precisely in Geography Markup Language (GML). 

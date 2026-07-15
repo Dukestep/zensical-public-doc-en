@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Surface Weather and Marine Observation Markup Language (SWOB Met-ML) by station in XML format
 
 This page describes the [surface weather and marine observation](readme_obs_insitu.md) data available in XML format.

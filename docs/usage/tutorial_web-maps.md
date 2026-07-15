@@ -1,5 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
 # Tutorial: building interactive web maps with OpenLayers and Leaflet
 
 [MSC GeoMet](../msc-geomet/index.md) geospatial web services are easily integrated into free and open source web mapping libraries such as [OpenLayers](https://openlayers.org/) and [Leaflet](https://leafletjs.com/) to build interactive maps for web pages and mobile apps. This tutorial will show you how to work with a Web Map Service (WMS) using both libraries. By the end of it, you will be able to display any MSC GeoMet WMS layer on an interactive map, query the layer for data, and animate time-enabled layers.

@@ -1,6 +1,3 @@
-
-![ECCC logo](../../img_eccc-logo.png)
-
 # High Resolution Ensemble Precipitation Analysis (HREPA) Data in NetCDF Format
 
 This page describes the [High Resolution Ensemble Precipitation Analysis](./readme_hrepa-datamart.md) data available in NetCDF format on the MSC Datamart.

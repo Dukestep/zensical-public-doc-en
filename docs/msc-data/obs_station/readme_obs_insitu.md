@@ -4,8 +4,6 @@ tags:
   - Real-time
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Data and products of in situ observations
 
 Surface Observations measured at the automatic and manual stations of the Environment and Climate Change Canada and partners networks, either for a single station, or for the stations of specific provinces and territories. 

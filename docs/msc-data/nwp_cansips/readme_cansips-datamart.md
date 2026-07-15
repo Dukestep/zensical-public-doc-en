@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Canadian Seasonal to Inter-annual Prediction System (CanSIPS) Data in GRIB2 Format
 
 The [Canadian Seasonal to Inter-annual Prediction System (CanSIPS)](readme_cansips.md) is a long-term prediction system whose objective is to forecast the evolution of global climate conditions. CanSIPS is a multi-model ensemble (MME) system using two atmosphere-ocean-land coupled models (CanESM5 and GEM5.2-NEMO) developed by the Canadian Centre for Climate Modelling and Analysis (CCCma), Meteorological Research Division (MRD) and the Canadian Centre for Meteorological and Environmental Prediction (CCMEP). It is a fully coupled atmosphere-ocean-ice-land prediction system relying on the operational data assimilation infrastructure for the initial state of the atmosphere, sea surface temperature and sea ice. For further technical information about CanSIPS please refer to the technical note.

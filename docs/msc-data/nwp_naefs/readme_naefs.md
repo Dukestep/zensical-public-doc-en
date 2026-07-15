@@ -4,8 +4,6 @@ tags:
   - Ensemble
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Data and Products of the North American Ensemble Forecast System (NAEFS)
 
 ![](https://collaboration.cmc.ec.gc.ca/cmc/cmos/public_doc/msc-data/nwp_naefs/naefs.png)

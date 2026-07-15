@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Meteocode forecast data in XML format
 
 This page describes the markup language files Canadian Meteorological Service (CMML) on the MSC Datamart. The CMML is an XML format containing Environment and Climate Change Canada's official forecasts, interpolated by hour.

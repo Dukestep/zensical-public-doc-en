@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Global Ensemble Wave Prediction System (GEWPS) data in GRIB2 format
 
 This page describes the [Global Ensemble Wave Prediction System](readme_gewps.md) data available in GRIB2 format.

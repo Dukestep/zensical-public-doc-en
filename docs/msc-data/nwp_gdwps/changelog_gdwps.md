@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronology of changes to the Global Deterministic Wave Prediction System (GDWPS)
 
 ## Tuesday May 26, 2026

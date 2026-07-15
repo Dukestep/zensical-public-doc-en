@@ -1,6 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)  
-
-
 # Use case: anticipated profits based on precipitations probability
 
 ## Introduction

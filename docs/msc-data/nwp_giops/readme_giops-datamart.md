@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Global Ice-Ocean Prediction System (GIOPS) Data in NetCDF Format
 
 The Canadian Centre for Meteorological and Environmental Prediction (CCMEP) provides sea ice and ocean forecast fields produced by its [Global Ice-Ocean Prediction System (GIOPS)](readme_giops.md) and interpolated to two grids: a 0.2° resolution regular latitude-longitude grid (latlon0.2x0.2) and a grid in north-polar stereographic projection with 5km resolution at the standard parallel 60°N (ps5km60N).  Fields provided at 00Z and at forecast hour 0 represent the GIOPS analysis, which is nominally valid at 00Z.  At all other forecast hours the fields represent the model forecast and are averaged in time.  The data files are in NetCDF format (NetCDF-4 classic model) and comply with the Climate and Forecast Conventions.

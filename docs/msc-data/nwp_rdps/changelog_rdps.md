@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronology of changes to the Regional Deterministic Prediction System (RDPS)
 
 ## Wednesday July 23, 2025

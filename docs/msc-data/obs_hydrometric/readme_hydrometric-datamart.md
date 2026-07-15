@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Hydrometric data in CSV format
 
 This page describes the [real time hydrometric](readme_hydrometric.md) data available in CSV format.

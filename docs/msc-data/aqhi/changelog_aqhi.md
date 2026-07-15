@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronology of changes to the Air Quality Health Index (AQHI) observation and forecast program
 
 ## Tuesday March 11th, 2008

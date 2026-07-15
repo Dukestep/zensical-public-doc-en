@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Regional Ensemble Storm Surge Prediction System (RESPS) data in NetCDF format
 
 This page describes the [Regional Ensemble Storm Surge Prediction System](readme_resps.md) data available in NetCDF format.

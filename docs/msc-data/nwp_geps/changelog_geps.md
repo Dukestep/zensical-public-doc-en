@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronology of changes to the Global Ensemble Prediction System (GEPS)
 
 ## Tuesday April 14, 2026

@@ -5,8 +5,6 @@ tags:
   - Nowcasting
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Data and Products of the scribe nowcasting matrices
 
 This page describes the [scribe nowcasting matrices](readme_nowcasting-datamart.md) data and products.

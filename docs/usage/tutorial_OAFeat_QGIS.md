@@ -1,5 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
 # Tutorial: using OGC API - Features data in QGIS
 
 Adding OGC API - Features data from [MSC GeoMet](../msc-geomet/index.md) to the [free and open source QGIS desktop software](https://qgis.org):

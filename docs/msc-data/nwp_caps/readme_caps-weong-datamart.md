@@ -1,6 +1,3 @@
-
-![ECCC logo](../../img_eccc-logo.png)
-
 # Experimental GRIB2 Weather Elements on the Grid data based on the Canadian Arctic Prediction System (CAPS)
 
 As part of a larger modernization plan for the Meteorological Service of Canada (MSC), [Weather Elements on the Grid](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/tech_notes/technote_weong-hrdps_e.pdf) ("WEonG") based on the Canadian Arctic Prediction System (CAPS), amalgaming numerical and post-processed data using various diagnostic approaches are available to serve different forecasting  programs (public, marine, aviation, air quality, etc.). Hourly concepts are thus produced from different algorithms using outputs from the CAPS. This data is available on the system's rotated lat-lon grid.

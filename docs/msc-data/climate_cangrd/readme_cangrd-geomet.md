@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # CanGRD data available on MSC GeoMet
 
 MSC GeoMet-Climate provides access to data and products of the Canadian Gridded Temperature and Precipitation Anomalies (CanGRD). Users can build mobile apps, create interactive web maps, and display and animate climate data layers in desktop software.

@@ -1,5 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
 # MSC Datamart
 
 

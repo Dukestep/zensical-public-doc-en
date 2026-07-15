@@ -1,5 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
 # Hurricanes :material-weather-hurricane:
 
 This page presents a list of relevant Meteorological Service of Canada datasets under the hurricane theme, in order to guide users to the appropriate datasets. This list is not exhaustive, but provides an overview of the layers that can be used under this theme. The main data layers are the hurricane tracks and hurricane reaction zone issued by the Canadian Hurricane Centre, as part of their regular hurricane season forecasts. However, a number of other relevant layers can also provide complementary information on the subject, such as wind speed, rainfall amounts or coastal waves, to give just a few examples.

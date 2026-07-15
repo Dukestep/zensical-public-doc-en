@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # North American Ensemble Forecast System (NAEFS) Data in XML Format
 
 This page describes the [North American ensemble forecast system](readme_naefs.md) data available in GRIB2 format.

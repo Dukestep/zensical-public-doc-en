@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # CMIP6 data available on MSC GeoMet
 
 MSC GeoMet-Climate provides access to data and products of the climate scenarios datasets based on an ensemble of global climate model projections from the Coupled Model Intercomparison Project Phase 6 (CMIP6). Users can build mobile apps, create interactive web maps, and display and animate climate data layers in desktop software.

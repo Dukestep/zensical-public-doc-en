@@ -1,6 +1,3 @@
-
-![ECCC logo](../img_eccc-logo.png)
-
 # Cold spells :material-snowflake:
 
 This page presents a list of relevant Meteorological Service of Canada datasets under the Cold Waves theme, in order to guide users to the appropriate datasets. This list is not exhaustive, but provides an overview of the layers that can be used under this theme. The main data layers for this theme are temperature and wind chill. However, a number of other relevant layers can also provide additional information on the subject, such as wind variables or cloud cover, to name just two examples.

@@ -1,5 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
 # Web Map Service (WMS)
 
 Requests with the [OGC Web Map Service (WMS)](https://www.opengeospatial.org/standards/wms) standard mainly enable a client to retrieve geospatial data as maps. WMS requests are made over the internet (HTTP) and are primarily used to retrieve an image (e.g. JPEG, PNG) of geospatial data for a given area of interest.

@@ -1,6 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
-
 # Usage overview
 
 Overview and examples on how to access and use Meteorological Service of Canada open data.

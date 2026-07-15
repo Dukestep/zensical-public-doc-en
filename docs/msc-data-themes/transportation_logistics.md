@@ -1,5 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
 # Ground transportation logistics :material-truck:
 
 This page presents a list of relevant Meteorological Service of Canada datasets under the Land Transport Logistics theme, in order to guide users to the appropriate datasets. This list is not exhaustive, but provides an overview of the layers that can be used under this theme. The main data layers for this theme are the precipitation rate variables. However, a number of other relevant layers can also provide additional information on the subject, such as wind gusts, visibility or the possibility of blowing snow on routes, to name but a few examples.

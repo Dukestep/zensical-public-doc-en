@@ -1,6 +1,3 @@
-
-![ECCC logo](../../img_eccc-logo.png)
-
 # Thunderstorm outlooks data 
 
 This page describes the [thunderstorm outlooks](readme_thunderstorm-outlooks.md) data in GeoJSON format available on the MSC Datamart.

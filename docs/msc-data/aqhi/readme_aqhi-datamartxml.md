@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Air Quality Health Index (AQHI) observation and forecast data in XML format
 
 This page describes the the observation and forecast data available in XML format for the [Air Quality Health Index AQHI](readme_aqhi.md) that are also available on the [Environment and Climate Change Canada website](https://meteo.gc.ca/airquality/pages/index_e.html). 

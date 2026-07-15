@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Vertical profiles forecast data from the Regional Deterministic Prediction System
 
 This page describes the [vertical profiles of the Regional Deterministic Prediction System (RDPS)](readme_vertical-profiles-nwp.md), available on the MSC Datamart.

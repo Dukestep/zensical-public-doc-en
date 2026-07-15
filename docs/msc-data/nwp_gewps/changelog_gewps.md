@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronology of changes to the Global Ensemble Wave Prediction System (GEWPS)
 
 ## Tuesday April 14, 2026

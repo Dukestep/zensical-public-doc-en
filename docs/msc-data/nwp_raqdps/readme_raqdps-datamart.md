@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Regional Air Quality Deterministic Prediction System (RAQDPS) data in GRIB2 Format
 
 This page describes the [Regional Air Quality Deterministic Prediction System (RAQDPS)](readme_raqdps.md) GRIB2 data. The system is run twice daily to produce 72-hour forecasts of some pollutants such as hourly ozone (O3), nitrogen dioxide (NO2), or particulate matter with aerodynamic diameter smaller than 2.5 μm (PM2.5) fields on a North American grid.

@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronology of changes to the Canadian Land Data Assimilation System in the National Surface and River Prediction System (CaLDAS-NSRPS)
 
 ## Thursday, May 1, 2025

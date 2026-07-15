@@ -1,5 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
 # MSC Open Data Service Usage Policy
 
 The MSC Open Data Service Usage Policy determines what constitutes an acceptable use of MSC Open Data services and provides users best practices for optimal use. This Service Usage Policy complements the [End-use licence](../licence/index.md).

@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # MetNotes data
 
 MetNotes are a geo- and time-referenced, free form polygon product issued by MSC that complement today’s location-based dissemination systems. The concise text of a MetNote (similar to a Tweet) is consistent with communication today where people are seeking information at a glance. Meteorologists will issue a MetNote to add contextual and/or impact information to complement the public forecast that is valid over a specific area, for a specific time range.

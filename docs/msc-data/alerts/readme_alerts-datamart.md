@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Weather warning XML data in the format of the Common Alerting Protocol (CAP)
 
 This page describes the [weather warning data in the format of the Common Alerting Protocol (CAP)](readme_alerts.md).

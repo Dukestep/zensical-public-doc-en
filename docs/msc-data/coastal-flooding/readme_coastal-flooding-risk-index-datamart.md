@@ -1,6 +1,3 @@
-
-![ECCC logo](../../img_eccc-logo.png)
-
 # Coastal flooding risk index data 
 
 This page describes the [coastal flooding](readme_coastal-flooding.md) risk index data in GeoJSON format available on the MSC Datamart.

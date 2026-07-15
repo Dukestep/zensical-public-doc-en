@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Weather forecast data by city in XML format
 
 This page describes the XML data of the [weather forecasts by city](readme_citypageweather.md) available in the MSC Datamart.

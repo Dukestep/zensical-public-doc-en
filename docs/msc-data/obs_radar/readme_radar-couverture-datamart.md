@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Radar imagery
 
 This page describes the [weather radar](readme_radar.md) imagery available in GIF format via the MSC Datamart.

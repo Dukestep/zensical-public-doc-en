@@ -5,9 +5,6 @@ tags:
   - Wave Prediction
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
-
 # Data and Products of the Regional Deterministic Wave Prediction System (RDWPS)
 
 The Regional Deterministic Wave Prediction System (RDWPS) produces wave forecasts out to 48 hours in the future using the third generation spectral wave forecast model WaveWatch III® (WW3). The model is forced by the 10 meters winds from the [High Resolution Deterministic Prediction System (HRDPS)](../nwp_hrdps/readme_hrdps.md). Over the Great Lakes, an ice forecast from the [Water Cycle Prediction System of the Great Lakes (WCPS)](../nwp_wcps/readme_wcps.md) )  is used by the model to attenuate or suppress wave growth in areas covered by 25% to 75% and more than 75% ice, respectively. Over the ocean, an ice forecast from the [Regional Ice Ocean Prediction System (RIOPS)](../nwp_riops/readme_riops.md)  is used: in the Northeast Pacific, waves propagate freely for ice concentrations below 50%, above this threshold there is no propagation; in the Northwest Atlantic the same logic is used as in the Great Lakes. Forecast elements include significant wave height, peak period, partitioned parameters and others. This system includes several domains: Lake Superior, Lake Huron-Michigan, Lake Erie, Lake Ontario, Atlantic North-West and Pacific North-East.

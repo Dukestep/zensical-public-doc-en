@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Regional Deterministic Wave Prediction System (RDWPS) Data in GRIB2 Format
 
 This page describes the data of the [Regional Deterministic Wave Prediction System](readme_rdwps.md) data available in GRIB2 format.

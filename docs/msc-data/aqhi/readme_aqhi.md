@@ -5,8 +5,6 @@ tags:
   - Air quality
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Data and Products of the Air Quality Health Index (AQHI) observation and forecast
 
 The **Air Quality Health Index AQHI** is a scale designed to help quantify the quality of the air in a certain region on a scale from 1 to 10. When the amount of air pollution is very high, the number is reported as 10+. It also includes a category that describes the health risk associated with the index reading e.g. Low, Moderate, High, or Very High Health Risk . The AQHI is calculated based on the relative risks of a combination of common air pollutants that are known to harm human health, including ground-level ozone, particulate matter, and nitrogen dioxide. The AQHI formulation captures only the short term or acute health risk exposure of hour or days at a maximum .

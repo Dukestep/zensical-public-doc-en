@@ -4,8 +4,6 @@ tags:
   - Real-time
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Lightning density data
 
 The [Canadian Lightning Detection Network](https://www.canada.ca/en/environment-climate-change/services/lightning/canadian-detection-network.html) provides lightning monitoring across most of Canada. The data distributed here represents a spatio-temporal aggregation of the observations of this network available with an accuracy of a few hundred meters. More precisely, every 10 minutes, the reported observations are processed in the following way:

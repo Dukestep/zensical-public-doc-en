@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronology of changes to the autoTAF Automated Guidance System (aTAGS)
 
 ## Tuesday June 11, 2024

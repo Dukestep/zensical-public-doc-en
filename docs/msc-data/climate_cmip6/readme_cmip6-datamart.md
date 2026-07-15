@@ -1,6 +1,3 @@
-
-![ECCC logo](../../img_eccc-logo.png)
-
 # Climate scenario data, based on a set of global climate model projections from phase 6 of the Coupled Model Intercomparison Project (CMIP6) in NetCDF format
 
 Multimodel ensembles for a range of variables based on global climate model (GCM) projections from Phase 6 of the Coupled Model Intercomparison Project (CMIP6) are available for 1900 to 2100 on a common 1 x 1 degree global grid.

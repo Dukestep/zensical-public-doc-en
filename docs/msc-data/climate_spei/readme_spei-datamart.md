@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Climate Standardized Precipitation Evapotranspiration Index (SPEI) data in NetCDF format
 
 [SPEI data](readme_spei.md) in NetCDF format, a climate index used to assess the influence of climate change on drought.

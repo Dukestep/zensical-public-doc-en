@@ -1,5 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
 # Environment and Climate Change Canada Data Servers End-use Licence
 
 !!! info "Version 2.1 - September 2022"

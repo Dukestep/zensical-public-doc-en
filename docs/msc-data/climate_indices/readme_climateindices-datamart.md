@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Statistically downscaled climate indices in NetCDF format
 
 Statistically downscaled [Climate indices data](readme_climateindices.md) in NetCDF format, for historical simulations and three emission scenarios, RCP2.6, RCP4.5 and RCP8.5 (2006-2100), available at a 10 x 10 km degree grid resolution. 

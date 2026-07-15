@@ -1,5 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
 # Changes to the Canadian Meteorological Centre (CMC) Operational System
 
 ## 2026

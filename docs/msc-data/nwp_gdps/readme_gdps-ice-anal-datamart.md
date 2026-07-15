@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Global ice analysis data
 
 Environment and Climate Change Canada provides global sea-ice analysis fields produced by its operational [Global Deterministic Prediction System (GDPS)](readme_gdps.md) and interpolated to a rotated latitude-longitude grid with 0.09 x 0.09 degree resolution.

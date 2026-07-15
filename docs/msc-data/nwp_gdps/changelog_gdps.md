@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronology of changes to the Global Deterministic Prediction System (GDPS)
 
 ## Tuesday May 26, 2026

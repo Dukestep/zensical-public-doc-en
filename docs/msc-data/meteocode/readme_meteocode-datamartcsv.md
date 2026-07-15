@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Meteocode forecast data in CSV format
 
 This document describes the content of the [meteocode data](readme_meteocode.md) in CSV format.

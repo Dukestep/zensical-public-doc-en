@@ -4,8 +4,6 @@ tags:
   - Real-time
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Hydrometric observations data
 
 __Real-time hydrometric data__

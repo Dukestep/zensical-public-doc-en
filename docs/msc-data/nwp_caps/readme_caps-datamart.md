@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Data from the experimental Canadian Arctic Prediction System (CAPS)
 
 This page describes the experimental atmospheric data in GRIB2 format and oceanic data in NetCDF format from the [Canadian Arctic Prediction System (CAPS)](readme_caps.md) available on the MSC Datamart.

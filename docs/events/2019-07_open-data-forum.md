@@ -1,5 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
 # MSC 2019 Open Data Forum
 
 This page is dedicated to the 1st Canadian Meteorological Service (MSC) Open Data Forum held in Montreal, at the [Centre Phi](https://phi-centre.com/), and online across Canada on July 8, 2019. This forum preceded the 1st [METEOHACK Hackathon](2019-07_hackathon-METEOHACK.md) organized by the Meteorological Service of Canada, with the assistance of Corporate Services and Finance Branch and Shared Services Canada, from July 8 to 10, 2019.

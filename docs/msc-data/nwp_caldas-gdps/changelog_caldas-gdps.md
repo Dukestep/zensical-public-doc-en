@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 ## Wednesday December 1st, 2021
 
 ####  Withdrawal of the Canadian Land Data Assimilation System in the GDPS

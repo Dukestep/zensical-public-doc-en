@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Regional Deterministic Prediction System (RDPS) data 
 
 The fields of the dataset from the [Regional Deterministic Prediction System (RDPS)](readme_rdps.md) are available both on a polar stereographic grid covering North America and adjacents waters with a resolution of 10 km, and on a rotated lat-lon grid covering a larger area that also includes the Caribbean and all of Mexico, as well as part of Northern Europe.

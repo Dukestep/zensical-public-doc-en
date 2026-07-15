@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # AHCCD data available on MSC GeoMet
 
 MSC GeoMet-Climate provides access to data and products of the Adjusted and Homogenized Canadian Climate Data (AHCCD). Users can build mobile apps, create interactive web maps, and display and animate climate data layers in desktop software.

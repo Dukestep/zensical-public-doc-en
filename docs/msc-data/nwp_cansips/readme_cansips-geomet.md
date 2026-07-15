@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # CanSIPS data available on MSC GeoMet
 
 MSC GeoMet provides access to data produced by the Canadian Seasonal to Inter-annual Prediction System (CanSIPS) model. Users can build mobile apps, create interactive web maps, and display layers in desktop software.

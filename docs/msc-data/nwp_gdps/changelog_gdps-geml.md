@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronology of changes to the Global Environmental eMuLator
 
 ## XXXXX June XX, 2025

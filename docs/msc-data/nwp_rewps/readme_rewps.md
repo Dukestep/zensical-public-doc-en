@@ -5,9 +5,6 @@ tags:
   - Wave Prediction
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
-
 # Data and Products of the Regional Ensemble Wave Prediction System (REWPS)
 
 The Regional Ensemble Wave Prediction System (REWPS) uses the third generation spectral wave model WaveWatch III® (WW3) to arrive at probabilistic predictions of wave elements from the current day out to 3 days into the future. The probabilistic predictions are based on 20 ensemble members and a control member that are forced by the 10 meters winds from the [Regional Ensemble Prediction System (REPS)](../nwp_reps/readme_reps.md). An ice forecast from the [Water Cycle Prediction System of the Great Lakes (WCPS)](../nwp_wcps/readme_wcps.md) is used by the model to dampen or suppress wave growth in areas covered respectively with 25% to 75% and more than 75% ice.

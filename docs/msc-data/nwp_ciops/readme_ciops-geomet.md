@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # CIOPS data available on MSC GeoMet
 
 MSC GeoMet provides access to data produced by the Coastal Ice Ocean Predicton System (CIOPS) model. Users can build mobile apps, create interactive web maps, and display and animate weather radar layers in desktop software.

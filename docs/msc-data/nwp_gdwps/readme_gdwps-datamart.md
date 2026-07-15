@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Global Deterministic Wave Prediction System (GDWPS) data in GRIB2 format
 
 This page describes the [Global Deterministic Wave Prediction System](readme_gdwps.md) data available in GRIB2 format.

@@ -5,8 +5,6 @@ tags:
   - Bulletins
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Data and products of the alphanumerical and binary bulletins  
 
 This page describes the data and products of the alphanumerical and binary bulletins.

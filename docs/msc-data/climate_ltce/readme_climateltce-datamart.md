@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Daily Long Term Climate Extremes in CSV format
 
 This page describes the [Daily Climate Records (Long Term Climate Extremes)](readme_climateltce.md) data in CSV format. Please note that these data should not be used to answer questions about climate trends. For these analyses, please consult the [Adjusted and Homogenized Canadian Climate Data](../climate_ahccd/readme_ahccd.md).

@@ -1,7 +1,3 @@
-
-![ECCC logo](../../img_eccc-logo.png)  
-
-
 # Use case: Retrieving and displaying hydrometric data
 
 ## Introduction

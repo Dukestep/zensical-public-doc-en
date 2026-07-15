@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Adjusted and Homogenized Canadian Climate Data (AHCCD) in GeoJSON format
 
 The AHCCD data are climate station datasets with adjustments (derived from statistical procedures) to the original historical station data to account for discontinuities from non-climatic factors, such as instrument changes or station relocation. 

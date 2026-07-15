@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Data and products of the MSC Geography Package of Forecast
 
 This page describes MSC's standard geographic information system (GIS) package based on forecast location files and polygons.

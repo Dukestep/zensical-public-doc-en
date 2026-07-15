@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Global Deterministic Prediction System (GDPS) data
 
 The fields of the [Global Deterministic Prediction System (GDPS)](readme_gdps.md) are available on a latitude-longitude grid corresponding to an effective resolution of about 15 km.

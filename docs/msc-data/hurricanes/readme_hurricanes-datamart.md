@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Data of the hurricane trajectories
 
 This page describes the data of the [hurricane trajectories](readme_hurricanes.md) available on the MSC Datamart in shapefile and GeoJSON format

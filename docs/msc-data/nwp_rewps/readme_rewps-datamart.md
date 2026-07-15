@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Regional Ensemble Wave Prediction System (REWPS) Data in GRIB2 Format
 
 This page describes the data of the [Regional Ensemble Wave Prediction System](readme_rewps.md).

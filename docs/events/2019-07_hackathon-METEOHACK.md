@@ -1,6 +1,3 @@
-![ECCC logo](../img_eccc-logo.png)
-
-
 # MSC METEOHACK Hackathon 2019
 
 This page is dedicated to the 1st METEOHACK hackathon of the Meteorological Service of Canada (MSC) held in Montreal, at the [Phi Centre](https://phi-centre.com/), and online across Canada, from July 8 to 10, 2019, with the assistance of the Corporate Services and Finance Branch, and Shared Services Canada.

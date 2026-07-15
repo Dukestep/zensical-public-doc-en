@@ -4,8 +4,6 @@ tags:
   - Real-time
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Data and products for official weather forecast by city
 
 This page describes the data and products of weather forecasts per city that are created for some cities in the provinces and Canadian territories and distributed on the Environment and Climate Change Canada website : 

@@ -4,8 +4,6 @@ tags:
   - Analysis
 ---
 
-![ECCC logo](../../img_eccc-logo.png)
-
 # Data and Products of the Regional Deterministic Air Quality Analysis 
 
 Regional Deterministic Air Quality Analysis (RDAQA) is an objective analysis of surface pollutants that combines numerical forecasts from the Regional Air Quality Deterministic Prediction System (RAQDPS) with hourly observations from various monitoring networks in North America, including the Canadian measurement networks operated by the provinces, territories and certain cities, as well as the various American networks in the context of the AIRNow program administered by US/EPA (US Environmental Protection Agency). RDAQA analysis provides the best description of current air quality conditions, and is used to inform the public, meteorologists in the various Environment and Climate Change Canada forecasting offices, Health Canada and other users about the distribution of air pollutants near the ground, and the performance of forecasting models.

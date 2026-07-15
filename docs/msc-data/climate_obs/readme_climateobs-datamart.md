@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Climate  data (normals, daily, hourly, monthly) in CSV format
 
 This document describes four climate data sets, climate normal, daily and hourly climate observations as well as monthly climate observations summaries at various climate stations across Canada.

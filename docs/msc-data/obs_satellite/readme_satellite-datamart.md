@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Satellite data and products
 
 This page describes data and products derived from GOES-West and GOES-East [satellite](readme_satellite.md) instruments in GeoTIFF format available on the MSC Datamart. 

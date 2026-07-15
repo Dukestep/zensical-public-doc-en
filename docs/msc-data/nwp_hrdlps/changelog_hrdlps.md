@@ -1,5 +1,3 @@
-![ECCC logo](../../img_eccc-logo.png)
-
 # Chronology of changes to the High Resolution Deterministic Land Surface Prediction System (HRDLPS)
 
 ## Thursday May 1, 2025
