@@ -27,21 +27,21 @@
 
 ### June 26, 2025
 
-* [Addition of AMV observations from the NOAA-21 and GOES19 satellites in the GDPS](nwp_gdps/changelog_gdps.md#thursday-june-26-2025)
+* [Addition of AMV observations from the NOAA-21 and GOES19 satellites in the GDPS](nwp_gdps/changelog_gdps.md#thursday-june-26th-2025)
 
 ### June 18, 2025
 
-* [Decommission of HRDPS North, replaced again by the coupled Canadian Arctic Prediction System (CAPS)](nwp_caps/changelog_caps.md#wednesday-june-18-2025)
+* [Decommission of HRDPS North, replaced again by the coupled Canadian Arctic Prediction System (CAPS)](nwp_caps/changelog_caps.md#wednesday-june-18th-2025)
 
 ### June 17, 2025
 
-* [Production and use of dynamic allowlists for radiosonde, aircraft and ground-based GNSS observations in the GDPS](nwp_gdps/changelog_gdps.md#tuesday-june-17-2025)
+* [Production and use of dynamic allowlists for radiosonde, aircraft and ground-based GNSS observations in the GDPS](nwp_gdps/changelog_gdps.md#tuesday-june-17th-2025)
 
 ### May 26, 2025
 
-* [Addition of ATMS and CrIS observations from the NOAA-21 satellite in the GEPS](nwp_geps/changelog_geps.md#monday-may-26-2025)
-* [Addition of ATMS and CrIS observations from the NOAA-21 satellite and RARS-MWHS2 observations from the FY-3D and FY-3E satellites in the GDPS](nwp_gdps/changelog_gdps.md#monday-may-26-2025)
-* [Addition of ATMS and CrIS observations from the NOAA-21 satellite and RARS-MWHS2 observations from the FY-3D and FY-3E satellites in the HRDPS](nwp_hrdps/changelog_hrdps.md#monday-may-26-2025)
+* [Addition of ATMS and CrIS observations from the NOAA-21 satellite in the GEPS](nwp_geps/changelog_geps.md#monday-may-26th-2025)
+* [Addition of ATMS and CrIS observations from the NOAA-21 satellite and RARS-MWHS2 observations from the FY-3D and FY-3E satellites in the GDPS](nwp_gdps/changelog_gdps.md#monday-may-26th-2025)
+* [Addition of ATMS and CrIS observations from the NOAA-21 satellite and RARS-MWHS2 observations from the FY-3D and FY-3E satellites in the HRDPS](nwp_hrdps/changelog_hrdps.md#monday-may-26th-2025)
 
 ### May 1, 2025
 
@@ -236,7 +236,7 @@ Water, ocean and ice
 
 ### March 31, 2022
 
-* [Retirement of the Regional Deterministic Storm-surge Prediction System (RDSPS)](nwp_rdsps/changelog_rdsps.md#thursday-march-31-2022)
+* [Retirement of the Regional Deterministic Storm-surge Prediction System (RDSPS)](nwp_rdsps/changelog_rdsps.md#thursday-march-31st-2022)
 
 ### February 24, 2022
 
@@ -312,35 +312,35 @@ Water, ocean and ice
 
 ### January 26, 2021
 
-* [Replacement of satellite radiance observations in the GEPS](nwp_geps/changelog_geps.md#tuesday-january-26-2021)
-* [Addition and replacement of satellite radiance observations in the GDPS](nwp_gdps/changelog_gdps.md#tuesday-january-26-2021)
-* [Addition and replacement of satellite radiance observations in the RDPS](nwp_rdps/changelog_rdps.md#tuesday-january-26-2021)
+* [Replacement of satellite radiance observations in the GEPS](nwp_geps/changelog_geps.md#tuesday-january-26th-2021)
+* [Addition and replacement of satellite radiance observations in the GDPS](nwp_gdps/changelog_gdps.md#tuesday-january-26th-2021)
+* [Addition and replacement of satellite radiance observations in the RDPS](nwp_rdps/changelog_rdps.md#tuesday-january-26th-2021)
 
 ## 2020
 
 ### December 8, 2020
  
-* [Addition of satellite radiance observations in the GEPS](nwp_geps/changelog_geps.md#tuesday-december-8-2020)
-* [Addition of satellite radiance observations in the GDPS](nwp_gdps/changelog_gdps.md#tuesday-december-8-2020)
-* [Addition of satellite radiance observations in the RDPS](nwp_rdps/changelog_rdps.md#tuesday-december-8-2020)
+* [Addition of satellite radiance observations in the GEPS](nwp_geps/changelog_geps.md#tuesday-december-8th-2020)
+* [Addition of satellite radiance observations in the GDPS](nwp_gdps/changelog_gdps.md#tuesday-december-8th-2020)
+* [Addition of satellite radiance observations in the RDPS](nwp_rdps/changelog_rdps.md#tuesday-december-8th-2020)
 
 ### June 26, 2020
 
-* [Addition of GPSRO observations from COSMIC-II satellites in the GEPS](nwp_geps/changelog_geps.md#friday-june-26-2020)
-* [Addition of GPSRO observations from COSMIC-II satellites in the GDPS](nwp_gdps/changelog_gdps.md#friday-june-26-2020)
-* [Addition of GPSRO observations from COSMIC-II satellites in the RDPS](nwp_rdps/changelog_rdps.md#friday-june-26-2020)
+* [Addition of GPSRO observations from COSMIC-II satellites in the GEPS](nwp_geps/changelog_geps.md#friday-june-26th-2020)
+* [Addition of GPSRO observations from COSMIC-II satellites in the GDPS](nwp_gdps/changelog_gdps.md#friday-june-26th-2020)
+* [Addition of GPSRO observations from COSMIC-II satellites in the RDPS](nwp_rdps/changelog_rdps.md#friday-june-26th-2020)
 
 ### April 29, 2020
 
-* [Addition of GPSRO observations from PAZ and KOMPSAT-5 satellites in the GEPS](nwp_geps/changelog_geps.md#wednesday-april-29-2020)
-* [Addition of GPSRO observations from PAZ and KOMPSAT-5 satellites in the GDPS](nwp_gdps/changelog_gdps.md#wednesday-april-29-2020)
-* [Addition of GPSRO observations from PAZ and KOMPSAT-5 satellites in the RDPS](nwp_rdps/changelog_rdps.md#wednesday-april-29-2020)
+* [Addition of GPSRO observations from PAZ and KOMPSAT-5 satellites in the GEPS](nwp_geps/changelog_geps.md#wednesday-april-29th-2020)
+* [Addition of GPSRO observations from PAZ and KOMPSAT-5 satellites in the GDPS](nwp_gdps/changelog_gdps.md#wednesday-april-29th-2020)
+* [Addition of GPSRO observations from PAZ and KOMPSAT-5 satellites in the RDPS](nwp_rdps/changelog_rdps.md#wednesday-april-29th-2020)
 
 ### April 28, 2020
 
-* [Addition of AMV observations from MetOp-3/C satellite in the GEPS](nwp_geps/changelog_geps.md#tuesday-april-28-2020)
-* [Addition of AMV observations from MetOp-3/C satellite in the GDPS](nwp_gdps/changelog_gdps.md#tuesday-april-28-2020)
-* [Addition of AMV observations from MetOp-3/C satellite in the RDPS](nwp_rdps/changelog_rdps.md#tuesday-april-28-2020)
+* [Addition of AMV observations from MetOp-3/C satellite in the GEPS](nwp_geps/changelog_geps.md#tuesday-april-28th-2020)
+* [Addition of AMV observations from MetOp-3/C satellite in the GDPS](nwp_gdps/changelog_gdps.md#tuesday-april-28th-2020)
+* [Addition of AMV observations from MetOp-3/C satellite in the RDPS](nwp_rdps/changelog_rdps.md#tuesday-april-28th-2020)
 
 ### April 1, 2020
 
@@ -473,17 +473,17 @@ Water, ocean and ice
 
 ### June 21, 2016
 
-* [Global Ice and Ocean Prediction System (GIOPS) Version 2.1](nwp_giops/changelog_giops.md#tuesday-june-21-2016)
-* [Canadian Seasonal to Inter-annual Prediction System (CanSIPS) starts to use GIOPS 3D ocean analyses](nwp_cansips/changelog_cansips.md#tuesday-june-21-2016)
-* [Regional Ice and Ocean Prediction System (RIOPS) 1.1](nwp_riops/changelog_riops.md#tuesday-june-21-2016)
+* [Global Ice and Ocean Prediction System (GIOPS) Version 2.1](nwp_giops/changelog_giops.md#tuesday-june-21st-2016)
+* [Canadian Seasonal to Inter-annual Prediction System (CanSIPS) starts to use GIOPS 3D ocean analyses](nwp_cansips/changelog_cansips.md#tuesday-june-21st-2016)
+* [Regional Ice and Ocean Prediction System (RIOPS) 1.1](nwp_riops/changelog_riops.md#tuesday-june-21st-2016)
 
 ### April 14, 2016
 
-* [FireWork Summer 2016 - Beginning of the season](nwp_raqdps-fw/changelog_raqdps-fw.md#thursday-april-14-2016)
+* [FireWork Summer 2016 - Beginning of the season](nwp_raqdps-fw/changelog_raqdps-fw.md#thursday-april-14th-2016)
 
 ### April 7, 2016
 
-* [Regional Air Quality Deterministic Prediction System (RAQDPS) 015](nwp_raqdps/changelog_raqdps.md#thursday-april-7-2016)
+* [Regional Air Quality Deterministic Prediction System (RAQDPS) 015](nwp_raqdps/changelog_raqdps.md#thursday-april-7th-2016)
 
 ### March 16, 2016
 
@@ -528,26 +528,26 @@ Water, ocean and ice
 
 * [Regional Deterministic Precipitation Analysis (RDPA (CaPA)) 3.1.0](nwp_rdpa/changelog_rdpa.md#wednesday-june-03-2015)
 
-### April 16, 2015
+<!-- ### April 16, 2015
 
-* [Regional Deterministic Air Quality Analysis (RDAQA) 1.1.0](nwp_rdaqa/changelog_rdaqa.md#thursday-april-16-2015)
+* [Regional Deterministic Air Quality Analysis (RDAQA) 1.1.0](nwp_rdaqa/changelog_rdaqa.md#thursday-april-16-2015) -->
 
 ## 2014
 
 ### November 18, 2014
 
-* [Global Ensemble Prediction system (GEPS) 4.0.0](nwp_geps/changelog_geps.md#tuesday-november-18-2014)
-* [Global Deterministic Prediction system (GDPS) 4.0.0](nwp_gdps/changelog_gdps.md#tuesday-november-18-2014)
-* [Regional Deterministic Prediction system (RDPS) 4.0.0](nwp_rdps/changelog_rdps.md#tuesday-november-18-2014)
-* [Coupled Atmosphere-Ocean-Ice Forecast System - Gulf of St-Lawrence](nwp_rdps-cgsl/changelog_rdps-cgsl.md#tuesday-november-18-2014)
-* [Regional Deterministic Precipitation Analysis (RDPA (CaPA)) 3.0.0](nwp_rdpa/changelog_rdpa.md#tuesday-november-18-2014)
-* [High Resolution Deterministic Prediction System (HRDPS) 4.0.0](nwp_hrdps/changelog_hrdps.md#tuesday-november-18-2014)
-* [Regional Air Quality Deterministic Prediction System (RAQDPS) 1.5.3](nwp_raqdps/changelog_raqdps.md#tuesday-november-18-2014)
+* [Global Ensemble Prediction system (GEPS) 4.0.0](nwp_geps/changelog_geps.md#tuesday-november-18th-2014)
+* [Global Deterministic Prediction system (GDPS) 4.0.0](nwp_gdps/changelog_gdps.md#tuesday-november-18th-2014)
+* [Regional Deterministic Prediction system (RDPS) 4.0.0](nwp_rdps/changelog_rdps.md#tuesday-november-18th-2014)
+* [Coupled Atmosphere-Ocean-Ice Forecast System - Gulf of St-Lawrence](nwp_rdps-cgsl/changelog_rdps-cgsl.md#tuesday-november-18th-2014)
+* [Regional Deterministic Precipitation Analysis (RDPA (CaPA)) 3.0.0](nwp_rdpa/changelog_rdpa.md#tuesday-november-18th-2014)
+* [High Resolution Deterministic Prediction System (HRDPS) 4.0.0](nwp_hrdps/changelog_hrdps.md#tuesday-november-18th-2014)
+* [Regional Air Quality Deterministic Prediction System (RAQDPS) 1.5.3](nwp_raqdps/changelog_raqdps.md#tuesday-november-18th-2014)
 
 ### May 6, 2014
 
-* [Addition of IASI observations from METOP-B/1 to the operational data of the GDPS](nwp_gdps/changelog_gdps.md#tuesday-may-6-2014)
-* [Addition of IASI observations from METOP-B/1 to the operational data of the RDPS](nwp_rdps/changelog_rdps.md#tuesday-may-6-2014)
+* [Addition of IASI observations from METOP-B/1 to the operational data of the GDPS](nwp_gdps/changelog_gdps.md#tuesday-may-6th-2014)
+* [Addition of IASI observations from METOP-B/1 to the operational data of the RDPS](nwp_rdps/changelog_rdps.md#tuesday-may-6th-2014)
 
 ## 2013
 
@@ -558,7 +558,7 @@ Water, ocean and ice
 
 ### November 20, 2013
 
-* [Implementation of version 1.4 of the Integrated NowCasting System (INCS 1.4)](nwp_nowcasting/changelog_nowcasting.md#wednesday-november-20-2015)
+* [Implementation of version 1.4 of the Integrated NowCasting System (INCS 1.4)](nwp_nowcasting/changelog_nowcasting.md#wednesday-november-20-2013)
 
 ### November 07, 2013
 
@@ -584,7 +584,7 @@ Water, ocean and ice
 
 ### July 3, 2013
 
-* [Update to the RDPS binary (in support of the production of the variable PX)](nwp_rdps/changelog_rdps.md#wednesday-july-3-2013)
+* [Update to the RDPS binary (in support of the production of the variable PX)](nwp_rdps/changelog_rdps.md#wednesday-july-3rd-2013)
 
 ### June 18, 2013
 
@@ -607,9 +607,9 @@ Water, ocean and ice
 
 * [Addition of METOP-1 data to the GPS-ro family to the CMC data assimilation system](changelog_multisystems.md#monday-april-15-2013)
 
-### February 28, 2013
+<!-- ### February 28, 2013
 
-* [Regional Deterministic Air Quality Analysis (RDAQA)](nwp_rdaqa/changelog_rdaqa.md#thursday-february-28-2013)
+* [Regional Deterministic Air Quality Analysis (RDAQA)](nwp_rdaqa/changelog_rdaqa.md#thursday-february-28-2013) -->
 
 ### February 26, 2013
 

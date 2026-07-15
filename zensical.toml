@@ -502,7 +502,6 @@ features = [
     "content.footnote.tooltips",# Renders footnotes as tooltips on hover
     "content.tabs.link",        # Keeps tab selection in sync across the page
     "content.tooltips",         # Replaces browser title tooltips with styled ones
-    "navigation.footer",        # Shows previous/next page links in the footer
     "navigation.indexes",       # Makes section index pages clickable in the nav
     "navigation.path",          # Shows a breadcrumb path below the header
     "navigation.sections",      # Renders top-level nav items as expandable sections

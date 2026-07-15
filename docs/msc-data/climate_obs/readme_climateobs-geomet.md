@@ -10,7 +10,7 @@ Historical observations data is available via [OGC-API Feature collections](../.
 
 ## Usage
 
-The [usage overview page](../../usage/index.md) provides generic information on using OGC services with desktop software, mobile apps, interactive web maps and direct access. Please refer to the [raw vector data accesstutorials](../../usage/tutorials.md#raw-vector-data-access) and [the OGC-API Features technical documentation](../../msc-geomet/ogc_api.md#ogc-api-features) for a detailed description of the API and data access examples via Python and QGIS.
+The [usage overview page](../../usage/index.md) provides generic information on using OGC services with desktop software, mobile apps, interactive web maps and direct access. Please refer to the [raw vector data access tutorials](../../usage/tutorials.md#raw-data) and [the OGC-API Features technical documentation](../../msc-geomet/ogc_api.md#ogc-api-features) for a detailed description of the API and data access examples via Python and QGIS.
 
 ### Available feature collections
 
