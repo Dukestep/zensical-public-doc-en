@@ -28,7 +28,7 @@ Effective September 20, 2023, the Canadian Meteorological Centre (CMC) of Enviro
 
 A copy of the official note announcing the implementation of these changes is available [at this link](https://dd.weather.gc.ca/doc/genots/2023/09/19/NOCN03_CWAO_191340___27844).
 
-## Thrusday August 3, 2023
+## Thursday August 3, 2023
 
 #### Upgrade to Version 3.3.0 of the Operational Hydrodynamic Prediction System (OHPS)
 Effective August 3, 2023, the Canadian Meteorological Centre (CMC) of Environment and Climate Change Canada updates the Operational Hydrodynamic Prediction system (OHPS) to version v3.3.0.

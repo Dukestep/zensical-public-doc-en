@@ -162,7 +162,7 @@ A copy of the official note announcing the implementation of these changes [is a
 An information leaflet on this change [is available at this link](https://collaboration.cmc.ec.gc.ca/cmc/cmoi/product_guide/docs/lib/capa_information_leaflet_20141118_e.pdf).
 
 
-## August 20 2013
+## Tuesday August 20, 2013
 
 #### Version 2.4 of RDPA (CaPA) installed in operations
 

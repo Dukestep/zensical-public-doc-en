@@ -199,7 +199,7 @@ Water, ocean and ice
 
 ### March 23, 2023
 
-* [Upgrade to version 2.1.0 of the INCS to incorporate S-band radar data over Canada](nwp_nowcasting/changelog_nowcasting.md#tuesday-march-23-2023)
+* [Upgrade to version 2.1.0 of the INCS to incorporate S-band radar data over Canada](nwp_nowcasting/changelog_nowcasting.md#thursday-march-23-2023)
 
 ### March 8, 2023
 
@@ -344,7 +344,7 @@ Water, ocean and ice
 
 ### April 1, 2020
 
-* [FireWork Summer 2020 - Season debut](nwp_raqdps-fw/changelog_raqdps-fw.md#Wednesday-april-1-2020)
+* [FireWork Summer 2020 - Season debut](nwp_raqdps-fw/changelog_raqdps-fw.md#wednesday-april-1-2020)
 
 ### January 21, 2020
 
@@ -383,7 +383,7 @@ Water, ocean and ice
 ### March 4, 2019
 
 * [Regional Deterministic Wave Prediction System (RDWPS) 3.2.0](nwp_rdwps/changelog_rdwps.md#monday-march-4-2019)
-* [Operational declaration of the Water Cycle Prediction System (WCPS) 2.0.0](nwp_wcps/changelog_wcps.md#moday-march-4-2019)
+* [Operational declaration of the Water Cycle Prediction System (WCPS) 2.0.0](nwp_wcps/changelog_wcps.md#monday-march-4-2019)
 * [Regional Ensemble Wave Prediction System (REWPS) 1.2.0](nwp_rewps/changelog_rewps.md#monday-march-4-2019)
 
 ### January 30, 2019
@@ -526,7 +526,7 @@ Water, ocean and ice
 
 ### June 3, 2015
 
-* [Regional Deterministic Precipitation Analysis (RDPA (CaPA)) 3.1.0](nwp_rdpa/changelog_rdpa.md#wednesday-june-3-2015)
+* [Regional Deterministic Precipitation Analysis (RDPA (CaPA)) 3.1.0](nwp_rdpa/changelog_rdpa.md#wednesday-june-03-2015)
 
 ### April 16, 2015
 
@@ -553,8 +553,8 @@ Water, ocean and ice
 
 ### December 4, 2013
 
-* [Global Ensemble Prediction system (GEPS) 3.1.0](nwp_geps/changelog_geps.md#tuesday-december-4-2013)
-* [RegionalEnsemble Prediction system (REPS) 2.0.1](nwp_reps/changelog_reps.md#tuesday-december-4-2013)
+* [Global Ensemble Prediction system (GEPS) 3.1.0](nwp_geps/changelog_geps.md#wednesday-december-4th-2013)
+* [RegionalEnsemble Prediction system (REPS) 2.0.1](nwp_reps/changelog_reps.md#wednesday-december-4th-2013)
 
 ### November 20, 2013
 
@@ -613,7 +613,7 @@ Water, ocean and ice
 
 ### February 26, 2013
 
-* [Regional Air Quality Deterministic Prediction System (RAQDPS) 1.5.1](nwp_raqdps/changelog_raqdps.md#tuesday-frebruary-26-2013)
+* [Regional Air Quality Deterministic Prediction System (RAQDPS) 1.5.1](nwp_raqdps/changelog_raqdps.md#tuesday-february-26-2013)
 
 ### February 13, 2013
 

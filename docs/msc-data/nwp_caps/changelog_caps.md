@@ -28,7 +28,7 @@ A copy of the official announcement is available [at this link](https://dd.meteo
 #### Upgrade to Version 2.1.0 of the CAPS adapted to the New High Performance Computing Infrastructure.
 See details [at this link](../changelog_multisystems.md)
 
-## Tuesday June 28, 2018
+## Thursday June 28, 2018
 
 #### Major Upgrade to Version 1.1.0 of the experimental Canadian Arctic Prediction System (CAPS) at the Canadian Meteorological Centre
 On Tuesday June 28 2018, starting with the 1200 UTC run, the Meteorological Service of Canada's Canadian Meteorological Centre (CMC) upgraded the experimental Canadian Arctic Prediction System (CAPS) to version 1.1.0.

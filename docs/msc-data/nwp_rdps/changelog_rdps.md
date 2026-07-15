@@ -340,7 +340,7 @@ As was done for the RDPS at the time of the implementation of the [RDPS 3.1.0](.
 As a result of all of the above changes installed in this implementation, the RDPS operational system becomes version 3.2.0
 
 
-## Tuesday July 3rd 2013
+## Wednesday July 3rd 2013
 
 #### Update to the RDPS binary (in support of the production of the variable PX)
 
@@ -352,7 +352,7 @@ On Wednesday February 13 2013, starting with the 1200 UTC run, the Canadian Mete
 Please consult the documentation available regarding the GDPS-3.0.0 implementation [at this link for more information](../nwp_gdps/changelog_gdps.md).
 
 
-## Wednesday October 19 2012
+## Friday October 19 2012
 
 #### Regional Deterministic Prediction System (RDPS) Data Assimilation Window extended by 5 minutes
 Starting with the 18Z run of October 19 2012, the `[00,06,12,18]`Z runs of the RDPS will now be launched at `[00,06,12,18]`Z+2:00 allowing those runs to collect an additional 5 minutes of observation data prior to the model integration.
