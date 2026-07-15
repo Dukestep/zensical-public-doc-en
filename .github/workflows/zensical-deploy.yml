@@ -38,23 +38,113 @@ jobs:
           keep_files: true
 
       # Publishes a root index.html on the deployment repo's gh-pages branch
-      # that redirects visitors to the English site. Only one of the EN/FR
-      # workflows needs to own this file; keep_files ensures the other
+      # with a bilingual language picker (no auto-redirect). Only one of the
+      # EN/FR workflows needs to own this file; keep_files ensures the other
       # language's build never wipes it out.
       - name: Build language landing page
         run: |
           mkdir -p landing
+          cp docs/img_eccc-logo.png landing/img_eccc-logo.png
           cat > landing/index.html <<'EOF'
           <!DOCTYPE html>
           <html lang="en">
             <head>
               <meta charset="utf-8">
-              <meta http-equiv="refresh" content="0; url=./en/">
+              <meta name="viewport" content="width=device-width, initial-scale=1">
               <title>MSC Open Data / Données ouvertes du SMC</title>
-              <link rel="canonical" href="./en/">
+              <style>
+                :root {
+                  color-scheme: light dark;
+                  --bg: #fff;
+                  --fg: #1b1b1b;
+                  --accent: #1f5c99;
+                  --accent-fg: #fff;
+                  --border: #d8d8d8;
+                }
+                @media (prefers-color-scheme: dark) {
+                  :root {
+                    --bg: #1b1b1b;
+                    --fg: #f2f2f2;
+                    --accent: #4d9be6;
+                    --accent-fg: #10161c;
+                    --border: #3a3a3a;
+                  }
+                }
+                * { box-sizing: border-box; }
+                body {
+                  margin: 0;
+                  min-height: 100vh;
+                  display: flex;
+                  flex-direction: column;
+                  align-items: center;
+                  justify-content: center;
+                  gap: 2rem;
+                  padding: 2rem 1.5rem;
+                  background: var(--bg);
+                  color: var(--fg);
+                  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+                  text-align: center;
+                }
+                img.logo {
+                  max-width: min(420px, 90vw);
+                  height: auto;
+                }
+                h1 {
+                  font-size: 1.4rem;
+                  font-weight: 500;
+                  line-height: 1.6;
+                  margin: 0;
+                }
+                .choices {
+                  display: flex;
+                  flex-wrap: wrap;
+                  gap: 1rem;
+                  justify-content: center;
+                }
+                .choices a {
+                  display: inline-block;
+                  padding: 0.75rem 2.5rem;
+                  border-radius: 0.4rem;
+                  border: 1px solid var(--accent);
+                  background: var(--accent);
+                  color: var(--accent-fg);
+                  text-decoration: none;
+                  font-size: 1.1rem;
+                  font-weight: 600;
+                  transition: opacity 0.15s ease;
+                }
+                .choices a:hover,
+                .choices a:focus-visible {
+                  opacity: 0.85;
+                }
+                p.source {
+                  max-width: 40rem;
+                  font-size: 0.9rem;
+                  color: var(--fg);
+                  opacity: 0.75;
+                  margin: 0;
+                }
+                p.source a {
+                  color: var(--accent);
+                }
+              </style>
             </head>
             <body>
-              <p><a href="./en/">English</a> | <a href="./fr/">Français</a></p>
+              <img class="logo" src="./img_eccc-logo.png" alt="Environment and Climate Change Canada / Environnement et Changement climatique Canada">
+              <h1>
+                Meteorological Service of Canada open data documentation<br>
+                Documentation des données ouvertes du Service météorologique du Canada
+              </h1>
+              <nav class="choices">
+                <a href="./en/">English</a>
+                <a href="./fr/">Français</a>
+              </nav>
+              <p class="source">
+                The authoritative source for documentation is on
+                <a href="https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/weather-tools-specialized-data.html">Canada.ca</a>.<br>
+                La source de documentation qui fait autorité se trouve sur
+                <a href="https://www.canada.ca/fr/environnement-changement-climatique/services/conditions-meteorologiques-ressources-outils-generaux/outils-donnees-specialisees.html">Canada.ca</a>.
+              </p>
             </body>
           </html>
           EOF
