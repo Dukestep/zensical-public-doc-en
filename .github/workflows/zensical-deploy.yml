@@ -25,16 +25,45 @@ jobs:
         run: zensical build --clean
 
       # Pushes the built site/ into the /en/ subdirectory of the gh-pages branch
-      # on the central deployment repo. Replace OWNER/DEPLOY-REPO with the actual
-      # repository that hosts your GitHub Pages site.
-      #
-      # - name: Deploy to GitHub Pages
-      #   uses: peaceiris/actions-gh-pages@v4
-      #   with:
-      #     # Personal access token with repo write access to the deployment repo
-      #     personal_token: ${{ secrets.DEPLOY_TOKEN }}
-      #     external_repository: OWNER/DEPLOY-REPO
-      #     publish_branch: gh-pages
-      #     publish_dir: ./site
-      #     destination_dir: en
-      #     keep_files: true
+      # on the central deployment repo.
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          # Personal access token with repo write access to the deployment repo
+          personal_token: ${{ secrets.DEPLOY_TOKEN }}
+          external_repository: Dukestep/zensical-public-doc
+          publish_branch: gh-pages
+          publish_dir: ./site
+          destination_dir: en
+          keep_files: true
+
+      # Publishes a root index.html on the deployment repo's gh-pages branch
+      # that redirects visitors to the English site. Only one of the EN/FR
+      # workflows needs to own this file; keep_files ensures the other
+      # language's build never wipes it out.
+      - name: Build language landing page
+        run: |
+          mkdir -p landing
+          cat > landing/index.html <<'EOF'
+          <!DOCTYPE html>
+          <html lang="en">
+            <head>
+              <meta charset="utf-8">
+              <meta http-equiv="refresh" content="0; url=./en/">
+              <title>MSC Open Data / Données ouvertes du SMC</title>
+              <link rel="canonical" href="./en/">
+            </head>
+            <body>
+              <p><a href="./en/">English</a> | <a href="./fr/">Français</a></p>
+            </body>
+          </html>
+          EOF
+
+      - name: Deploy language landing page
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          personal_token: ${{ secrets.DEPLOY_TOKEN }}
+          external_repository: Dukestep/zensical-public-doc
+          publish_branch: gh-pages
+          publish_dir: ./landing
+          keep_files: true
