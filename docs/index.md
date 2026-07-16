@@ -63,12 +63,18 @@ Access to open data available on the MSC Datamart and MSC GeoMet services is ano
 
 === ":material-tools: Usage and tools"
 
-    * **[Usage overview](usage/index.md)**
-    * **[MSC AniMet](msc-animet/index.md)**
+    * [Usage overview](usage/index.md)
+    * [MSC AniMet](msc-animet/index.md)
 
 === ":material-school: Tutorials"
 
-    * [Access the tutorials available](usage/tutorials.md)
+    * [WMS layers in QGIS](usage/tutorial_WMS_QGIS.md)
+    * [Interactive maps with OpenLayers and Leaflet](usage/tutorial_web-maps.md)
+    * [Query WMS services with Python](usage/use-case_arthur/use-case_arthur.md)
+    * [OGC API - Features requests in Excel and R](usage/tutorial_OAFeat_R-Excel.md)
+    * [OGC API - Features in QGIS](usage/tutorial_OAFeat_QGIS.md)
+    * [Extract WCS data with GDAL](usage/tutorial_gdal/tutorial_gdal.md)
+
 
 === ":material-code-braces: Technical documentation"
 
