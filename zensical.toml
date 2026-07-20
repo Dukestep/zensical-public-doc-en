@@ -15,8 +15,6 @@ Copyright &copy; 2026 Meteorological Service of Canada
 """
 
 # Top-level navigation structure rendered as tabs and sidebar entries.
-# Each entry is { "Label" = "path/to/page.md" } or a nested list for sections.
-# Explicit navigation needed to generate the breadcrumb while having the desired headers.
 nav = [
   { "MSC Open Data" = "index.md" },
   { "Data" = [
@@ -161,7 +159,10 @@ nav = [
 ]
 
 # Additional CSS files loaded on every page (relative to docs/)
-extra_css = ["assets/stylesheets/extra.css"]
+# font-awesome.min.css restores the icons used by embedded map widgets
+# (playback controls, style/paintbrush picker) carried over from the old
+# MkDocs site's bundled theme, which Zensical doesn't ship.
+extra_css = ["assets/stylesheets/extra.css", "css/font-awesome.min.css"]
 
 [project.theme]
 # UI language for built-in labels (search placeholder, navigation arrows, etc.)
