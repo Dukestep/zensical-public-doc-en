@@ -98,7 +98,7 @@ nav = [
     {"Standardized Precipitation Evapotranspiration Index (SPEI)" = "msc-data/climate_spei/readme_spei.md"},
     {"Statistically downscaled climate indices" = "msc-data/climate_indices/readme_climateindices.md"},
     {"Historical observations" = "msc-data/climate_obs/readme_climateobs.md"},
-    {"Daily Climate Records (Long Term Climate Extremes)" = "msc-data/climate_ltce/readme_climateltce.md"},
+    {"Long Term Climate Extremes" = "msc-data/climate_ltce/readme_climateltce.md"},
 ]},
     {"Other data" = [
     {Bulletins = "msc-data/bulletins/readme_bulletins.md"},
@@ -148,14 +148,14 @@ nav = [
     "usage/index.md",
     {"Explore tutorials" ="usage/tutorials.md"},
     {"Usage of GRIB2 data format" = "msc-data/readme_grib.md"},
-    {"Service usage policy" ="usage-policy/index.md"},
   ] },
   { "FAQ" = ["faq/index.md"] },
   { "Contact us" = ["contact/index.md",
     {"End-use licence" = [
     "licence/index.md",
-]},
+    {"Service usage policy" ="usage-policy/index.md"},
   ] },
+]},
 ]
 
 # Additional CSS files loaded on every page (relative to docs/)
@@ -184,7 +184,6 @@ features = [
     "content.tabs.link",        # Keeps tab selection in sync across the page
     "content.tooltips",         # Replaces browser title tooltips with styled ones
     "navigation.indexes",       # Makes section index pages clickable in the nav
-    "navigation.path",          # Shows a breadcrumb path below the header
     "navigation.sections",      # Renders top-level nav items as expandable sections
     "navigation.tabs",          # Displays top-level nav items as horizontal tabs
     "navigation.tabs.sticky",   # Keeps the tabs bar visible while scrolling

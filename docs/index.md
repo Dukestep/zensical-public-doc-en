@@ -14,7 +14,7 @@ title: MSC Open Data
 
 ## Available open data
 
-**[Open data from the Meteorological Service of Canada (MSC)](msc-data/index.md)** provides weather, environmental, water and climate information at various spatial and temporal scales in Canada and around the world for a variety of application domains. The main categories of data available are:
+[Open data from the Meteorological Service of Canada (MSC)](msc-data/index.md) provides weather, environmental, water and climate information at various spatial and temporal scales in Canada and around the world for a variety of application domains. The main categories of data available are:
 
 * :material-weather-lightning-rainy: Weather warnings, current conditions and public forecasts
 * :material-thermometer: Meteorological, hydrological and environmental observations
@@ -22,7 +22,7 @@ title: MSC Open Data
 * :material-cloud: Air quality data
 * :material-chart-areaspline: Climate data from MSC and Environment and Climate Change Canada (ECCC)
 
-To meet more targeted needs in key application areas, **[this data is also available by theme.](msc-data-themes/index.md)**
+To meet more targeted needs in key application areas, [this data is also available by theme.](msc-data-themes/index.md)
 
 ---
 

@@ -276,9 +276,9 @@ function updateLayers() {
 function updateInfo() {
   let el = document.getElementById('info');
   if (dateIsLocal) {
-    el.innerHTML = `Time/Heure: ${currentTime.toLocaleString(navigator.local, dateOptions)}`
+    el.innerHTML = `Time: ${currentTime.toLocaleString(navigator.local, dateOptions)}`
   } else {
-    el.innerHTML = `Time/Heure: ${currentTime.toISOString().substr(0, 16) + "Z"}`
+    el.innerHTML = `Time: ${currentTime.toISOString().substr(0, 16) + "Z"}`
   }
 }
 

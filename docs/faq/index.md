@@ -1,8 +1,3 @@
----
-hide:
-    - navigation
----
-
 # MSC Open Data FAQ
 
 !!! question
