@@ -38,13 +38,16 @@ jobs:
           keep_files: true
 
       # Publishes a root index.html on the deployment repo's gh-pages branch
-      # with a bilingual language picker (no auto-redirect). Only one of the
-      # EN/FR workflows needs to own this file; keep_files ensures the other
-      # language's build never wipes it out.
+      # with a bilingual language picker (no auto-redirect), plus the bilingual
+      # 404 page. Both EN/FR workflows publish identical copies of these root
+      # files; keep_files ensures neither language's build wipes them out.
       - name: Build language landing page
         run: |
           mkdir -p landing
           cp docs/img_eccc-logo.png landing/img_eccc-logo.png
+          # Bilingual 404: rewrites legacy "…_en"/"…_fr" URLs to the new
+          # "/en/…" and "/fr/…" layout, and otherwise offers both language homes.
+          cp .github/pages/404.html landing/404.html
           cat > landing/index.html <<'EOF'
           <!DOCTYPE html>
           <html lang="en">
