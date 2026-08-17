@@ -1,5 +1,7 @@
 # Use case: anticipated profits based on precipitations probability
 
+[:lucide-download: Download the Jupyter notebook (.ipynb)](use-case_arthur.ipynb){ .md-button .md-button--plum }
+
 ## Introduction
 
 Weather, climate and water data from [MSC GeoMet](../../msc-geomet/index.md) geospatial web services can be easily used to predict demand associated with certain products or services. This usage example show how to extract and process raw meteorological data with [Python](https://www.python.org/) programming language to create a tool to calculate anticipated profits from sales depending on meteorological conditions. This use case teaches you how to:

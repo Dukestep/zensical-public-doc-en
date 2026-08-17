@@ -36,7 +36,7 @@ nav = [
     {"Hydrometric observations" = "msc-data/obs_hydrometric/readme_hydrometric.md"},
     {"Vertical profiles observations" = "msc-data/vertical-profiles/readme_vertical-profiles-obs.md"},
 ]},
-    {"NWEP forecasts" = [
+    {"Numerical weather and environmental prediction forecasts" = [
     {Atmosphere = [
     {Deterministic = [
     {"Global Deterministic Prediction System (GDPS)" = "msc-data/nwp_gdps/readme_gdps.md"},
@@ -128,26 +128,46 @@ nav = [
   ] },
   { "Access" = [
     "access/index.md",
-    { "MSC GeoMet" = [
-      "msc-geomet/index.md",
-      { "Web Map Service (WMS)" = "msc-geomet/wms.md" },
-      { "Web Coverage Service (WCS)" = "msc-geomet/wcs.md" },
-      { "OGC API" = "msc-geomet/ogc_api.md" },
-      { "STAC" = "msc-geomet/stac.md" },
-    ] },
-    { "MSC Datamart" = [
-    "msc-datamart/index.md",
-    { "Advanced Message Queuing Protocol" = "msc-datamart/amqp.md" },
-    { "Data retrieval with wget" = "msc-datamart/readme_wget-datamart.md" },
-] },
-    { "Cost-recovered services" = ["cost-recovered/index.md" ] },
-    { "MSC AniMet" = ["msc-animet/index.md" ] },
-    { "WMO WIS2" = ["wmo-wis2/index.md"]  },
+    { "MSC GeoMet" = "msc-geomet/index.md" },
+    { "MSC Datamart" = "msc-datamart/index.md" },
+    { "MSC AniMet" = "msc-animet/index.md" },
+    { "WMO WIS2" = "wmo-wis2/index.md" },
+    { "Cost-recovered services" = "cost-recovered/index.md" },
   ] },
   { "Usage and tutorials" = [
     "usage/index.md",
-    {"Explore tutorials" ="usage/tutorials.md"},
-    {"Usage of GRIB2 data format" = "msc-data/readme_grib.md"},
+    { "Tutorials" = [
+    { "Python" = [
+    { "Anticipated profits based on precipitations probability" = "usage/use-case_arthur/use-case_arthur.md" },
+    { "Retrieving and displaying hydrometric data" = "usage/use-case_oafeat/use-case_oafeat-script.md" },
+]},
+    { "QGIS" = [
+    { "Display, interact and animate WMS layers" = "usage/tutorial_WMS_QGIS.md" },
+    { "Using OGC API - Features data" = "usage/tutorial_OAFeat_QGIS.md" },
+    { "Adding raw geospatial files" = "usage/tutorial_raw-data_QGIS.md" },
+]},
+    { "Power BI" = [
+    { "Querying and using data with OGC API - Features using Power BI" = "usage/tutorial_OAFeat_Power-BI.md" },
+]},
+    { "R and Excel" = [
+    { "Querying data with OGC API - Features using R and VBA" = "usage/tutorial_OAFeat_R-Excel.md" },
+]},
+    { "GDAL" = [
+    { "GDAL command line tutorial with weather data" = "usage/tutorial_gdal/tutorial_gdal.md" },
+]},
+    { "Web maps" = [
+    { "Building interactive web maps with OpenLayers and Leaflet" = "usage/tutorial_web-maps.md" },
+]},
+]},
+    { "Technical documentation" = [
+    { "Web Map Service (WMS)" = "msc-geomet/wms.md" },
+    { "Web Coverage Service (WCS)" = "msc-geomet/wcs.md" },
+    { "OGC API" = "msc-geomet/ogc_api.md" },
+    { "STAC" = "msc-geomet/stac.md" },
+    { "Advanced Message Queuing Protocol" = "msc-datamart/amqp.md" },
+    { "Data retrieval with wget" = "msc-datamart/readme_wget-datamart.md" },
+    { "Usage of GRIB2 data format" = "msc-data/readme_grib.md" },
+]},
   ] },
   { "FAQ" = ["faq/index.md"] },
   { "Contact us" = ["contact/index.md",
@@ -163,6 +183,10 @@ nav = [
 # (playback controls, style/paintbrush picker) carried over from the old
 # MkDocs site's bundled theme, which Zensical doesn't ship.
 extra_css = ["assets/stylesheets/extra.css", "css/font-awesome.min.css"]
+
+# Additional JS files loaded on every page (relative to docs/)
+# nav-toggle.js adds the "Expand all / Collapse all" button to the sidebar.
+extra_javascript = ["assets/javascripts/nav-toggle.js"]
 
 [project.theme]
 # UI language for built-in labels (search placeholder, navigation arrows, etc.)
@@ -183,6 +207,7 @@ features = [
     "content.footnote.tooltips",# Renders footnotes as tooltips on hover
     "content.tabs.link",        # Keeps tab selection in sync across the page
     "content.tooltips",         # Replaces browser title tooltips with styled ones
+    "navigation.expand",        # Expands all collapsible sidebar sections by default
     "navigation.indexes",       # Makes section index pages clickable in the nav
     "navigation.sections",      # Renders top-level nav items as expandable sections
     "navigation.tabs",          # Displays top-level nav items as horizontal tabs

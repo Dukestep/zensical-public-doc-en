@@ -40,7 +40,7 @@ Example of a web map configured to display the `Current-Alerts` layer served by 
 
 ### Usage
 
-The [usage overview page](../../usage/index.md) provides generic information on using these services with desktop software, mobile apps, interactive web maps and direct access. Please refer to the [tutorials](../../usage/tutorials.md) and [technical documentation for MSC GeoMet geospatial web services](../../msc-geomet/index.md#available-ogc-standards) for detailed information. See also the [main weather alerts data page](readme_alerts.md) which links to additional information on weather alerts.
+The [usage overview page](../../usage/index.md) provides generic information on using these services with desktop software, mobile apps, interactive web maps and direct access, along with tutorials for common use cases. Please refer to the [technical documentation for MSC GeoMet geospatial web services](../../msc-geomet/index.md#available-ogc-standards) for detailed information. See also the [main weather alerts data page](readme_alerts.md) which links to additional information on weather alerts.
 
 ### Available layers
 

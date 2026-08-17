@@ -8,7 +8,7 @@ The lightning layer is [available on GeoMet-Weather via the Web Map Service (WMS
 
 ## Usage
 
-The [usage overview page](../../usage/index.md) provides generic information on using these services with desktop software, mobile apps, interactive web maps and direct access. Please refer to the [tutorials](../../usage/tutorials.md) and [technical documentation for MSC GeoMet geospatial web services](../../msc-geomet/index.md#available-ogc-standards) for detailed information. See also the [main lightning data page](readme_lightning.md) which links to additional information on weather alerts.
+The [usage overview page](../../usage/index.md) provides generic information on using these services with desktop software, mobile apps, interactive web maps and direct access, along with tutorials for common use cases. Please refer to the [technical documentation for MSC GeoMet geospatial web services](../../msc-geomet/index.md#available-ogc-standards) for detailed information. See also the [main lightning data page](readme_lightning.md) which links to additional information on weather alerts.
 
 ### Available layers
 

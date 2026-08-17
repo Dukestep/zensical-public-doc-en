@@ -1,5 +1,7 @@
 # GDAL command line tutorial with weather data
 
+[:lucide-download: Download the Jupyter notebook (.ipynb)](tutorial_gdal.ipynb){ .md-button .md-button--plum }
+
 ## Introduction
 
 [MSC GeoMet](../../msc-geomet/index.md) and [MSC Datamart](../../msc-datamart/index.md) data can be manipulated via the command line using [GDAL](https://gdal.org/), a widely-known software library used to read and write raster and vector geospatial data. In the following examples, you'll use a GeoTIFF file retrieved using via a Web Coverage Service (WCS) request to MSC GeoMet. This tutorial will show you how to:

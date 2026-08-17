@@ -26,7 +26,7 @@ Example of a web map configured to display the Satellite Imagery in natural colo
 
 ## Usage
 
-The [usage overview page](../../usage/index.md) provides generic information on using OGC services with desktop software, mobile apps, interactive web maps and direct access. Please refer to the [tutorials](../../usage/tutorials.md) and [technical documentation for MSC GeoMet geospatial web services](../../msc-geomet/index.md#available-ogc-standards) for detailed information. See also the [main weather satellite data page](readme_satellite.md) which links to additional information on weather satellite layers.
+The [usage overview page](../../usage/index.md) provides generic information on using OGC services with desktop software, mobile apps, interactive web maps and direct access, along with tutorials for common use cases. Please refer to the [technical documentation for MSC GeoMet geospatial web services](../../msc-geomet/index.md#available-ogc-standards) for detailed information. See also the [main weather satellite data page](readme_satellite.md) which links to additional information on weather satellite layers.
 
 ### Available layers
 

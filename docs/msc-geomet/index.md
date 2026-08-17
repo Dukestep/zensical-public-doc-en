@@ -33,7 +33,6 @@ The MSC GeoMet Platform consists in the following services:
 For further information regarding how to use MSC GeoMet services, see the following pages:
 
 *    [Usage overview](../usage/index.md)
-*    [Tutorials and guides on ways to use MSC GeoMet services](../usage/tutorials.md)
 
 ## Available OGC standards
 
