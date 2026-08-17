@@ -153,7 +153,7 @@ We encourage users to subscribe to the [GeoMet-Info](https://comm.collab.science
     }
 
     .arrow {
-      border: solid #2fa4e7;
+      border: solid #4e64a6;
       border-width: 0 3px 3px 0;
       display: inline-block;
       padding: 3px;

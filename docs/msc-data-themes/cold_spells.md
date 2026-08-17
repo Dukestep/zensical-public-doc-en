@@ -90,7 +90,6 @@ It should be noted that the various layers presented in the list are available a
     top: 80px;
   }
  #switch-content {
-  background-color: white;
   border-radius: 6px;
   padding: 7px;
 }

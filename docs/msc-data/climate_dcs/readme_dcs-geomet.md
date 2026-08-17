@@ -30,7 +30,7 @@ Example of a web map configured to display the [DCS.PR.RCP26.YEAR.2021-2040_PCTL
   </div>
 </div>
 </div>
-<div id="controller" role="group" aria-label="Animation controls" style="background: #ececec; padding: 0.5rem;">
+<div id="controller" role="group" aria-label="Animation controls">
   <button id="exportmap" class="btn btn-primary btn-sm" type="button"><i class="fa fa-download" style="padding: 0rem 1rem"></i></button>
   <a id="image-download" download="msc-geomet_web-map_export.png"></a>
 </div>

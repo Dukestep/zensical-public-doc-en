@@ -56,21 +56,32 @@ jobs:
               <meta name="viewport" content="width=device-width, initial-scale=1">
               <title>MSC Open Data / Données ouvertes du SMC</title>
               <style>
+                /* Palette mirrors the documentation's extra.css: pale
+                   grey-blue canvas, indigo links and buttons, plum accent
+                   from the header. Keep in sync with .github/pages/404.html. */
                 :root {
                   color-scheme: light dark;
-                  --bg: #fff;
+                  --bg: #eaecef;
+                  --surface: #fff;
                   --fg: #1b1b1b;
-                  --accent: #1f5c99;
+                  --accent: #4e64a6;
                   --accent-fg: #fff;
-                  --border: #d8d8d8;
+                  --plum: #5b4b8a;
+                  --border: #cfd4dc;
+                  --btn: #4e64a6;
+                  --btn-hover: #3a4a7d;
                 }
                 @media (prefers-color-scheme: dark) {
                   :root {
-                    --bg: #1b1b1b;
+                    --bg: #2e303e;
+                    --surface: #3a3c4c;
                     --fg: #f2f2f2;
-                    --accent: #4d9be6;
-                    --accent-fg: #10161c;
-                    --border: #3a3a3a;
+                    --accent: #9aa8d8;
+                    --accent-fg: #fff;
+                    --plum: #453a6b;
+                    --border: #4a4d5e;
+                    --btn: #4e64a6;
+                    --btn-hover: #6b7fbb;
                   }
                 }
                 * { box-sizing: border-box; }
@@ -85,12 +96,26 @@ jobs:
                   padding: 2rem 1.5rem;
                   background: var(--bg);
                   color: var(--fg);
-                  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+                  font-family: Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
                   text-align: center;
                 }
                 img.logo {
                   max-width: min(420px, 90vw);
                   height: auto;
+                }
+                /* Card with a plum top rule, echoing the .grid.cards
+                   treatment used throughout the documentation. */
+                main {
+                  max-width: 44rem;
+                  display: flex;
+                  flex-direction: column;
+                  align-items: center;
+                  gap: 2rem;
+                  background: var(--surface);
+                  border-top: 3px solid var(--plum);
+                  border-radius: 0.2rem;
+                  box-shadow: 0 0.1rem 0.4rem rgba(0, 0, 0, 0.12);
+                  padding: 2rem 1.75rem;
                 }
                 h1 {
                   font-size: 1.4rem;
@@ -107,18 +132,19 @@ jobs:
                 .choices a {
                   display: inline-block;
                   padding: 0.75rem 2.5rem;
-                  border-radius: 0.4rem;
-                  border: 1px solid var(--accent);
-                  background: var(--accent);
+                  border-radius: 0.2rem;
+                  border: 1px solid var(--btn);
+                  background: var(--btn);
                   color: var(--accent-fg);
                   text-decoration: none;
                   font-size: 1.1rem;
                   font-weight: 600;
-                  transition: opacity 0.15s ease;
+                  transition: background-color 0.15s ease, border-color 0.15s ease;
                 }
                 .choices a:hover,
                 .choices a:focus-visible {
-                  opacity: 0.85;
+                  background: var(--btn-hover);
+                  border-color: var(--btn-hover);
                 }
                 p.source {
                   max-width: 40rem;
@@ -134,20 +160,22 @@ jobs:
             </head>
             <body>
               <img class="logo" src="./img_eccc-logo.png" alt="Environment and Climate Change Canada / Environnement et Changement climatique Canada">
-              <h1>
-                Meteorological Service of Canada open data documentation<br>
-                Documentation des données ouvertes du Service météorologique du Canada
-              </h1>
-              <nav class="choices">
-                <a href="./en/">English</a>
-                <a href="./fr/">Français</a>
-              </nav>
-              <p class="source">
-                The authoritative source for documentation is on
-                <a href="https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/weather-tools-specialized-data.html">Canada.ca</a>.<br>
-                La source de documentation qui fait autorité se trouve sur
-                <a href="https://www.canada.ca/fr/environnement-changement-climatique/services/conditions-meteorologiques-ressources-outils-generaux/outils-donnees-specialisees.html">Canada.ca</a>.
-              </p>
+              <main>
+                <h1>
+                  Meteorological Service of Canada open data documentation<br>
+                  Documentation des données ouvertes du Service météorologique du Canada
+                </h1>
+                <nav class="choices">
+                  <a href="./en/">English</a>
+                  <a href="./fr/">Français</a>
+                </nav>
+                <p class="source">
+                  The authoritative source for documentation is on
+                  <a href="https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/weather-tools-specialized-data.html">Canada.ca</a>.<br>
+                  La source de documentation qui fait autorité se trouve sur
+                  <a href="https://www.canada.ca/fr/environnement-changement-climatique/services/conditions-meteorologiques-ressources-outils-generaux/outils-donnees-specialisees.html">Canada.ca</a>.
+                </p>
+              </main>
             </body>
           </html>
           EOF

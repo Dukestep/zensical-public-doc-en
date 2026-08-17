@@ -112,7 +112,7 @@ The [weather forecast guide](https://www.canada.ca/en/environment-climate-change
     }
 
     .arrow {
-      border: solid #2fa4e7;
+      border: solid #4e64a6;
       border-width: 0 3px 3px 0;
       display: inline-block;
       padding: 3px;

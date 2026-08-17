@@ -105,7 +105,7 @@ The [metadata of the MetNotes is available on the Open Government Portal](https:
     }
 
     .arrow {
-      border: solid #2fa4e7;
+      border: solid #4e64a6;
       border-width: 0 3px 3px 0;
       display: inline-block;
       padding: 3px;
