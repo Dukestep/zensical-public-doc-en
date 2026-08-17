@@ -69,7 +69,7 @@ List of variables available in the files:
 
 <link href="https://cdn.jsdelivr.net/npm/simple-datatables@latest/dist/style.css" rel="stylesheet" type="text/css">
 <script src="https://cdn.jsdelivr.net/npm/simple-datatables@latest"></script>
-<script src="../../../js/variables_datatable.js" type="text/javascript"></script>
+<script src="../../js/variables_datatable.js" type="text/javascript"></script>
 <script>
   loadTable("csv-table", "../../../assets/csv/NSRPS_Variables-List_en.csv");
 </script>

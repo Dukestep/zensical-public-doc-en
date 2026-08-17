@@ -124,4 +124,4 @@ The [metadata of the MetNotes is available on the Open Government Portal](https:
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@v7.3.0/ol.css" type="text/css"/>
 <script src="https://cdn.jsdelivr.net/npm/ol@v7.3.0/dist/ol.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/luxon@3.0.1/build/global/luxon.min.js" integrity="sha256-uQ0RrcqAQ8NxzNqZH11eXx3qFLAgwEgSQN1V0N1+UlM=" crossorigin="anonymous"></script>
-<script src="../../../js/metnotes_en.js" type="text/javascript"></script>
+<script src="../../js/metnotes_en.js" type="text/javascript"></script>
