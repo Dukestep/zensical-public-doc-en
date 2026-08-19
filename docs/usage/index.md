@@ -12,7 +12,7 @@ The Meteorological Service of Canada provides up-to-date information on past, pr
 
 [MSC AniMet](../msc-animet/index.md) is a simple tool enabling users to interact with MSC Open Data weather data and create custom weather animations for any area in the world. The resulting animations can be downloaded and shared with a permalink.
 
-### Desktop software 
+### Desktop software
 
 MSC open data can be visualized in desktop software by either (A) connecting to [MSC GeoMet](../msc-geomet/index.md) Web Map Service (WMS) web services or (B) by downloading the raw data from [MSC Datamart](../msc-datamart/index.md) or MSC GeoMet Web Coverage Service (WCS) and OGC API- Features (WFS 3) web services and loading the raw data in the application.
 
@@ -24,7 +24,7 @@ The following tutorials are available for the QGIS desktop software: [add, query
 
 ### Interactive web maps and mobile apps
 
-MSC open data can also easily be integrated into interactive maps in browsers and mobile applications. 
+MSC open data can also easily be integrated into interactive maps in browsers and mobile applications.
 
 #### In a web browser
 
@@ -72,17 +72,20 @@ The following WMS GetMap request returns an image of the Global Deterministic Pr
 https://geo.weather.gc.ca/geomet?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetMap&BBOX=-90,-180,90,180
 &CRS=EPSG:4326&WIDTH=600&HEIGHT=301&LAYERS=GDPS_15km_AirTemp_2m&FORMAT=image/png
 ```
+
 Returns:
 
-![Global Deterministic Prediction System (GDPS) surface temperature](https://geo.weather.gc.ca/geomet?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetMap&BBOX=-90,-180,90,180&CRS=EPSG:4326&WIDTH=600&HEIGHT=301&LAYERS=GDPS_15km_AirTemp_2m&FORMAT=image/png) 
+![Global Deterministic Prediction System (GDPS) surface temperature](https://geo.weather.gc.ca/geomet?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetMap&BBOX=-90,-180,90,180&CRS=EPSG:4326&WIDTH=600&HEIGHT=301&LAYERS=GDPS_15km_AirTemp_2m&FORMAT=image/png)
 
 #### Example 2 - Global Ice Ocean Prediction System (GIOPS) Sea Water Salinity
 
 The following WMS GetMap request returns an image of the Global Ice Ocean Prediction System (GIOPS) sea water salinity layer. The image is created on-demand at the time of the request.
+
 ```
 https://geo.weather.gc.ca/geomet?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetMap&BBOX=-90,-180,90,180
 &CRS=EPSG:4326&WIDTH=600&HEIGHT=301&LAYERS=OCEAN.GIOPS.2D_SALW&FORMAT=image/png
 ```
+
 Returns:
 
 ![Sea Water Salinity from the Global Ice Ocean Prediction System (GIOPS) model](https://geo.weather.gc.ca/geomet?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetMap&BBOX=-90,-180,90,180&CRS=EPSG:4326&WIDTH=600&HEIGHT=301&LAYERS=OCEAN.GIOPS.2D_SALW&FORMAT=image/png)
@@ -91,15 +94,15 @@ Returns:
 
 The examples above define a handful of parameters and send a GetMap request to MSC GeoMet. Below is a short explanation of each parameter in the request:
 
-* **SERVICE** - The name of the Open GeoSpatial Consortium Web Service to use in the request. In both examples, the OGC Web Map Service (WMS) is used
-* **VERSION** - The service version, in this case `1.3.0`
-* **REQUEST** - The specified request type. The WMS services specifies several different request types. In this case, a GetMap request is specified, which returns a map image
-* **BBOX** - The bounding box of the requested image. In our case, we are making a request for an image that covers the entire surface of the Earth. Coordinates are provided in the units of the Coordinate Reference System defined in the following parameter
-* **CRS** - The coordinate reference system (CRS) used to create the map image. In both examples, we set the CRS to `EPSG:4326` (i.e. WGS 84), the coordinate reference system used for the Global Positioning System (GPS)
-* **WIDTH** - The width in pixels of the returned image
-* **HEIGHT** - The height in pixels of the returned image
-* **LAYERS** - The name of the layer used to create the image. The list and name of the available layers can be retrieved using a WMS GetCapabilities request. For best performances, it is recommended to specify one layer per WMS GetMap request
-* **FORMAT** - The format of the image returned by the WMS GetMap request. In both cases case, the returned image will be in the PNG format
+- **SERVICE** - The name of the Open GeoSpatial Consortium Web Service to use in the request. In both examples, the OGC Web Map Service (WMS) is used
+- **VERSION** - The service version, in this case `1.3.0`
+- **REQUEST** - The specified request type. The WMS services specifies several different request types. In this case, a GetMap request is specified, which returns a map image
+- **BBOX** - The bounding box of the requested image. In our case, we are making a request for an image that covers the entire surface of the Earth. Coordinates are provided in the units of the Coordinate Reference System defined in the following parameter
+- **CRS** - The coordinate reference system (CRS) used to create the map image. In both examples, we set the CRS to `EPSG:4326` (i.e. WGS 84), the coordinate reference system used for the Global Positioning System (GPS)
+- **WIDTH** - The width in pixels of the returned image
+- **HEIGHT** - The height in pixels of the returned image
+- **LAYERS** - The name of the layer used to create the image. The list and name of the available layers can be retrieved using a WMS GetCapabilities request. For best performances, it is recommended to specify one layer per WMS GetMap request
+- **FORMAT** - The format of the image returned by the WMS GetMap request. In both cases case, the returned image will be in the PNG format
 
 For further information regarding these and other WMS GetMap parameters, refer to the [technical MSC GeoMet web services documentation](../msc-geomet/wms.md).
 
@@ -111,18 +114,18 @@ Raw MSC data can be retrieved from the [MSC GeoMet web services](../msc-geomet/i
 
 The following use case examples are provided:
 
-* [Arthur: profits based on the probability of precipitation](use-case_arthur/use-case_arthur.ipynb):
-    * Access and use the MSC GeoMet data API directly from a Python script, specifically the OGC Web Map Service (WMS) standard to create data tables and graphs
-* [Cathy: tracking water levels at hydrometric stations](use-case_oafeat/use-case_oafeat-script.ipynb):
-    * Access and use the MSC GeoMet data API directly from a Python script, specifically the OGC API - Features (OAFeat) standard to create time series and interactive maps
-* Gerald: upper air observations for storm chasing:
-    * Access and use the MSC GeoMet data API directly from a Python script, specifically the OGC API - Process (OAProc) standard to create data tables and graphs
+- [Arthur: profits based on the probability of precipitation](use-case_arthur/use-case_arthur.ipynb):
+  - Access and use the MSC GeoMet data API directly from a Python script, specifically the OGC Web Map Service (WMS) standard to create data tables and graphs
+- [Cathy: tracking water levels at hydrometric stations](use-case_oafeat/use-case_oafeat-script.ipynb):
+  - Access and use the MSC GeoMet data API directly from a Python script, specifically the OGC API - Features (OAFeat) standard to create time series and interactive maps
+- Gerald: upper air observations for storm chasing:
+  - Access and use the MSC GeoMet data API directly from a Python script, specifically the OGC API - Process (OAProc) standard to create data tables and graphs
 
 Raw data at specific geographic locations can be retrieved with a Web Map Service (WMS) GetFeatureInfo request. Details are provided [in the technical documentation](../msc-geomet/wms.md#wms-getfeatureinfo). Example of a [WMS GetFeatureInfo request for temperature from the Global Deterministic Prediction System (GDPS) model over Montreal, Canada](https://geo.weather.gc.ca/geomet/?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetFeatureInfo&QUERY_LAYERS=GDPS_15km_AirTemp_2m&INFO_FORMAT=application/json&i=5&j=5&EXCEPTIONS=xml&LAYERS=GDPS_15km_AirTemp_2m&CRS=EPSG:4326&BBOX=45.50,-73.56,45.51,-73.55&WIDTH=10&HEIGHT=10).
 
 Raw data for vector data can be retrieved with a OGC API - Features (WFS 3) request. Example of a [WFS 3 query for the Winnipeg River hydrometric station daily means](https://api.weather.gc.ca/collections/hydrometric-daily-mean/items?STATION_NUMBER=05PF049) which returns the corresponding data as a GeoJSON file.
 
-Raw data for raster data can be retrieved with a Web Coverage Service (WCS) request. Example of a [WCS 2 query for the Regional Deterministic Precipitation Analysis (RDPA) model in the netCDF format for a specific time](https://geo.weather.gc.ca/geomet?SERVICE=WCS&VERSION=2.0.1&REQUEST=GetCoverage&COVERAGEID=RDPA.6F_PR&SUBSETTINGCRS=EPSG:4326&FORMAT=image/netcdf&TIME=2019-05-14T12:00:00Z). [A tutorial is available for saving a WCS request output to disk](tutorial_gdal/tutorial_gdal.ipynb). A tip to build WCS queries is to use the [Canadian Centre for Climate Services WCS Query builder interface for an RDPA layer](https://climate-change.canada.ca/climate-data/#/regional-deterministic-precipitation-analysis) and replace the COVERAGEID value from RDPA.* to another available layer.
+Raw data for raster data can be retrieved with a Web Coverage Service (WCS) request. Example of a [WCS 2 query for the Regional Deterministic Precipitation Analysis (RDPA) model in the netCDF format for a specific time](https://geo.weather.gc.ca/geomet?SERVICE=WCS&VERSION=2.0.1&REQUEST=GetCoverage&COVERAGEID=RDPA.6F_PR&SUBSETTINGCRS=EPSG:4326&FORMAT=image/netcdf&TIME=2019-05-14T12:00:00Z). [A tutorial is available for saving a WCS request output to disk](tutorial_gdal/tutorial_gdal.ipynb). A tip to build WCS queries is to use the [Canadian Centre for Climate Services WCS Query builder interface for an RDPA layer](https://climate-change.canada.ca/climate-data/#/regional-deterministic-precipitation-analysis) and replace the COVERAGEID value from RDPA.\* to another available layer.
 
 ### Raw data download
 
@@ -174,12 +177,12 @@ Data can be manipulated using commands from the GDAL software library. A [tutori
     js.type = "text/javascript";
     if (isIE())
     {
-        js.src = "../../js/radar_ie.js";
+        js.src = "../js/radar_ie.js";
         document.getElementById("controller").setAttribute("hidden", true);
     }
     else
     {
-        js.src = "../../js/radar.js";
+        js.src = "../js/radar.js";
     }
     head.appendChild(js);
 </script>
