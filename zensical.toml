@@ -7,7 +7,7 @@ site_name = "Meteorological Service of Canada open data documentation"
 site_description = "Meteorological Service of Canada open data documentation"
 site_author = "Meteorological Service of Canada"
 # Deployed base URL — required for sitemap.xml and instant link previews
-site_url = "https://dukestep.github.io/zensical-public-doc/en/"
+site_url = "https://dukestep.github.io/open-data/en/"
 
 # Footer copyright notice (HTML is allowed)
 copyright = """
@@ -251,8 +251,8 @@ toggle.name = "Switch to light mode"
 # Extra site-wide variables — here used to configure the language switcher
 [project.extra]
 alternate = [
-  { name = "English", link = "/zensical-public-doc/en/", lang = "en" },
-  { name = "Français", link = "/zensical-public-doc/fr/", lang = "fr" }
+  { name = "English", link = "/open-data/en/", lang = "en" },
+  { name = "Français", link = "/open-data/fr/", lang = "fr" }
 ]
 
 # 
